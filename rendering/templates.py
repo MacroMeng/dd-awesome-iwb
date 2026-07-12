@@ -1,3 +1,6 @@
+from dataclasses import dataclass
+
+
 home = """\
 <div align="center">
 
@@ -100,3 +103,35 @@ home = """\
 ## Copyright
 
 © Copyright 2025-2026 智教联盟SmartTeachCN"""
+
+
+@dataclass
+class _Project:
+    """为项目生成 Readme 文本的类"""
+
+    header = """\
+<img src={logo} width="56" height="56"/>
+
+### {name}
+
+![banner]({banner})
+"""
+    badges = """\
+{gen_tags}
+[![stars](https://img.shields.io/github/stars/{github}?style=flat&color=red)](https://github.com/{github}/stargazers)
+[![forks](https://img.shields.io/github/forks/{github}?style=flat&color=blue)](https://github.com/{github}/forks)
+[![Watchers](https://img.shields.io/github/watchers/{github}?style=flat&color=green)](https://github.com/{github}/watchers)
+[![Downloads](https://img.shields.io/github/downloads/{github}/total?style=flat&logo=github)](https://github.com/{github}/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/{github}?query=is%3Aopen&label=issues&color=purple)](https://github.com/{github}/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/{github}?style=flat)](https://github.com/{github}/discussions)
+[![Created At](https://img.shields.io/github/created-at/{github})](https://github.com/{github})
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/{github})](https://github.com/{github}/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/{github})](https://github.com/{github})
+[![GitHub Top Language](https://img.shields.io/github/languages/top/{github})](https://github.com/{github})
+![GitHub License](https://img.shields.io/github/license/{github}?color=red)
+{qq_chat}
+"""
+    description = ""
+    keywords = ""
+    comments = ""
+    links = ""
