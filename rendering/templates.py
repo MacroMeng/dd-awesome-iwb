@@ -79,72 +79,24 @@ home = """\
 
 ## 速览
 
-[![Quicklook Page goto](./rendering/images/quicklook.png)](./docs/quicklook.md)
+[![Quicklook Page goto](./rendering/images/quicklook.svg)](./docs/quicklook.md)
 
 ## ✏️ 屏幕批注与白板软件
 
-[![notation_and_whiteboard goto](./rendering/images/notation_and_whiteboard.png)](./docs/notation_and_whiteboard.md)
+[![notation_and_whiteboard goto](./rendering/images/notation_and_whiteboard.svg)](./docs/notation_and_whiteboard.md)
 
 ## 🗓️ 课表与看板类软件
 
-[![timetable_and_dashboard goto](./rendering/images/timetable_and_dashboard.png)](./docs/timetable_and_dashboard.md)
+[![timetable_and_dashboard goto](./rendering/images/timetable_and_dashboard.svg)](./docs/timetable_and_dashboard.md)
 
 ## 🛠️ 辅助类软件与实用工具
 
-[![timetable_and_dashboard goto](./rendering/images/timetable_and_dashboard.png)](./docs/timetable_and_dashboard.md)
+[![utilities_and_tools goto](./rendering/images/utilities_and_tools.svg)](./docs/utilities_and_tools.md)
 
+## ℹ️ 关于项目
 
-## 🌟 Stars 历史图表
-
-<div align="center">
-
-[![Star 历史](https://starchart.cc/Awesome-Iwb/Awesome-Iwb.svg?variant=adaptive)](https://starchart.cc/Awesome-Iwb/Awesome-Iwb/stargazers)
-
-**如果这个项目对您有帮助，请点亮 Star ⭐！**
-
-</div>
-
-
-## 📄 协议
-
-<p xmlns:cc="http://creativecommons.org/ns#" >本作品已获得 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0 许可<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
-
-## 💗 友情链接
-
-- [iNKORE!](https://www.inkore.net/) - iNKORE! 官方网站
-
-  本集合收录的部分项目使用了 iNKORE.UI.WPF.Modern 作为其 UI 库。
-  <image src="https://github.com/iNKORE-NET/UI.WPF.Modern/blob/main/assets/images/badges/UI.WPF.Modern_Main_Button.svg?raw=true" alt="iNKORE.UI.WPF.Modern"/>
-
-- [PhosoftWebPages](https://xiapo.top/) - 溪夏坡Zpcin 的个人网站
-89	+
-- [Awesome-Class-Softwares](https://acs.jursin.top/) - Awesome-Class-Softwares 网站
-3990	+
-- [Jursin's Blog](https://blog.jursin.top/) - Jursin 的博客
-- [宏星工作室｜MacroSTAR](https://macrostar.top/) - 宏星工作室官方网站，满天星光，终将汇聚宏伟星河！
-- [电教委员指南](https://cnel.smart-teach.cn/) - 做一名优秀的电教委员
-
-## 🔗 相关链接
-
-- <image src="https://github.com/ClassIsland.png" height="18"/> **[ClassIsland Hub](https://hub.classisland.tech/)** - 展示亿些 ClassIsland 交流群/频道里面的乐子。
-
-- **[RinlitHub](https://mcableblank.github.io/RinlitHub/)** - Class-Widgets 开发者的Hub，收集 CW 交流群里面的乐子。
-
-- <image src="./images/misaka-space-icon.png" height="18"/> **[电教委入门指南](https://tutorial.misaka.space/)** - 从小白到高手，轻松玩转班级一体机。
-
-- <image src="./images/misaka-space-icon.png" height="18"/> **[seewoGeekWiki](https://wiki.misaka.space/)** - 希沃业绩售后冲击部官方 Wiki。
-
-- **[希沃折腾手册](https://www.kdocs.cn/l/coHT3CUcoQDV)** - 希沃一体机折腾手册，整理了许多一体机折腾的教程。
-
-
-## 👋 同类项目推荐
-
-
-[![Jursin/Awesome-Class-Softwares](https://github-readme-stats-indol-phi-94.vercel.app/api/pin/?username=Jursin&repo=Awesome-Class-Softwares&show_owner=true)](https://github.com/Jursin/Awesome-Class-Softwares)
+[![about goto](./rendering/images/about.svg)](./docs/about.md)
 
 ## Copyright
 
-© Copyright 2025-2026 智教联盟SmartTeachCN
-
-
-"""
+© Copyright 2025-2026 智教联盟SmartTeachCN"""
