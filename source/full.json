@@ -1,0 +1,2220 @@
+{
+    "fields": [
+        {
+            "name": "✏️ 屏幕批注与白板软件",
+            "id": "notation_and_whiteboard"
+        },
+        {
+            "name": "📊 课表与看板类软件",
+            "id": "timetable_and_dashboard"
+        },
+        {
+            "name": "🛠️ 辅助类软件与实用工具",
+            "id": "utilities_and_tools"
+        }
+    ],
+    "tags": [
+        {
+            "id": "stopped_updating",
+            "name": "停更",
+            "display": "![停更](https://img.shields.io/badge/%E5%81%9C%E6%9B%B4-%23b91c1c?style=flat&label=)"
+        },
+        {
+            "id": "closed_source",
+            "name": "闭源",
+            "display": "![闭源](https://img.shields.io/badge/%E9%97%AD%E6%BA%90-%23ca8a04?style=flat&label=)"
+        }
+    ],
+    "content": {
+        "notation_and_whiteboard": [
+            {
+                "name": "Ink Canvas",
+                "logo": "https://github.com/WXRIW/Ink-Canvas/raw/master/Ink%20Canvas/Resources/InkCanvas.png?raw=true",
+                "developer": "WXRIW",
+                "description": "Ink Canvas 画板是一款轻量级画板软件，基于 WPF/C#，其针对希沃一体机进行了特别优化，与预装的“希沃白板 5”软件相比，启动速度大幅度提升（提升 5-10 倍），系统资源占用更小，使用体验更佳。\n\n学校从传统投影仪换成了希沃白板，由于自带的“希沃白板”软件太难用，也没有同类好用的画板软件，所以开发了该画板。（IC 已死，有事也别烧纸，~~等重制版吧~~ **向下翻翻，去用icp吧**）",
+                "keywords": [
+                    "屏幕批注",
+                    "屏幕画板",
+                    "桌面批注",
+                    "Ink Canvas",
+                    "白板软件",
+                    "形状识别"
+                ],
+                "comments": [
+                    {
+                        "commenter": "Dubi906w",
+                        "content": "某种意义上来说，如果你想要一个纯粹的屏幕画板，IC 可以是你的选择之一，同时它的诞生，也才有了后面 ICA 和 ICC 的诞生。如果要在教室里面使用不是很合适。"
+                    }
+                ],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/WXRIW/Ink-Canvas/",
+                        "display_source": "GitHub 1",
+                        "display_link": "WXRIW/Ink-Canvas"
+                    },
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/InkCanvas/Ink-Canvas/",
+                        "display_source": "GitHub 2",
+                        "display_link": "InkCanvas/Ink-Canvas"
+                    },
+                    {
+                        "icon": "microsoft-store",
+                        "url": "https://www.microsoft.com/store/apps/9NXJFDD97XJ3?cid=ghreadme",
+                        "display_source": "微软商店",
+                        "display_link": "Ink Canvas - WXRIW"
+                    }
+                ],
+                "note": "该项目已经停更。"
+            },
+            {
+                "name": "Ink Canvas Plus",
+                "logo": "https://github.com/clover-yan/Ink-Canvas-Plus/raw/master/Ink%20Canvas/Resources/InkCanvas.png?raw=true",
+                "developer": "Clover Yan",
+                "description": "Ink Canvas Plus 是一款由 Clover Yan 维护、复刻自 WXRIW/Ink Canvas 的 Windows 画板应用，旨在优化各方面的使用体验，并尽可能保留原版 Ink Canvas 的操作体验。并且提供了更为简洁直观的用户界面，并修复了诸多原版 Ink Canvas 的问题，易于上手，非常适合课堂教学和个人笔记等场景。无论你是学生、教师还是专业人士，都能轻松使用这款应用进行绘图和笔记。",
+                "keywords": [
+                    "屏幕绘图",
+                    "屏幕批注",
+                    "桌面批注",
+                    "PPT批注",
+                    "白板软件",
+                    "边缘手势屏蔽",
+                    "Ink Canvas"
+                ],
+                "comments": [
+                    {
+                        "commenter": "2,2,3-三甲基戊烷",
+                        "content": "俗话说的好：“（对于开源屏幕批注软件）要稳定inkeys，要好用icp。”而其中的icp便是原版ic的延续，继承了原版ic简洁易用的特点。真心希望后续发展越来越好！"
+                    },
+                    {
+                        "commenter": "Makitoid",
+                        "content": "作为批注软件还是很不错的，但是作为白板软件还是差一点。希望持续的优化！"
+                    }
+                ],
+                "links": [
+                    {
+                        "icon": "InkCanvas",
+                        "url": "https://khyan.top/ic+",
+                        "display_source": "官网",
+                        "display_link": "https://khyan.top/ic+"
+                    },
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/clover-yan/Ink-Canvas-Plus",
+                        "display_source": "GitHub",
+                        "display_link": "clover-yan/Ink-Canvas-Plus"
+                    }
+                ]
+            },
+            {
+                "name": "Ink Canvas Artistry",
+                "logo": "https://github.com/InkCanvas/Ink-Canvas-Artistry/raw/master/Images/Ink%20Canvas%20Artistry.png",
+                "developer": "WuChanging",
+                "description": "Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动查杀、荧光笔、图片插入等功能），并优化了使用体验，使其更适合课堂授课使用。目前已确认永久停更。",
+                "keywords": [
+                    "屏幕批注",
+                    "屏幕画板",
+                    "桌面批注",
+                    "Ink Canvas",
+                    "白板软件",
+                    "形状识别",
+                    "自动收纳",
+                    "荧光笔",
+                    "PPT批注"
+                ],
+                "comments": [
+                    {
+                        "commenter": "Douxiba",
+                        "content": "非常推荐，除掉 ICC，是唯一用着比较舒服的屏幕批注软件，自动收纳有点小问题（2024 年 9 月 21 日，希沃白板 5 和希沃系软件的 Popup 弹窗会出 Bug），图片插入还是测试版，不过依旧还是好用！"
+                    },
+                    {
+                        "commenter": "Makitoid",
+                        "content": "ICA几乎解决了希沃白板的所有痛点，可以说是希沃白板的平替了。但是，以下情况不建议使用ICA：①班里老师电脑水平普遍较差；②老师上课严重依赖``板中板``，ICA这方面优化不好。"
+                    },
+                    {
+                        "commenter": "connect",
+                        "content": "ICA的似我觉得是最可惜的，IC系里我最喜欢的就是这款，UI简洁，功能丰富，特别是恰到的好处丝滑，白板页是类似希沃白板的界面，工具板块可以打开希沃视频展台，对于教师上手的学习成本相比于其他的版本是几乎最低的，以及ppt联动页也是类似希沃ppt助手，只可惜停更了，令我惋惜。"
+                    },
+                    {
+                        "commenter": "2,2,3-三甲基戊烷",
+                        "content": "虽然ICA在Aiwb里面目前还在🥇的位置，但是我这个Aiwb maintainer认为它并不算比较好用的一款屏幕批注软件，甚至还比不上目前的ICC-CE。为什么呢？：①论绘制性能比不上基于C++的`智绘教Inkeys`；②论功能及其各方面的易用性不如ICC-CE；③ICA目前已经永久停更，不会再有功能更新与bug修复；④ICA总是会出现一些墨迹异常成为直线的情况，如下图所示："
+                    }
+                ],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/InkCanvas/Ink-Canvas-Artistry/",
+                        "display_source": "GitHub",
+                        "display_link": "InkCanvas/Ink-Canvas-Artistry"
+                    }
+                ],
+                "banner": "https://github.com/InkCanvas/Ink-Canvas-Artistry/raw/master/Images/Screenshot1.png",
+                "note": "forked from WXRIW/Ink-Canvas."
+            },
+            {
+                "name": "智绘教Inkeys",
+                "logo": "https://raw.githubusercontent.com/Alan-CRL/Inkeys/main/GithubRes/logo.png",
+                "developer": "Alan-CRL",
+                "description": "将你的创意随心所欲地书写在屏幕的任意角落。\n智绘教Inkeys 拥有丝滑流畅的高性能画笔、丰富强大的功能，以及众多贴心小设计，全面提升你的效率与使用体验。\n软件基于 C++20 编写，专为 Windows 平台打造。",
+                "keywords": [
+                    "屏幕批注",
+                    "C++",
+                    "EasyX",
+                    "多指书写",
+                    "屏幕画板",
+                    "桌面批注",
+                    "荧光笔",
+                    "PPT批注"
+                ],
+                "comments": [
+                    {
+                        "commenter": "Douxiba",
+                        "content": "用下来总体体验是不错的，自带了屏幕冻结这个好功能，还有桌面画板悬浮窗拦截，以及各种强制置顶，多虚拟桌面 Pin，多显示器适配等，这些功能都很不错，甚至有些都是被 ICC 给借鉴过去了的功能，比较推荐使用。最近出了内测版本，用 **Fluent Design System** 重构了设置页面，非常好看（有需要可以加入他们的 QQ 群了解更多，2024 年 12 月 4 日更新）"
+                    }
+                ],
+                "links": [
+                    {
+                        "icon": "bilibili",
+                        "url": "https://www.bilibili.com/video/BV1Tz421z72e/",
+                        "display_source": "B站宣传视频",
+                        "display_link": "BV1Tz421z72e"
+                    },
+                    {
+                        "icon": "logo",
+                        "url": "https://www.inkeys.top/",
+                        "display_source": "官网",
+                        "display_link": "https://www.inkeys.top/"
+                    },
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/Alan-CRL/Inkeys/",
+                        "display_source": "GitHub",
+                        "display_link": "Alan-CRL/Inkeys"
+                    }
+                ],
+                "banner": "https://raw.githubusercontent.com/Alan-CRL/Inkeys/main/GithubRes/cover2.png#gh-light-mode-only",
+                "note": "原名: Intelligent-Drawing-Teaching（IDT），中文: 智绘教"
+            },
+            {
+                "name": "ICC-CE",
+                "logo": "https://github.com/InkCanvasForClass/community/raw/net6/icc.png",
+                "developer": "CJKmkp",
+                "description": "InkCanvasForClass 的社区版本，支持 Windows 平台（最低支持Windows 7 SP1）。它基于 icc-0610fix 开发，具有流畅的绘图体验和丰富的功能。该应用界面简洁直观，支持多种画笔工具和图层管理，能够满足多种场景下的屏幕绘图需求，适合教学、会议、设计等多种用途。",
+                "keywords": [
+                    "社区版",
+                    "屏幕绘图",
+                    "屏幕批注",
+                    "桌面批注",
+                    "PPT批注",
+                    "白板软件",
+                    "自动收纳",
+                    "边缘手势屏蔽",
+                    "Ink Canvas"
+                ],
+                "comments": [
+                    {
+                        "commenter": "2,2,3-三甲基戊烷",
+                        "content": "现在有幸看到ICC-CE发展越来越好，期待后续版本。此外，目前本人班上也在使用该项目，老师给了积极的反馈。归纳下来就是：项目前景远大，潜力无限；主开发者`CJK_mkp`也超级可爱。"
+                    }
+                ],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/InkCanvasForClass/community/",
+                        "display_source": "GitHub",
+                        "display_link": "InkCanvasForClass/community"
+                    },
+                    {
+                        "icon": "icc",
+                        "url": "https://icc-ce.inkeys.top",
+                        "display_source": "官网（Inkeys服务器，推荐使用）",
+                        "display_link": "https://icc-ce.inkeys.top"
+                    },
+                    {
+                        "icon": "github",
+                        "url": "https://inkcanvasforclass.github.io/",
+                        "display_source": "官网（GitHub静态网页）",
+                        "display_link": "https://inkcanvasforclass.github.io/"
+                    },
+                    {
+                        "icon": "cloudflare",
+                        "url": "https://www.iccce.dpdns.org/",
+                        "display_source": "官网（CloudFlare）",
+                        "display_link": "https://www.iccce.dpdns.org/"
+                    },
+                    {
+                        "icon": "icc",
+                        "url": "https://inkcanvasforclass.github.io/website/",
+                        "display_source": "文档站",
+                        "display_link": "https://inkcanvasforclass.github.io/website/"
+                    },
+                    {
+                        "icon": "icc",
+                        "url": "https://cjk-is-so-cute.netlify.app/",
+                        "display_source": "文档站（备用）",
+                        "display_link": "https://cjk-is-so-cute.netlify.app/"
+                    }
+                ],
+                "banner": "https://github.com/user-attachments/assets/598634da-dec5-473c-9765-ce8dcb3a3f76",
+                "qq_group": [
+                    1054377349
+                ]
+            },
+            {
+                "name": "InkCanvasForClass",
+                "logo": "",
+                "developer": "Segf4ultk1nger",
+                "description": "InkCanvasForClass的readme仓库。",
+                "keywords": [
+                    "ICC",
+                    "屏幕绘图",
+                    "屏幕批注",
+                    "桌面批注",
+                    "PPT批注",
+                    "白板软件",
+                    "边缘手势屏蔽",
+                    "Ink Canvas"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/segf4ultk1nger-universe/InkCanvasForClass/",
+                        "display_source": "GitHub",
+                        "display_link": "segf4ultk1nger-universe/InkCanvasForClass"
+                    }
+                ]
+            },
+            {
+                "name": "ICC-Re",
+                "logo": "https://raw.githubusercontent.com/LiuYan-xwx/InkCanvasForClass-Remastered/refs/heads/master/InkCanvasForClass-Remastered/Resources/Icons-png/ICC-Re.png",
+                "developer": "LiuYan-xwx",
+                "description": "InkCanvasForClass-Remastered是由开发者 LiuYan-xwx 发起的一个开源教学辅助工具。它主要基于 InkCanvasForClass (ICC) 进行重构和功能增强，旨在为教师、讲师或演示者提供一个更现代化、更高效的屏幕批注和教学演示工具。",
+                "keywords": [
+                    "重制版",
+                    "屏幕绘图",
+                    "屏幕批注",
+                    "桌面批注",
+                    "PPT批注",
+                    "白板软件",
+                    "自动收纳",
+                    "边缘手势屏蔽",
+                    "Ink Canvas"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/LiuYan-xwx/InkCanvasForClass-Remastered/",
+                        "display_source": "GitHub",
+                        "display_link": "LiuYan-xwx/InkCanvasForClass-Remastered"
+                    }
+                ]
+            },
+            {
+                "name": "ppInk",
+                "logo": "",
+                "developer": "pubpub-zz",
+                "description": "ppInk is a user-friendly on-screen annotation software for Windows, compatible with Mouse use, touchscreen or drawing tablet(also with pressure).\n\n源自 gInk 它提供了许多新功能，这些功能自由地从其他应用程序（如 Epic Pen）中汲取灵感，使其更易于使用，功能更强大。ppInk/gInk 的设计秉承了简洁的理念，确保在演示过程中不会分散演示者或观众的注意力。ppInk 允许您选择不同的笔进行绘图，每支笔都有可配置的属性，而不必调整颜色、透明度和笔尖宽度、笔触等单个设置。",
+                "keywords": [
+                    "屏幕批注",
+                    "屏幕画板",
+                    "桌面批注",
+                    "WinForm",
+                    "桌面放大镜",
+                    "印章功能",
+                    "直播",
+                    "OBS支持"
+                ],
+                "comments": [
+                    {
+                        "commenter": "Douxiba",
+                        "content": "这个项目应该算是目前来说，**Windows 平台下，开源桌面批注软件里面最强大的一个了** ，当然缺点也很多，比如 UI 非常丑，其次是墨迹过多会造成卡顿。而且他的 UI 并不适合触摸屏使用，所以我并不推荐在学校的一体机上面使用 ppInk，不过抛开国内教室的特色条件来说，ppInk 作为一个桌面绘图软件，已经完全可用，甚至算够好用了。"
+                    }
+                ],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/pubpub-zz/ppInk/",
+                        "display_source": "GitHub",
+                        "display_link": "pubpub-zz/ppInk"
+                    }
+                ],
+                "banner": "https://github.com/pubpub-zz/ppInk/raw/master/Animation.gif",
+                "note": "forked from geovens/gInk"
+            },
+            {
+                "name": "Ink Canvas Better",
+                "logo": "https://github.com/BaiYang2238/Ink-Canvas-Better/raw/master/Images/Ink%20Canvas%20Better.png",
+                "developer": "BaiYang2238",
+                "description": "Ink Canvas Better 是一款基于 InkCanvas/Ink-Canvas-Artistry 开发的 Windows 画板应用，使用 WPF/C# 构建。它在原版 Ink Canvas 的基础上进行了优化和改进，移除了一些非核心功能（如点名工具和计时器），专注于提供更流畅的绘图体验和更简洁的界面。该软件支持多种绘图工具和图层管理功能，适合教学、会议和设计等多种用途。",
+                "keywords": [
+                    "屏幕绘图",
+                    "绘图工具",
+                    "简洁界面",
+                    "教学工具"
+                ],
+                "comments": [
+                    {
+                        "commenter": "2,2,3-三甲基戊烷",
+                        "content": "~~蕾姆了，IC系也是后继有人上了~~Ink Canvas Better原来是作者使用IC及其他分支软件时发现一些需要的功能存在缺失而开发的此分支，期待项目后续的发展"
+                    }
+                ],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/BaiYang2238/Ink-Canvas-Better",
+                        "display_source": "GitHub(旧)",
+                        "display_link": "BaiYang2238/Ink-Canvas-Better"
+                    },
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/BaiYang2238",
+                        "display_source": "开发者(旧)",
+                        "display_link": "BaiYang2238"
+                    }
+                ],
+                "note": "此项目已迁移至新仓库，开发交由ThreeMonthAgo负责，Awesome-Iwb 将在新仓库准备好后更新内容。以下内容以旧版为准。点此前往新仓库。"
+            },
+            {
+                "name": "ShowWrite视频展台",
+                "logo": "https://github.com/SECTL/ShowWrite/raw/1541ad7b4f2dea3cb4ef1c0ed016b890697a90c6/logo-SW1.png",
+                "developer": "wwcrdrvf6u",
+                "description": "ShowWrite 是一款为视频展台、直播教学等场景设计的软件，支持视频展台功能（如文档展台、实物展台等）、屏幕批注、画面录制等功能，能够实现希沃展台与希沃系统的无缝对接，提升教学互动体验。",
+                "keywords": [
+                    "屏幕批注",
+                    "视频展台",
+                    "希沃展台",
+                    "直播教学",
+                    "教学软件",
+                    "实物展台",
+                    "画面录制",
+                    "文档展台"
+                ],
+                "comments": [
+                    {
+                        "commenter": "2,2,3-三甲基戊烷",
+                        "content": "之前试过py版的，效果不是很理想，最近这款软件正在用C#重构，感兴趣的可以去他们QQ群插个眼。我也有点打算在班上电脑实装试一下，到时候看一下C#版的效果怎么样。"
+                    }
+                ],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/SECTL/ShowWrite/",
+                        "display_source": "GitHub",
+                        "display_link": "SECTL/ShowWrite"
+                    }
+                ]
+            },
+            {
+                "name": "LanStartWrite",
+                "logo": "",
+                "developer": "wwiinnddyy",
+                "description": "**LanStartWrite** 是一款基于 Electron 的书写应用（采用vibe coding），其集成了高性能书写画布、智能图形识别与强大的 `.lanmod` 插件系统。支持白板创作与透明批注双模式切换，旨在为用户提供极致流畅的数字化书写与教学演示体验。（项目处于起步阶段，请评估后使用）",
+                "keywords": [
+                    "Electron",
+                    "智能图形识别",
+                    "多页管理",
+                    "插件系统",
+                    "批注模式",
+                    "多点触控",
+                    "开源",
+                    "Windows"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/wwiinnddyy/LanStartWrite/",
+                        "display_source": "GitHub",
+                        "display_link": "wwiinnddyy/LanStartWrite"
+                    }
+                ]
+            }
+        ],
+        "timetable_and_dashboard": [
+            {
+                "name": "ClassIsland",
+                "logo": "https://github.com/ClassIsland/ClassIsland/raw/master/ClassIsland/Assets/AppLogo_AppLogo.svg",
+                "developer": "HelloWRC",
+                "description": "ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具，可以在 Windows 屏幕上显示各种信息。本应用的名字灵感源于 iOS 灵动岛（Dynamic Island）功能。可显示当天的课表、当前进行课程的信息，在上下课等重要时间点发出提醒，自选搭配音效、强调特效和语音增强提醒。",
+                "keywords": [
+                    "课程表",
+                    "HelloWRC",
+                    "微软草",
+                    "上下课提醒",
+                    "插件支持",
+                    "单双周支持",
+                    "多行支持",
+                    "提醒特效",
+                    "自动化"
+                ],
+                "comments": [
+                    {
+                        "commenter": "Douxiba",
+                        "content": "~~**非常好用，由你好微软草开发的课是地，使我开学必装**~~，支持多周轮换和临时课表，以及超高的自定义程度，CI 已经是目前最强大的桌面课表软件了，最近还上线了插件系统，可以通过自己开发插件来扩充 CI 的功能，非常推荐！"
+                    },
+                    {
+                        "commenter": "Makitoid",
+                        "content": "classisland 目前来看没有课表软件比Ci好用，但是整个软件配置比较复杂，不建议在班里电脑上盲开。建议先在家里设置好，研究明白再安到电脑上。如果你电脑水平较弱，那建议你~~别当电教~~移步其它软件"
+                    }
+                ],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/ClassIsland/ClassIsland/",
+                        "display_source": "GitHub",
+                        "display_link": "ClassIsland/ClassIsland"
+                    },
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/ClassIsland/ClassIsland-net6/",
+                        "display_source": "GitHub(.NET 6)",
+                        "display_link": "ClassIsland/ClassIsland-net6"
+                    }
+                ],
+                "banner": "./banner/classisland-banner.png"
+            },
+            {
+                "name": "ZongziTEK 黑板贴",
+                "logo": "https://github.com/ZongziTEK/ZongziTEK-Blackboard-Sticker/raw/master/ZongziTEK_Blackboard_Sticker/%E9%BB%91%E6%9D%BF%E8%B4%B4.png?raw=true",
+                "developer": "ZongziTEK",
+                "description": "用于白板一体机的桌面小部件，享受抬手即用的小黑板、高效的信息展示、便捷的课程管理和多项实用功能，满足班级的各种需求。",
+                "keywords": [
+                    "课程表",
+                    "黑板贴",
+                    "粽子科技",
+                    "上下课提醒",
+                    "天气提醒",
+                    "快速黑板",
+                    "启动台"
+                ],
+                "comments": [
+                    {
+                        "commenter": "Douxiba",
+                        "content": "还行，如果有小黑板需求可以使用，自带的课程表功能个人感觉有点鸡肋，不过也还算好用的，官网也是完全学到了微软式中文。比较推荐（如果不用 CI 的话）"
+                    }
+                ],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/ZongziTEK/ZongziTEK-Blackboard-Sticker/",
+                        "display_source": "GitHub",
+                        "display_link": "ZongziTEK/ZongziTEK-Blackboard-Sticker"
+                    }
+                ],
+                "banner": "./banner/ZongziTEK-Blackboard-Sticker.png"
+            },
+            {
+                "name": "StickyHomeworks2",
+                "logo": "https://github.com/user-attachments/assets/40d567c2-77bc-4c3e-bb1f-5215cc0bb376",
+                "developer": "StickyHomeworks2",
+                "description": "StickyHomeworks2 是一款支持富文本的桌面作业贴工具。",
+                "keywords": [
+                    "作业展示",
+                    "作业看板",
+                    "桌面小工具",
+                    "富文本支持"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/StickyHomeworks2/StickyHomeworks2/",
+                        "display_source": "GitHub",
+                        "display_link": "StickyHomeworks2/StickyHomeworks2"
+                    }
+                ],
+                "banner": "./banner/sh2banner.png"
+            },
+            {
+                "name": "考试看板-Legacy",
+                "logo": "https://raw.githubusercontent.com/ExamAware/ExamShowboard-Legacy/master/resources/icon.png",
+                "developer": "Hello8693",
+                "description": "DSZ 考试看板-Legacy。**一款显示当前时间与考试详细信息的看板类软件。**\n\n**考试看板-Legacy** 皆在提供一个简单明了的 UI 界面用于展示考试信息：可以展示考试名称、当前时间、当前科目名称、开始时间、结束时间、考试状态、考试结束前 15 分钟预警，右面可以展示所有考试列表及开始时间、结束时间和状态，后面会支持集控。",
+                "keywords": [
+                    "考试看板-Legacy",
+                    "考试倒计时",
+                    "Electron",
+                    "多平台支持",
+                    "移动端支持"
+                ],
+                "comments": [
+                    {
+                        "commenter": "Douxiba",
+                        "content": "应该是唯一一个全平台都支持的软件？支持安卓、iOS、Windows、macOS 和 Linux 设备（不过说实话，到底是谁会在 iOS 设备上面用考试看板啊！）至于好不好用，我只能说我用过，还行，但是我们学校没有 **考试看板** 的使用需求。"
+                    }
+                ],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/ExamAware/ExamShowboard-Legacy/",
+                        "display_source": "GitHub",
+                        "display_link": "ExamAware/ExamShowboard-Legacy"
+                    },
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/ProjectCampus-CH/exam-showboard-next/",
+                        "display_source": "GitHub(镜像)",
+                        "display_link": "ProjectCampus-CH/exam-showboard-next"
+                    }
+                ],
+                "banner": "https://github.com/ProjectCampus-CH/exam-showboard-next/raw/master/.Screenshots/InfoPage.png"
+            },
+            {
+                "name": "ExtraIsland",
+                "logo": "./images/extraisland-icon.png",
+                "developer": "LiPolymer",
+                "description": "ExtraIsland 是一个 ClassIsland 插件，为 ClassIsland 提供了一些小小的扩充功能，比如流畅时钟，更好的倒计时等。目前项目还在起步阶段。\n\n**流畅时钟组件** 带有切换和闪动动画，而且支持关闭秒数显示、支持秒数小字体显示，也支持从 NTP 获取时间，同时还有整点强调动画；\n\n**更高级的倒计日组件** 支持倒计日精确到秒，带有切换动画，前后文案可配置，也支持从 NTP 获取时间。",
+                "keywords": [
+                    "ClassIsland",
+                    "CI插件",
+                    "微软草插件",
+                    "值日生",
+                    "动画时钟",
+                    "倒计日",
+                    "每日古诗",
+                    "一言插件"
+                ],
+                "comments": [
+                    {
+                        "commenter": "Douxiba",
+                        "content": "目前 ClassIsland 功能最全的插件，非它莫属。"
+                    }
+                ],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/LiPolymer/ExtraIsland/",
+                        "display_source": "GitHub",
+                        "display_link": "github:LiPolymer/ExtraIsland"
+                    },
+                    {
+                        "icon": "gitlab",
+                        "url": "https://gitlab.com/LiPolymer/ExtraIsland/",
+                        "display_source": "GitLab",
+                        "display_link": "gitlab:LiPolymer/ExtraIsland"
+                    }
+                ],
+                "banner": "./banner/extraisland.png"
+            },
+            {
+                "name": "Class Widgets",
+                "logo": "https://github.com/Class-Widgets/Class-Widgets/raw/main/img/Logo.png",
+                "developer": "RinLit",
+                "description": "`Class Widgets` 是一款能够显示实时教学进度的桌面组件应用。其提供了美观的桌面组件和高度的自定义选项，助力于思考和探索未来中科技与教学的结合。\n\n在 `Class Widgets` 中，提供了基于 Python 的插件系统和“插件广场”；你可以在“插件广场”中安装您需要的插件。以及彰显个性的主题系统，让你搭建出独一无二的 `Class Widgets`。\n\n`Class Widgets` 提供了强大的通知系统，能够在上下课等时间点推出提醒；此外，插件也可调用通知接口，使其更加实用。`Class Widgets` 致力于提供高度的自定义选项，使每位用户能构建出独一无二的桌面课表。`Class Widgets` 采用了由微软推出的 Fluent Design 设计语言，使界面更加简洁、舒适和流畅，且使用了 QFluentWidgets UI 库。\n\n**静候佳音：全新`Class Widgets 2.0`正在紧锣密鼓的开发中！[GitHub仓库](https://github.com/RinLit-233-shiroko/Class-Widgets-2)**",
+                "keywords": [
+                    "桌面小组件",
+                    "课程浮窗",
+                    "RinLit",
+                    "CICW一家亲",
+                    "PyQt",
+                    "多平台支持",
+                    "上下课提醒",
+                    "单双周支持"
+                ],
+                "comments": [
+                    {
+                        "commenter": "Douxiba",
+                        "content": "**~~非常好 RinLit 小南梁，让我爱上 课堂组件。~~** 看到 UI 上有能和 CI 抗衡的也是比较欣慰了，不过目前来说还需要更多优化，部分功能还不是太完善，还有作为一个 Qt 写的软件，总感觉用起来有点小别扭（应该是 Qt 的特性）。不过开发与更新速度也挺快，比较期待，~~但是目前来说我肯定是不会正式在教学环境使用的~~ **（真心动了，等软件显示缩放功能出来了马上换，不换早晚被撅 😋）**。"
+                    }
+                ],
+                "links": [
+                    {
+                        "icon": "bilibili",
+                        "url": "https://www.bilibili.com/video/BV1xwW9eyEGu/",
+                        "display_source": "B站宣传视频",
+                        "display_link": "BV1xwW9eyEGu"
+                    },
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/Class-Widgets/Class-Widgets/",
+                        "display_source": "GitHub",
+                        "display_link": "Class-Widgets/Class-Widgets"
+                    }
+                ],
+                "banner": "https://github.com/Class-Widgets/Class-Widgets/blob/main/img/Banner.png?raw=true"
+            },
+            {
+                "name": "凌云班级组件",
+                "logo": "https://raw.githubusercontent.com/Yamikani-Flipped/LingYun-Class-Widgets/refs/heads/main/Resource/ico/LINGYUN.ico",
+                "developer": "Yamikani-Flipped",
+                "description": "凌云班级组件 LingYun Class Widgets 是一个功能丰富的桌面工具，专为班级管理和教学设计。它支持桌面显示时间、日期、值日表、今明日课程等信息，拥有息屏显示功能，适合自习和专注场景。软件支持集中控制和云同步，方便多班级管理，同时提供自动更新功能和课表编辑工具，支持CSES通用课程表格式，能够处理调课情况并提供上下课提醒功能。",
+                "keywords": [
+                    "桌面显示",
+                    "课程表管理",
+                    "息屏显示",
+                    "桌面小组件"
+                ],
+                "comments": [
+                    {
+                        "commenter": "2,2,3-三甲基戊烷",
+                        "content": "尽管借鉴了CW的部分UI文件，但仍然不失为一个不错的软件，对于一些地方有自己的创新，并且独具一格的息屏显示也是一大卖点，此外还可以显示值日生之类的信息。"
+                    }
+                ],
+                "links": [
+                    {
+                        "icon": "LINGYUN",
+                        "url": "https://www.yamikani.cn",
+                        "display_source": "官网",
+                        "display_link": "https://www.yamikani.cn"
+                    },
+                    {
+                        "icon": "LINGYUN",
+                        "url": "https://service.yamikani.cn",
+                        "display_source": "服务官网",
+                        "display_link": "https://service.yamikani.cn"
+                    },
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/Yamikani-Flipped/LingYun-Class-Widgets/",
+                        "display_source": "GitHub",
+                        "display_link": "Yamikani-Flipped/LingYun-Class-Widgets"
+                    }
+                ],
+                "banner": "https://github.com/Yamikani-Flipped/LingYun-Class-Widgets/blob/main/Resource/png/%E5%87%8C%E4%BA%91%E7%8F%AD%E7%BA%A7%E7%BB%84%E4%BB%B6.png"
+            },
+            {
+                "name": "Education Clock",
+                "logo": "",
+                "developer": "Return-Log",
+                "description": "Education Clock 是一个实用的班级信息看板。是一款适合学校使用的桌面时钟软件，该软件具有：倒计时 、桌面时钟、课程表、天气预报、自动新闻联播、定时关机、消息通知栏、随机点名等功能。",
+                "keywords": [
+                    "桌面小组件",
+                    "课程表",
+                    "倒计日",
+                    "天气预报",
+                    "PyQt",
+                    "公告板",
+                    "桌面时钟软件"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/Return-Log/Education-Clock/",
+                        "display_source": "GitHub",
+                        "display_link": "Return-Log/Education-Clock"
+                    }
+                ],
+                "banner": "./banner/education-clock.png"
+            },
+            {
+                "name": "ClassBoard",
+                "logo": "https://github.com/Candlest/ClassBoard/raw/main/Resources/icon.ico",
+                "developer": "Candlest",
+                "description": "ClassBoard 是一款高自由度的，用于显示教学信息的壁纸软件，功能包括高考倒计时、公告栏、以及能够提示当前课程的课程表。ClassBoard 以兼容性为核心（支持希沃老设备），兼顾自由性和可用性（自定义程度高，但是能够做到开箱即用），力求成为一款易用且好用的一体机壁纸软件。",
+                "keywords": [
+                    "桌面小组件",
+                    "课程表",
+                    "倒计日",
+                    "作业发布",
+                    "动态壁纸"
+                ],
+                "comments": [
+                    {
+                        "commenter": "Douxiba",
+                        "content": "很小众的项目，和 `clansty/ClassTools` 有点类似。"
+                    }
+                ],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/Candlest/ClassBoard/",
+                        "display_source": "GitHub",
+                        "display_link": "Candlest/ClassBoard"
+                    }
+                ],
+                "banner": "https://github.com/Candlest/ClassBoard/raw/main/README/theme_breeze.png"
+            },
+            {
+                "name": "Class Hot Search 班级热搜排行",
+                "logo": "https://github.com/user-attachments/assets/cf5c240d-29fb-46e3-a888-468d8c585daf",
+                "developer": "思锐工作室 SR-Studio",
+                "description": "**班级热搜排行榜** 是一款适用于班级多媒体大屏等场景，展示不同事件热度并支持投票的互动小工具。通过创新的热点的形式记录事件，以及投票的方式来提升不同事件的优先级，班级热搜能活跃氛围，更增进同学情谊。通过高自由度和流畅的交互设计以及 Material Design 3 先进的设计和动画风格，该软件对纯触摸交互也具有良好的兼容性。",
+                "keywords": [
+                    "桌面小组件",
+                    "班级热搜",
+                    "热搜排行榜",
+                    "投票工具"
+                ],
+                "comments": [
+                    {
+                        "commenter": "Makitoid",
+                        "content": "由于mdui渲染太吃内存，反应并不是很灵敏。且由于软件设置的是实时更新，会导致投票时榜单一跳一跳的不好操作。**以现在的体验来看，作为整活工具是可以的，作为投票器不好用**\n\n🏷 **关键词**：<br/>"
+                    }
+                ],
+                "links": [
+                    {
+                        "icon": "bilibili",
+                        "url": "https://www.bilibili.com/video/BV1SoiyYuEtt/",
+                        "display_source": "B站宣传视频",
+                        "display_link": "BV1SoiyYuEtt"
+                    },
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/SRInternet-Studio/Class_Hot_Search/",
+                        "display_source": "GitHub",
+                        "display_link": "SRInternet-Studio/Class_Hot_Search"
+                    }
+                ],
+                "banner": "https://github.com/user-attachments/assets/5a7b2281-339a-47a9-b926-8f33936255d4"
+            },
+            {
+                "name": "Ris_ClassTool 瑞思课堂工具",
+                "logo": "",
+                "developer": "Ris-Soft",
+                "description": "—— 让每堂课都充满活力，让每个学生都能享受到科技带来的教育革新。\n\n**瑞思课堂工具** 基于 `Electron` 开发，是一款 Windows 平台下的，为教学一体机设计开发的一款多功能看板软件，内置了课程表、倒计时等信息看板与侧边栏、专注模式、自动任务、PPT 翻页辅助、随机点名等实用功能。\n\n- 📅 **课表一目了然：** 在上方清晰展示每日课表，让教学安排井然有序。\n\n- 🕒 **课程进度实时更新：** 顶部动态显示课程进度，把握每一分钟的教学节奏。\n\n- ⏳ **倒计时提醒：** 课间或即将上下课，右上角智能倒计时与课程名称提醒，确保课堂无缝衔接。\n\n- 📊 **强大侧边栏：** 一键快速回到桌面，管理后台，随机点名，专注模式切换，在线教学工具一应俱全。\n\n- 🎯 **专注模式：** 时间屏幕专注设计，让学生心无旁骛，全心投入学习。\n\n- 🛠️ **丰富教学工具：** 实时在线更新，成语、单词通、在线音乐等教学资源随时调用。\n\n- 🎨 **可视化设计：** 课表、学生列表编辑器，让信息管理更加直观便捷。\n\n- 🤖 **自动任务智能省心：** 课前自动返回桌面，自习课自动专注模式，放学自动关机，让教学流程更加流畅。\n\n- 📆 **灵活调休安排：** 支持按日期调休，适应各种教学计划变动。",
+                "keywords": [
+                    "桌面小组件",
+                    "课程表",
+                    "倒计日",
+                    "投票工具",
+                    "侧边栏",
+                    "PPT批注",
+                    "自动任务",
+                    "学科文件夹",
+                    "Electron"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/Ris-Soft/Ris_ClassTool/",
+                        "display_source": "GitHub",
+                        "display_link": "Ris-Soft/Ris_ClassTool"
+                    }
+                ],
+                "banner": "https://github.com/user-attachments/assets/c7c2b95a-22cb-4763-8f37-6cb6db603918"
+            },
+            {
+                "name": "TimerIn",
+                "logo": "./images/timerin.png",
+                "developer": "思锐工作室 SR-Studio",
+                "description": "TimerIn 是由 思锐工作室 开发的一款 桌面时钟小工具软件。支持全屏/横幅提醒，提供了多样的提醒方式，用途广泛；应用会在桌面上显示一个日程窗口，通过多样的规则，在软件内设置日程代办，并以丰富的形式，在预定的时间，有效提醒自己。还可添加个性化的小组件，与桌面完美融合。",
+                "keywords": [
+                    "桌面小组件",
+                    "倒计日",
+                    "全屏提醒",
+                    "放学提醒",
+                    "日程待办"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://www.sr-studio.cn/",
+                        "display_source": "官网",
+                        "display_link": "https://www.sr-studio.cn/"
+                    },
+                    {
+                        "icon": "123pan",
+                        "url": "https://www.123912.com/s/ICnzVv-cINgh",
+                        "display_source": "123网盘下载",
+                        "display_link": "https://www.123912.com/s/ICnzVv-cINgh"
+                    }
+                ],
+                "banner": "./banner/timerin-banner.png"
+            },
+            {
+                "name": "ExamSchedule",
+                "logo": "images/examschedule-icon.png",
+                "developer": "MKStoler1024",
+                "description": "考试看板网页版。**一款显示当前时间与考试详细信息的看板类服务。**\n\n**ExamSchedule** 皆在提供一个简单明了的 Web 服务用于展示考试信息：可以实时显示当前时间、当前考试科目、考试起止时间、剩余时间及考试状态。支持设置时间偏移和考场信息，并保存到浏览器Cookie中。同时还内置了电子钟表的版本（也就是没有考试支持的考试看板）。",
+                "keywords": [
+                    "考试看板",
+                    "考试倒计时",
+                    "电子钟表",
+                    "多平台支持",
+                    "Web",
+                    "移动端支持"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/ExamAware/ExamSchedule/",
+                        "display_source": "GitHub",
+                        "display_link": "ExamAware/ExamSchedule"
+                    }
+                ],
+                "banner": "./banner/examaware-banner.png"
+            },
+            {
+                "name": "Classworks",
+                "logo": "https://raw.githubusercontent.com/Moonrend/Classworks/f546621ab9b4b0b25b5b3e4ea41edf7a33dfd3ac/public/pwa/image/logo.svg",
+                "developer": "孙悟元（原 GitHub 主页目前不可访问）",
+                "description": "[HomeworkBoard](#homeworkboard) 的继任者，一个全新的作业板。基于 Vue+Vuetify 开发，可以在班级内记录并排版清晰地展示作业、快捷记录出勤情况，支持本地/云端存储，并不断更新中。",
+                "keywords": [
+                    "作业看板",
+                    "出勤看板",
+                    "多平台支持",
+                    "Web",
+                    "Vue",
+                    "随机点名",
+                    "自习噪音监测"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/Moonrend/Classworks/",
+                        "display_source": "GitHub",
+                        "display_link": "Moonrend/Classworks"
+                    },
+                    {
+                        "icon": "logo",
+                        "url": "https://cs.houlangs.com",
+                        "display_source": "网站",
+                        "display_link": "https://cs.houlangs.com"
+                    }
+                ],
+                "banner": "https://github.com/Moonrend/Classworks/blob/main/images/banner.png?raw=true"
+            },
+            {
+                "name": "CountBoard",
+                "logo": "",
+                "developer": "gaoyongxian",
+                "description": "CountBoard 是一个基于 Tkinter 开源的桌面日程倒计时应用。支持亚克力和毛玻璃 Aero 效果，支持定时提醒和间隔提醒，也支持将计时窗口嵌入到桌面。",
+                "keywords": [
+                    "桌面小组件",
+                    "倒计日",
+                    "定时提醒",
+                    "间隔提醒",
+                    "Python",
+                    "Tkinter"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/Gaoyongxian666/CountBoard/",
+                        "display_source": "GitHub",
+                        "display_link": "Gaoyongxian666/CountBoard"
+                    }
+                ],
+                "banner": "https://pic.imgdb.cn/item/61a889432ab3f51d9190ca1b.png",
+                "note": "该项目已经停止更新。自带的开机自启无法使用。"
+            },
+            {
+                "name": "ElectronClassSchedule",
+                "logo": "https://raw.githubusercontent.com/EnderWolf006/ElectronClassSchedule/main/image/icon.png",
+                "developer": "EnderWolf006",
+                "description": "ElectronClassSchedule 具有显示当天课表，当前星期，天数倒计时，下课/上课倒计时等功能。支持动态调整课表，支持多周(最多四周)课表轮换，窗口置顶且可穿透。<br/>\n**软件由一位高三牲制作，含有大量屎山代码，望大家海涵。**",
+                "keywords": [
+                    "桌面课程表",
+                    "课程表",
+                    "单双周轮换",
+                    "Electron"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/EnderWolf006/ElectronClassSchedule/",
+                        "display_source": "GitHub",
+                        "display_link": "EnderWolf006/ElectronClassSchedule"
+                    }
+                ],
+                "banner": "https://github.com/EnderWolf006/ElectronClassSchedule/raw/main/image%2FREADME%2Fview.png",
+                "note": "该项目已经停止更新。 开发者正在开发 V2 版本，如有需要可前去插眼观望。Awesome-Iwb 会等到 V2 版本发展到一定程度后添加进来。"
+            },
+            {
+                "name": "ClassTools",
+                "logo": "",
+                "developer": "凌莞~(=^▽^=)",
+                "description": "这是一个用在班级电脑上面的教室系统🎉，以动态壁纸方式呈现高考倒计时、作业、课程表、值日生等看板，并提供简单易用的设置界面。",
+                "keywords": [
+                    "动态壁纸",
+                    "桌面课程表",
+                    "天气预报",
+                    "作业看板",
+                    "一言",
+                    "每日金句",
+                    "Electron"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/clansty/ClassTools/",
+                        "display_source": "GitHub",
+                        "display_link": "clansty/ClassTools"
+                    }
+                ],
+                "banner": "https://github.com/clansty/ClassTools/raw/main/introduction/wallpaper.png",
+                "note": "该项目已经停止更新。"
+            },
+            {
+                "name": "StickyHomeworks",
+                "logo": "",
+                "developer": "HelloWRC",
+                "description": "StickyHomeworks 是一款支持富文本的桌面作业贴工具。支持按科目分组作业、为作业添加标签、自动清理过期作业、导出作业截图等功能。",
+                "keywords": [],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/HelloWRC/StickyHomeworks/",
+                        "display_source": "GitHub",
+                        "display_link": "HelloWRC/StickyHomeworks"
+                    }
+                ],
+                "note": "该项目已经停止更新，并由 jizilin6732 接手，请去尝试使用StickyHomeworks2吧。"
+            },
+            {
+                "name": "Sticky-attention",
+                "logo": "https://avatars.githubusercontent.com/u/183182916?s=48&v=4",
+                "developer": "jizilin6732",
+                "description": "StickyAttention 是一款适用于 Windows 系统教室一体机的作业显示工具，基于 [HelloWRC/StickyHomeworks](https://github.com/HelloWRC/StickyHomeworks/) 开发，可以展示各科作业信息，且支持富文本，按科目分类，导出作业截图等功能。",
+                "keywords": [
+                    "作业展示",
+                    "作业看板",
+                    "桌面小工具",
+                    "富文本支持"
+                ],
+                "comments": [
+                    {
+                        "commenter": "Douxiba",
+                        "content": "之前在教室下过一次，不过当时用的时候不知道什么原因，很卡顿，现在不知道怎么样了，不过作为微软草的作业贴的后继者，还是希望这个项目能够持续发展下去吧。目前看来，如果你有 **文本格式的作业展示需求** 的话，最推荐这个，如果你需要展示手写版作业的话，还是用 **[粽子黑板贴](#zongzitek-黑板贴)** 吧！"
+                    }
+                ],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/Sticky-attention/Sticky-attention/",
+                        "display_source": "GitHub",
+                        "display_link": "Sticky-attention/Sticky-attention"
+                    }
+                ],
+                "banner": "https://github.com/Sticky-attention/Sticky-attention/raw/master/image/banner.jpg",
+                "note": "该项目已经停止更新，请去尝试使用StickyHomeworks2吧。"
+            },
+            {
+                "name": "HomeworkBoard",
+                "logo": "",
+                "developer": "EnderWolf006",
+                "description": "作业板，可以在班级内记录并排版清晰地展示作业、快捷记录出勤情况(无此需求可以去掉这一板块)，可以使用微软手写输入法或拼音(如有实体键盘)快速录入作业",
+                "keywords": [],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/EnderWolf006/HomeworkBoard/",
+                        "display_source": "GitHub",
+                        "display_link": "EnderWolf006/HomeworkBoard"
+                    }
+                ],
+                "note": "该项目已经停止更新。"
+            },
+            {
+                "name": "ClassPaper",
+                "logo": "./images/ClassPaper-icon.png",
+                "developer": "E7G",
+                "description": "ClassPaper v4 是一款现代化桌面课程表/壁纸/告示牌应用，基于Rust + alcro构建。",
+                "keywords": [
+                    "课程表",
+                    "事件提醒"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/E7G/Classpaper-v4",
+                        "display_source": "GitHub",
+                        "display_link": "E7G/Classpaper-v4"
+                    }
+                ],
+                "banner": "./banner/classpaper-banner.jpeg"
+            },
+            {
+                "name": "考试语音播报系统",
+                "logo": "",
+                "developer": "cloudy059",
+                "description": "考试语音播报系统是一个支持通过语音方式播报的考试看板类软件。",
+                "keywords": [
+                    "考试播报"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/cloudy059/ExamBroadcast",
+                        "display_source": "GitHub",
+                        "display_link": "cloudy059/ExamBroadcast"
+                    }
+                ],
+                "banner": "./banner/ExamBroadcast-banner.png"
+            },
+            {
+                "name": "iClass",
+                "logo": "./images/iclass-icon.png",
+                "developer": "gpuawa",
+                "description": "一个使用 Electron 和 Vue 3 构建的教室大屏实用工具箱。",
+                "keywords": [
+                    "课程表"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/gpuawa/iClass",
+                        "display_source": "GitHub",
+                        "display_link": "gpuawa/iClass"
+                    }
+                ]
+            },
+            {
+                "name": "ExamClock",
+                "logo": "",
+                "developer": "L33Z22L11",
+                "description": "一款被招安的考试时钟，可以在大屏上展示科目信息、起止时间、考试进度，支持切换年级、文理科。",
+                "keywords": [
+                    "考试时钟"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/L33Z22L11/ExamClock/",
+                        "display_source": "GitHub",
+                        "display_link": "L33Z22L11/ExamClock"
+                    }
+                ]
+            },
+            {
+                "name": "Zooni",
+                "logo": "",
+                "developer": "Xwei1645",
+                "description": "一个教室大屏作业看板",
+                "keywords": [
+                    "作业看板"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/Xwei1645/Zooni/",
+                        "display_source": "GitHub",
+                        "display_link": "Xwei1645/Zooni"
+                    }
+                ]
+            },
+            {
+                "name": "ElectronClassScheduleX",
+                "logo": "",
+                "developer": "Enigfrank",
+                "description": "一款基于ECS v1进行魔改的电子课表软件",
+                "keywords": [
+                    "ECS",
+                    "电子课表"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "icon",
+                        "url": "https://doc.cavendi.top/",
+                        "display_source": "官网",
+                        "display_link": "https://doc.cavendi.top/"
+                    },
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/Enigfrank/ElectronClassScheduleX/",
+                        "display_source": "GitHub",
+                        "display_link": "Enigfrank/ElectronClassScheduleX"
+                    }
+                ]
+            },
+            {
+                "name": "每日作业面板",
+                "logo": "./images/DCP-icon.svg",
+                "developer": "BearWhite-Z",
+                "description": "一个简洁实用的作业管理工具，提供作业展示、布置和管理功能。",
+                "keywords": [
+                    "作业管理"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/BearWhite-Z/Daily-Commission-Panel/",
+                        "display_source": "GitHub",
+                        "display_link": "BearWhite-Z/Daily-Commission-Panel"
+                    }
+                ]
+            },
+            {
+                "name": "LanMountainDesktop",
+                "logo": "",
+                "developer": "wwiinnddyy",
+                "description": "`LanMountainDesktop` 是一个基于 Avalonia 的桌面壳层项目，目标不是“做一个启动器”，而是把桌面变成可编排的信息与交互空间。",
+                "keywords": [
+                    "多功能",
+                    "桌面组件系统",
+                    "Avalonia",
+                    "CI课表联动",
+                    "跨平台",
+                    "自习噪音监测"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/wwiinnddyy/LanMountainDesktop/",
+                        "display_source": "GitHub",
+                        "display_link": "wwiinnddyy/LanMountainDesktop"
+                    }
+                ],
+                "banner": "./banner/LanMountainDesktop.png",
+                "note": "你的桌面，不止一面。"
+            }
+        ],
+        "utilities_and_tools": [
+            {
+                "name": "PPT 触屏辅助(PowerPoint Touch Assist)",
+                "logo": "",
+                "developer": "RinLit",
+                "description": "PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击”翻页。",
+                "keywords": [],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "bilibili",
+                        "url": "https://www.bilibili.com/video/BV1G6Y7eLEA1/",
+                        "display_source": "B站宣传视频",
+                        "display_link": "BV1G6Y7eLEA1"
+                    },
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/RinLit-233-shiroko/PowerPoint-Touch-Assist/",
+                        "display_source": "GitHub",
+                        "display_link": "RinLit-233-shiroko/PowerPoint-Touch-Assist"
+                    }
+                ]
+            },
+            {
+                "name": "（希沃）定制启动器",
+                "logo": "",
+                "developer": "思锐工作室 SR-Studio",
+                "description": "定制启动器，旨在让大多数软件的启动方式更加绚丽多彩。为 **希沃白板** 系列量身定做，其他程序也可以使用！🥳",
+                "keywords": [],
+                "comments": [
+                    {
+                        "commenter": "Douxiba",
+                        "content": "如标题所述，如果只是想让希沃白板的 Splash Screen 变得高端大气上档次一些的话，我觉得还是不错的，部分小问题无伤大雅。"
+                    },
+                    {
+                        "commenter": "Makitoid",
+                        "content": "整活神器，刚开始用时~~被老师骂了~~老师都震惊了。不过高负载情况下可能有卡顿。"
+                    }
+                ],
+                "links": [
+                    {
+                        "icon": "bilibili",
+                        "url": "https://www.bilibili.com/video/BV1ky42187JM/",
+                        "display_source": "B站宣传视频",
+                        "display_link": "BV1ky42187JM"
+                    },
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/SRInternet-Studio/Seewo-Custom_Start/",
+                        "display_source": "GitHub",
+                        "display_link": "SRInternet-Studio/Seewo-Custom_Start"
+                    }
+                ],
+                "banner": "./banner/seewo-custom-start.png"
+            },
+            {
+                "name": "全能班辅",
+                "logo": "",
+                "developer": "XeonMEMZ",
+                "description": "显示今天的值日生，小工具，随机点名功能，展示自定义课表。",
+                "keywords": [],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "bilibili",
+                        "url": "https://space.bilibili.com/404100570/",
+                        "display_source": "B站账号",
+                        "display_link": "@ 软硬工作室"
+                    },
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/XeonMEMZ/qnbf6/",
+                        "display_source": "GitHub(v6)",
+                        "display_link": "XeonMEMZ/qnbf6"
+                    },
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/XeonMEMZ/qnbf5/",
+                        "display_source": "GitHub(v5)",
+                        "display_link": "XeonMEMZ/qnbf5"
+                    },
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/XeonMEMZ/qnbf4/",
+                        "display_source": "GitHub(v4)",
+                        "display_link": "XeonMEMZ/qnbf4"
+                    }
+                ]
+            },
+            {
+                "name": "OpenLuckyRandom",
+                "logo": "https://github.com/WhatDamon/OpenLuckyRandom/raw/main/assets/openluckyrandom.png",
+                "developer": "Damon Lu",
+                "description": "启发于某沃一体机中的 LuckyRandom 人脸识别随机抽人，使用 WinForms 开发的玩具。与某沃一样采用了 OpenCvSharp4，都是用 C# 编写，只不过他们开发的版本使用到了 XAML Islands + WPF, 并且人脸识别上也没有使用本项目使用的 Haar 级联分类器，可以给带有摄像头的旧某沃一体机或者带有摄像头的鸿某一体机随机抽人使用。\n\n1. 允许切换包括虚拟摄像头在内的摄像头（原版读不到不使用驱动实现的虚拟摄像头）\n\n2. 有一定的灵活性（能自己选择级联分类器，最重要的是开源）\n\n3. 更小的体积（相比原版而言，体积约是原版的 2/3，分开编译甚至可以低于 100MiB）\n\n4. 支持大多数 Windows 设备而非限于某沃一体机（虽然原版提取出来以后也可以在其他设备运行）\n\n5. 支持 Windows 7（仅限使用 .NET 6 时, 原版由于 XAML Islands 只能在 Windows 10 1903 及更高版本使用）\n\n6. 更高版本的 .NET 支持（原版使用的是 .NET Core 3.1，虽然反编译并解决一下 WinRT 问题也可以升级）",
+                "keywords": [],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/WhatDamon/OpenLuckyRandom/",
+                        "display_source": "GitHub",
+                        "display_link": "WhatDamon/OpenLuckyRandom"
+                    }
+                ],
+                "banner": "https://github.com/WhatDamon/OpenLuckyRandom/raw/main/screenshots/WndMain.png"
+            },
+            {
+                "name": "MythwareToolkit",
+                "logo": "",
+                "developer": "小流汗黄豆",
+                "description": "极域工具包，支持多种控制极域以及学生机房管理助手的工具。`StudentMain`、`Mythware`、`Jiyu`，支持不依赖 `taskkill`、`ntsd` 等工具杀掉极域。极域未运行时可启动极域，降权到登录用户（路径来自注册表），可显示极域存活状态、解除极域网络限制功能、解除极域 U 盘限制功能、窗口化/全屏化极域广播，支持解极域键盘锁。\n\n**因为~~我们学校~~dubi906w（防歧义更正，2026.1.11）的教室电脑被安装了极域学生端用于集控，找到了这个项目，帮助很大。**",
+                "keywords": [],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/BengbuGuards/MythwareToolkit/",
+                        "display_source": "GitHub",
+                        "display_link": "BengbuGuards/MythwareToolkit"
+                    }
+                ],
+                "banner": "https://img-blog.csdnimg.cn/60d799d3637b4fe8a99c295a6bad605b.png#pic_center"
+            },
+            {
+                "name": "ENAL 希沃易登",
+                "logo": "",
+                "developer": "Xiaocuitang",
+                "description": "希沃白板的自动登录插件，通过替代 EasiAgent 来实现多账号自动免密登录。\n\n**不过这个软件有点坑：**\n\n1. 作为 EasiAgent 的替代品，居然没有实现 `deleteData` 和 `saveData` 接口，这导致原版 EasiAgent 的 SSO 单点登录特性，到了 ENAL 这边就没办法用了。如果你对单点登录有需求的话，那还是别用 ENAL 了。\n\n2. 软件是用 **易语言** 开发的，因此 UI 的使用体验很奇怪，而且还会有自定义单点登录账户昵称后变乱码的 Bug。有时候会遇到无限重启的问题，反正我也不知道该怎么解决 🤷‍♂️。 **（这下释怀了，找到了不开源的原因了，因为没办法开源）**\n\n3. 有的时候使用了 **火绒安全软件** 中的 **网络修复** 工具后，可能会导致 ENAL 或 EasiAgent 都无法使用，那是因为 `local.id.seewo.com` 指向 `127.0.0.1` 的 Hosts 规则被火绒的工具给注释掉了，你需要手动修改 Hosts，让这个规则再次生效就可以了。\n\n4. ENAL 的请求不走系统代理。所以 Fiddler 记得套一层 mihomo TUN。\n\n5. **综上所述，你可以期待逗比画的饼：[EasiAuth](https://github.com/Awesome-Iwb/EasiAuth)（曾经开源，仓库目前不可访问）。该项目据原描述基于 WPF/C# 技术栈开发，使用了最先进的融合接口，多个方法和希沃服务器做账号鉴权，并且提供了 API 接口供第三方软件调用，让第三方软件也可以快速接入希沃账号的账号密码登录、二维码登录、SSO 登录、Token 登录、快联登录。**",
+                "keywords": [],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "",
+                        "url": "https://file.iceawa.com/ICETeamDrive-OneDrive/ENAL/Ver",
+                        "display_source": "下载地址",
+                        "display_link": "file.iceawa.com/ICETeamDrive-OneDrive/ENAL/Ver"
+                    }
+                ],
+                "note": "该软件为闭源软件，且开发者不打算开源。"
+            },
+            {
+                "name": "EasiAuto",
+                "logo": "",
+                "developer": "hxabcd",
+                "description": "EasiAuto 是一个轻量级 CLI 工具，用 Python 编写，专门用于**一键自动登录希沃白板**。它基于 PyAutoGUI 实现图像识别与自动点击，能在希沃一体机或 Windows 电脑上完成账号密码输入与登录操作。支持与 [ClassIsland](https://github.com/ClassIsland/ClassIsland) 的「自动化」功能联动，实现**按课表自动切换老师账号**，大大提升课堂效率。\n\n项目已在一台 Windows 10 希沃一体机上长期实测，稳定性良好；如遇误触打断，工具会自动重试。提供 4K 适配、登录前预警提示、日志输出等贴心选项，满足不同教学场景需求。",
+                "keywords": [
+                    "希沃白板",
+                    "自动登录",
+                    "PyAutoGUI",
+                    "ClassIsland",
+                    "CLI工具"
+                ],
+                "comments": [
+                    {
+                        "commenter": "2,2,3-三甲基戊烷",
+                        "content": "在希沃白板账号切换频繁的班级里，这款小工具简直是救星！一条命令就完成登录，配合 ClassIsland 还能按课表自动切号，彻底告别“上课 3 分钟，登录 5 分钟”的尴尬。作者贴心地加了 4K 适配和确认弹窗，既稳又人性化。~~可惜这么好的工具我们班一般用不到，因为没几个老师用EN5的~~"
+                    }
+                ],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/hxabcd/EasiAuto",
+                        "display_source": "GitHub",
+                        "display_link": "hxabcd/EasiAuto"
+                    }
+                ],
+                "banner": "./banner/EasiAutoPoster.png"
+            },
+            {
+                "name": "ex-caller",
+                "logo": "",
+                "developer": "Typed SIGTERM",
+                "description": "简约风格的随机点名工具，使用 Vue 开发。",
+                "keywords": [],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/typed-sigterm/ex-caller/",
+                        "display_source": "GitHub",
+                        "display_link": "typed-sigterm/ex-caller"
+                    }
+                ],
+                "banner": "https://github.com/typed-sigterm/ex-caller/raw/main/static/demo.webp"
+            },
+            {
+                "name": "ClassNamePicker",
+                "logo": "",
+                "developer": "Chengzi600",
+                "description": "**ClassNamePicker 是一款功能强大的课堂随机点名工具。** 使用 PyQt5 编写，界面简洁。支持从整个班级的名单中随机抽取一人、选择从班级的男生/女生名单中随机抽取一人，可选是否允许重复抽到一人、可保存已抽取过人的名字，并在下次打开后读取，可统计统计已抽人数、剩余人数、概率、总抽取次数等信息。",
+                "keywords": [],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/Chengzi600/ClassNamePicker/",
+                        "display_source": "GitHub",
+                        "display_link": "Chengzi600/ClassNamePicker"
+                    }
+                ],
+                "banner": "./banner/classnamepicker-screenshot.png"
+            },
+            {
+                "name": "SectionIstool",
+                "logo": "https://github.com/SECTL/SectionIstool/raw/main/resources/SectionIstool_icon.png",
+                "developer": "黎泽懿",
+                "description": "该软件会使您在学校班级电脑中方便、快捷的下载适合班级下载各类软件",
+                "keywords": [],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/SECTL/SectionIstool/",
+                        "display_source": "GitHub",
+                        "display_link": "SECTL/SectionIstool"
+                    }
+                ]
+            },
+            {
+                "name": "CountDownControl",
+                "logo": "./images/countdowncontrol-icon.png",
+                "developer": "CJH",
+                "description": "这是一个支持高度自定义的倒计时小工具。本软件可以安装在大屏上（例如教学大屏），也可以安装在普通电脑上。支持最基础的倒计日功能，可支持自定义倒计时显示文字，内置多种主题可供切换。",
+                "keywords": [],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/cjhdevact/CountDownControl/",
+                        "display_source": "GitHub",
+                        "display_link": "cjhdevact/CountDownControl"
+                    }
+                ],
+                "banner": "https://github.com/cjhdevact/CountDownControl/raw/main/Assets/MainUI.png"
+            },
+            {
+                "name": "LockTime",
+                "logo": "./images/countdowncontrol-icon.png",
+                "developer": "CJH",
+                "description": "一个具有深/浅色主题，云母/亚克力背景（需要系统支持），Fluent UI 2 界面的 **时钟锁屏（屏保）** ，支持 Windows 7 及以上版本系统，可以作为屏保使用，也可以自习时在教学白板上使用。支持改变时间的位置，避免因屏幕被遮挡而导致时间被遮挡问题（支持通过参数启动）。支持自定义显示格式、字体、大小、颜色等。",
+                "keywords": [],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/cjhdevact/LockTime/",
+                        "display_source": "GitHub",
+                        "display_link": "cjhdevact/LockTime"
+                    }
+                ],
+                "banner": "https://github.com/cjhdevact/LockTime/raw/main/Assets/MainUI.png"
+            },
+            {
+                "name": "UsefulControl",
+                "logo": "./images/usefulcontrol-icon.png",
+                "developer": "CJH",
+                "description": "这是一个为大屏类电脑（如希沃）编写的实用工具，可以理解为一堆工具的整合包。本软件可以安装在大屏上（例如教学大屏），也可以安装在普通电脑上。",
+                "keywords": [],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/cjhdevact/UsefulControl/",
+                        "display_source": "GitHub",
+                        "display_link": "cjhdevact/UsefulControl"
+                    }
+                ],
+                "banner": "https://github.com/cjhdevact/UsefulControl/raw/main/Assets/uimain.png"
+            },
+            {
+                "name": "Rand 抽号器",
+                "logo": "./images/rand-icon.png",
+                "developer": "LuoYunXi",
+                "description": "Rand 是一款简洁、现代化、易用的抽号软件，专为触摸屏设备和Windows 7及以上版本操作系统设计，采用 Fluent Design 风格（不过没有用 iUWM），界面美观且易于操作。可以轻松配置班级名单和座号范围，支持单人和多人模式，保证抽号过程不重复，适用于各类场合的随机抽取。软件还提供暗色模式和自定义设置，能够满足不同需求。尽管当前功能已较为完善，但开发者未来还将优化平衡机制和增加其他功能。\n\n最好的是他支持 Windows 7（虽然是 .NET 9 开发的，听说有内存泄漏问题，等我过几天实测一下即可），32位和64位都支持。",
+                "keywords": [],
+                "comments": [
+                    {
+                        "commenter": "Douxiba",
+                        "content": "这是唯一一个我想试试看的 **随机点名软件** ，看起来完成度还是挺高的，过几天去学校电脑上看看用着如何。好用的话再在这里更新一下锐评。"
+                    }
+                ],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/LuoYunXi0407/Rand/",
+                        "display_source": "GitHub",
+                        "display_link": "LuoYunXi0407/Rand"
+                    }
+                ],
+                "banner": "https://github.com/user-attachments/assets/9237f4df-c18e-4015-8b0b-a8d032880676"
+            },
+            {
+                "name": "NamePicker",
+                "logo": "https://github.com/NamePickerOrg.png",
+                "developer": "LHGS-github",
+                "description": "NamePicker 是用 Python 开发的一款简洁的点名软件。提供了最基本的点名功能，还提供了人性化的配置修改界面，支持从外部读取名单，支持特殊的点名规则。",
+                "keywords": [],
+                "comments": [
+                    {
+                        "commenter": "Douxiba",
+                        "content": "看起来可以试试，有图有真相，过几天把图加上给大家看看。"
+                    }
+                ],
+                "links": [
+                    {
+                        "icon": "bilibili",
+                        "url": "https://www.bilibili.com/video/BV1tZGwzvEra/",
+                        "display_source": "B站宣传视频",
+                        "display_link": "BV1tZGwzvEra"
+                    },
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/NamePickerOrg/NamePicker/",
+                        "display_source": "GitHub",
+                        "display_link": "NamePickerOrg/NamePicker"
+                    }
+                ]
+            },
+            {
+                "name": "IslandCaller",
+                "logo": "./images/islandcaller-icon.png",
+                "developer": "HUSX100",
+                "description": "**IslandCaller 是一个基于 ClassIsland 提醒服务的轻量级点名器** ，用于在课堂上快速点名。输入班级名单后，可以通过桌面快捷方式快速点名。依赖 ClassIsland 的提醒服务，通过注册 URL 协议来创建桌面快捷方式或浏览器书签实现快速点名。",
+                "keywords": [],
+                "comments": [
+                    {
+                        "commenter": "Douxiba",
+                        "content": "有幸体验过该项目，但是目前来说真的很 **“轻量”** ，就只支持创建快捷方式到桌面。编辑名单的体验并不是很好。只能说，作为一个 ClassIsland 插件来说，依托于 ClassIsland 的提醒服务，安装方便，易于使用的确是优点，但是部分基本功能的缺乏，以及自定义性还有待加强，而且 ClassIsland 的提醒众所周知，文字都比较小，刚好抽选到的学生名字又是显示为提醒内容，导致可读性不高，看着不明显。希望后续能有所改进。"
+                    }
+                ],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/HUSX100/IslandCaller/",
+                        "display_source": "GitHub",
+                        "display_link": "HUSX100/IslandCaller"
+                    }
+                ]
+            },
+            {
+                "name": "SecRandom",
+                "logo": "./images/secrandom-icon.png",
+                "developer": "lzy98276",
+                "description": "SecRandom 是一个便捷且现代化的随机抽取工具，支持多种抽取方式，如抽单人、抽多人、抽小组、抽性别等，适用于教学、会议等多种场景。它具备语音提示、历史记录、详细抽取记录等功能，并支持多班级名单管理，提供独立抽取与设置界面，拥有便捷悬浮窗设计和自动清除抽取记录功能。",
+                "keywords": [
+                    "随机抽取",
+                    "语音提示",
+                    "历史记录",
+                    "班级管理",
+                    "公平抽取"
+                ],
+                "comments": [
+                    {
+                        "commenter": "2,2,3-三甲基戊烷",
+                        "content": "SecRandom以其现代化的界面和丰富的功能，在众多随机抽取工具中脱颖而出。其公平抽取机制和动态权重系统确保了抽取过程的公正性，适合各种需要公平分配的场景。虽然项目还在发展中，但已经赢得了广泛的用户关注和好评。"
+                    }
+                ],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/SECTL/SecRandom",
+                        "display_source": "GitHub",
+                        "display_link": "SECTL/SecRandom"
+                    }
+                ],
+                "banner": "https://raw.githubusercontent.com/SECTL/SecRandom/refs/heads/master/data/assets/icon/secrandom-banner.png"
+            },
+            {
+                "name": "RandPicker",
+                "logo": "./images/randpicker-icon.png",
+                "developer": "xuanxuan1231",
+                "description": "RandPicker 是一款简单易用的随机抽取工具，支持多种抽取方式，如随机抽取单人、多人、小组等，适用于教学、会议、抽奖等多种场景。它具备语音提示、历史记录、详细抽取记录等功能，并支持多班级名单管理，提供独立抽取与设置界面，拥有便捷悬浮窗设计和自动清除抽取记录功能。",
+                "keywords": [
+                    "随机抽取",
+                    "语音提示",
+                    "历史记录",
+                    "班级管理",
+                    "公平抽取"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/xuanxuan1231/RandPicker",
+                        "display_source": "GitHub",
+                        "display_link": "xuanxuan1231/RandPicker"
+                    },
+                    {
+                        "icon": "icon-light",
+                        "url": "https://xuanxuan1231.github.io/RandPicker/",
+                        "display_source": "原官网",
+                        "display_link": "https://xuanxuan1231.github.io/RandPicker/"
+                    }
+                ],
+                "banner": "./banner/randpicker-banner.png"
+            },
+            {
+                "name": "SmartBoardTools",
+                "logo": "",
+                "developer": "FeedWhisper5148",
+                "description": "SmartBoardTools是一个看板软件。使用原生JavaScript制作。主要亮点在于其中内置了强大的AI功能。",
+                "keywords": [
+                    "课程表",
+                    "AI",
+                    "JavaScript",
+                    "看板软件",
+                    "竞赛获奖作品"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/FeedWhisper5148/SmartBoardTools_OpenSourced",
+                        "display_source": "GitHub",
+                        "display_link": "FeedWhisper5148/SmartBoardTools_OpenSourced"
+                    }
+                ],
+                "banner": "./banner/SmartBoardTools-banner.jpg"
+            },
+            {
+                "name": "SeewoSplash",
+                "logo": "./images/SeewoSplash-icon.png",
+                "developer": "fengyec2",
+                "description": "SeewoSplash 是一个 Fluent 风格的图形化工具，允许你自定义希沃白板以及 WPS Office 的启动图。",
+                "keywords": [
+                    "希沃白板",
+                    "WPS",
+                    "自定义",
+                    "美化",
+                    "FluentUI",
+                    "启动图"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/fengyec2/custom-seewo-splash-screen",
+                        "display_source": "GitHub",
+                        "display_link": "fengyec2/custom-seewo-splash-screen"
+                    }
+                ],
+                "banner": "./banner/SeewoSplash-banner.png"
+            },
+            {
+                "name": "ClassWebsite",
+                "logo": "",
+                "developer": "jiugulixiaoniu",
+                "description": "ClassWebsite是一个网页类项目，它可以用来为您的班级建立专属的班级网页。",
+                "keywords": [
+                    "班级网页",
+                    "班级文化"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "bilibili",
+                        "url": "https://www.bilibili.com/video/BV1WJxNzKEiX",
+                        "display_source": "B站宣传视频",
+                        "display_link": "BV1WJxNzKEiX"
+                    },
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/jiugulixiaoniu/CWBS-ClassWebsite",
+                        "display_source": "GitHub",
+                        "display_link": "jiugulixiaoniu/CWBS-ClassWebsite"
+                    }
+                ]
+            },
+            {
+                "name": "Class-Scoring-Program",
+                "logo": "",
+                "developer": "andycey",
+                "description": "Class-Scoring-Program是一个用于协助班委统计和分析班级同学量化积分的程序，支持积分管理、批量加扣分、作业统计、分组管理等功能。",
+                "keywords": [
+                    "积分"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/andycey/Class-Scoring-Program",
+                        "display_source": "GitHub",
+                        "display_link": "andycey/Class-Scoring-Program"
+                    }
+                ]
+            },
+            {
+                "name": "沉浸式时钟",
+                "logo": "./images/immersive-clock-icon.svg",
+                "developer": "QQHKX",
+                "description": "沉浸式时钟是一个现代化的全屏时钟应用，支持时钟、倒计时、秒表与晚自习模式，内置天气、噪音提醒及噪音走势图、励志金句、课程表管理。",
+                "keywords": [
+                    "时钟"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "immersive-clock-icon",
+                        "url": "clock.qqhkx.com",
+                        "display_source": "官网",
+                        "display_link": "clock.qqhkx.com"
+                    },
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/QQHKX/Immersive-clock",
+                        "display_source": "GitHub",
+                        "display_link": "QQHKX/Immersive-clock"
+                    }
+                ],
+                "banner": "./banner/immersive-clock-banner.jpeg"
+            },
+            {
+                "name": "沉浸式噪音监测",
+                "logo": "",
+                "developer": "QQHKX",
+                "description": "沉浸式时钟衍生作品。本项目从沉浸式时钟项目中提取并独立了噪音监测模块，旨在公开其基于心理声学与专注力理论的噪音评分引擎，为社区提供了一个高质量的噪音监测算法实现参考。该算法不仅仅是一个简单的分贝计，而是通过多维度加权扣分制，客观量化环境噪音对学习心流的干扰程度。",
+                "keywords": [
+                    "噪音监测",
+                    "专注度"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/QQHKX/Immersive-clock-monitor",
+                        "display_source": "GitHub",
+                        "display_link": "QQHKX/Immersive-clock-monitor"
+                    }
+                ]
+            },
+            {
+                "name": "360拖堂卫士",
+                "logo": "",
+                "developer": "BSOD-MEMZ",
+                "description": "360拖堂卫士是一款防拖堂软件，会在下课时间弹窗警告，必要时强制关闭PPT、希沃白板等教学软件，保障学生充足的下课休息时间。",
+                "keywords": [
+                    "防拖堂"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/BSOD-MEMZ/360-Class-Guard",
+                        "display_source": "GitHub",
+                        "display_link": "BSOD-MEMZ/360-Class-Guard"
+                    }
+                ],
+                "banner": "./banner/360-Class-Guard-banner.png"
+            },
+            {
+                "name": "教室座位安排系统",
+                "logo": "",
+                "developer": "xi-guang1",
+                "description": "教室座位安排系统是一个基于PyQt5开发的图形化工具，旨在帮助教师和管理人员快速、灵活地安排教室座位。",
+                "keywords": [
+                    "座位安排"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/xi-guang1/SeatsChanger",
+                        "display_source": "GitHub",
+                        "display_link": "xi-guang1/SeatsChanger"
+                    }
+                ]
+            },
+            {
+                "name": "ClassAware",
+                "logo": "",
+                "developer": "unDefFtr",
+                "description": "一款基于Flutter的跨平台的电子班牌APP。",
+                "keywords": [
+                    "班牌"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/unDefFtr/ClassAware",
+                        "display_source": "GitHub",
+                        "display_link": "unDefFtr/ClassAware"
+                    }
+                ]
+            },
+            {
+                "name": "CsesWebEditor",
+                "logo": "",
+                "developer": "PYLXU",
+                "description": "一个基于Web的课程表编辑器，支持CSES（Course Schedule Exchange Schema）格式的课程表创建、管理和导出。",
+                "keywords": [
+                    "CSES"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/SmartTeachCN/CsesWebEditor",
+                        "display_source": "GitHub",
+                        "display_link": "SmartTeachCN/CsesWebEditor"
+                    }
+                ]
+            },
+            {
+                "name": "CSES规范",
+                "logo": "",
+                "developer": "UnDefFtr",
+                "description": "CSES 是一种通用的课程表交换格式，用于在不同软件之间交换课程表。",
+                "keywords": [
+                    "CSES"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/SmartTeachCN/CSES/",
+                        "display_source": "GitHub",
+                        "display_link": "SmartTeachCN/CSES"
+                    }
+                ]
+            },
+            {
+                "name": "HugoAura",
+                "logo": "./images/seewo-hugoaura-icon.png",
+                "developer": "Minoricew",
+                "description": "**HugoAura** 是一款专为 **希沃 (Seewo) 教育生态** 打造的深度注入式修改方案。通过对“希沃管家”及其核心组件的运行时注入，本项目旨在打破原有系统的功能封闭性，为教育信息化环境提供更自由、更纯净、更强大的交互体验。",
+                "keywords": [
+                    "希沃管家",
+                    "注入方案",
+                    "电教优化",
+                    "功能破解",
+                    "开源工具"
+                ],
+                "comments": [
+                    {
+                        "commenter": "2,2,3-三甲基戊烷",
+                        "content": "相当不错的一个项目，值得放到🥇的位置，希望这个项目在希沃官方打击的夹缝下生存下去吧。(~~我就读的学校太牢了，用不起希沃~~) 我们学校暂时没有采用此种集控方案，故我没有使用这个项目的需求（）"
+                    }
+                ],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/HugoAura/Seewo-HugoAura/",
+                        "display_source": "GitHub",
+                        "display_link": "HugoAura/Seewo-HugoAura"
+                    }
+                ],
+                "banner": "./banner/seewo-hugoaura-banner.png"
+            },
+            {
+                "name": "VoiceHub",
+                "logo": "",
+                "developer": "laoshuikaixue",
+                "description": "这是一个使用Nuxt 3全栈框架开发的现代化校园广播站点歌管理系统。系统提供完整的点歌、投票、排期管理、通知推送、数据分析、权限控制和数据库管理功能，支持多角色权限管理和灵活的系统配置。",
+                "keywords": [
+                    "广播"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/laoshuikaixue/VoiceHub/",
+                        "display_source": "GitHub",
+                        "display_link": "laoshuikaixue/VoiceHub"
+                    }
+                ],
+                "banner": "./banner/voicehub-banner.png"
+            },
+            {
+                "name": "学生任务分配系统",
+                "logo": "",
+                "developer": "VacuolePaoo",
+                "description": "简单而优雅的课堂任务分配工具。",
+                "keywords": [
+                    "任务分配"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/VacuolePaoo/stu-task-generate/",
+                        "display_source": "GitHub",
+                        "display_link": "VacuolePaoo/stu-task-generate"
+                    }
+                ]
+            },
+            {
+                "name": "Class-Roster-Picker-NEXT",
+                "logo": "./images/Class-Roster-Picker-icon.png",
+                "developer": "Yish1",
+                "description": "一个课堂点名工具。",
+                "keywords": [
+                    "课堂点名"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/Yish1/Class-Roster-Picker-NEXT/",
+                        "display_source": "GitHub",
+                        "display_link": "Yish1/Class-Roster-Picker-NEXT"
+                    }
+                ]
+            },
+            {
+                "name": "蓝屏抽奖机",
+                "logo": "",
+                "developer": "Lanpinggai666",
+                "description": "一个置顶在屏幕左侧中间方便老师在上课时点名的程序（你用来抽奖也行），是作者的第一个屎山。目前正在完善，\n使用WPF编写，使用（伪）Fluent System Design。运行需要.NET 8.0运行库。",
+                "keywords": [
+                    "课堂点名",
+                    "WPF"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/Lanpinggai666/lanpingChouJiang/",
+                        "display_source": "GitHub",
+                        "display_link": "Lanpinggai666/lanpingChouJiang"
+                    }
+                ],
+                "banner": "./banner/lanpingchoujiang-banner.png"
+            },
+            {
+                "name": "考试倒计时桌面小工具",
+                "logo": "",
+                "developer": "Zpcin",
+                "description": "一个简洁、实用的桌面倒计时小工具，帮助学生及家长精准掌握距离中考/高考的剩余时间。",
+                "keywords": [
+                    "倒计时",
+                    "小工具",
+                    "桌面挂件",
+                    "中高考"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/Zpcin/ExaminationCountdown/",
+                        "display_source": "GitHub",
+                        "display_link": "Zpcin/ExaminationCountdown"
+                    }
+                ]
+            },
+            {
+                "name": "国家中小学智慧教育平台电子课本下载工具",
+                "logo": "",
+                "developer": "Happycola233",
+                "description": "本工具可以帮助您从国家中小学智慧教育平台获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。",
+                "keywords": [
+                    "国家教育平台",
+                    "电子课本",
+                    "下载工具"
+                ],
+                "comments": [
+                    {
+                        "commenter": "2,2,3-三甲基戊烷",
+                        "content": "用了一下，感觉还不错，界面也比较直观，只是要在浏览器的DevTools里面的控制台输入一串指令把用户数据获取一下（可能对于小白不太友好）由于它下载的是国家中小学智慧教育平台的电子课本，课本PDF基本上都是矢量的，挺适合下载下来自学或者无纸化学习。"
+                    }
+                ],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/Happycola233/tchMaterial-parser/",
+                        "display_source": "GitHub",
+                        "display_link": "Happycola233/tchMaterial-parser"
+                    }
+                ]
+            },
+            {
+                "name": "希沃白板5激活工具",
+                "logo": "",
+                "developer": "YXC-Lhy",
+                "description": "一款用于激活希沃白板5至专业版的工具。",
+                "keywords": [
+                    "希沃白板",
+                    "激活工具"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/YXC-Lhy/EasiNote-5-Crack-Tool/",
+                        "display_source": "GitHub",
+                        "display_link": "YXC-Lhy/EasiNote-5-Crack-Tool"
+                    }
+                ]
+            },
+            {
+                "name": "SeewoGadgets",
+                "logo": "",
+                "developer": "Fengyec2",
+                "description": "希沃一体机实用小工具与资源合集。",
+                "keywords": [
+                    "实用工具"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/Fengyec2/seewo-gadgets/",
+                        "display_source": "GitHub",
+                        "display_link": "Fengyec2/seewo-gadgets"
+                    }
+                ]
+            },
+            {
+                "name": "Luminalium",
+                "logo": "./images/luminalium-icon.svg",
+                "developer": "Haraguse",
+                "description": "一款用于演示软件上的批注工具，支持屏幕画笔、荧光笔、橡皮擦、撤销/重做等功能，适用于教学、会议、直播、远程协作等场景，轻量开源，Windows 平台即开即用。",
+                "keywords": [
+                    "屏幕批注",
+                    "屏幕画笔",
+                    "演示助手",
+                    "教学工具",
+                    "会议标注",
+                    "直播涂鸦",
+                    "远程协作",
+                    "截图保存",
+                    "开源",
+                    "Windows"
+                ],
+                "comments": [
+                    {
+                        "commenter": "2,2,3-三甲基戊烷",
+                        "content": "相当不错的一款演示批注工具，尽管现在还处在前期发展阶段，但前途远大，是相当有潜力的一个项目。"
+                    }
+                ],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/SECTL/Luminalium/",
+                        "display_source": "GitHub",
+                        "display_link": "SECTL/Luminalium"
+                    }
+                ],
+                "banner": "./banner/Luminalium-Banner.png"
+            },
+            {
+                "name": "ClassWindow",
+                "logo": "",
+                "developer": "xinghai-smartedu",
+                "description": "`ClassWindow`是一个美丽，精巧的用于班级的桌面悬浮窗，基于Electron构建，用于显示信息等",
+                "keywords": [
+                    "教育科技",
+                    "屏幕批注",
+                    "课堂互动",
+                    "开源工具",
+                    "Windows工具",
+                    "教师必备"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/xinghai-smartedu/classwindow/",
+                        "display_source": "GitHub",
+                        "display_link": "xinghai-smartedu/classwindow"
+                    }
+                ],
+                "banner": "./banner/ClassWindow.png"
+            },
+            {
+                "name": "C30 智能教学自动登录工具",
+                "logo": "",
+                "developer": "WSXYT",
+                "description": "一个基于 图像识别（OpenCV） 与 自动化控制（PyAutoGUI/SendInput） 的  C30 教学软件自动登录工具 。专为简化教室场景下的日常登录流程而设计，支持自动降级匹配、输入框回退定位以及完善的异常处理。",
+                "keywords": [
+                    "自动登录",
+                    "OpenCV",
+                    "自动化控制",
+                    "C30教学软件",
+                    "Python"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/WSXYT/C30Auto-login",
+                        "display_source": "GitHub",
+                        "display_link": "WSXYT/C30Auto-login"
+                    },
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/WSXYT",
+                        "display_source": "WSXYT",
+                        "display_link": "WSXYT"
+                    }
+                ]
+            },
+            {
+                "name": "ClassScreenLock",
+                "logo": "",
+                "developer": "jiugulixiaoniu",
+                "description": "ClassScreenLock是一款防止无计算机基础的学生会在下课/放学后对计算机进行操作而造成不必要的麻烦的软件，使用本软件可便于课堂的管控。",
+                "keywords": [
+                    "教育科技",
+                    "屏幕锁",
+                    "课堂管控",
+                    "开源工具",
+                    "Windows工具",
+                    "教师必备"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/ClassScreenLock/ClassScreenLock/",
+                        "display_source": "GitHub",
+                        "display_link": "ClassScreenLock/ClassScreenLock"
+                    }
+                ],
+                "banner": "./banner/ClassScreenLock.png"
+            },
+            {
+                "name": "SidebarForClass",
+                "logo": "",
+                "developer": "PANDAJSR",
+                "description": "一个为班级大屏设计的侧边栏应用，使用 Electron + React",
+                "keywords": [
+                    "侧边栏"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/PANDAJSR/sidebar-for-class/",
+                        "display_source": "GitHub",
+                        "display_link": "PANDAJSR/sidebar-for-class"
+                    }
+                ],
+                "banner": "./banner/sidebar-for-class.png"
+            },
+            {
+                "name": "DD-CLASS",
+                "logo": "",
+                "developer": "joyapple",
+                "description": "一个现代化的班级管理系统，使用 FastAPI 后端和 Vue3 前端构建，支持学生管理、成绩管理、考勤管理、积分系统等核心功能。",
+                "keywords": [
+                    "班级管理系统",
+                    "Vue",
+                    "学生管理",
+                    "考勤管理",
+                    "积分系统"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/joyapple/DD-CLASS/",
+                        "display_source": "GitHub",
+                        "display_link": "joyapple/DD-CLASS"
+                    }
+                ],
+                "banner": "./banner/DD-CLASS.png"
+            },
+            {
+                "name": "EasiNote Theme Patcher",
+                "logo": "./images/EasiNote-Theme-Patcher.ico",
+                "developer": "BSOD-MEMZ",
+                "description": "一个用于编辑与打包希沃白板主题资源的桌面工具（PySide2 + Fluent Widgets）。",
+                "keywords": [
+                    "桌面工具",
+                    "PySide2",
+                    "Fluent Widgets",
+                    "课堂互动",
+                    "希沃白板"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/BSOD-MEMZ/EasiNote-Theme-Patcher/",
+                        "display_source": "GitHub",
+                        "display_link": "BSOD-MEMZ/EasiNote-Theme-Patcher"
+                    }
+                ],
+                "banner": "./banner/entp.png"
+            },
+            {
+                "name": "SeatingChartEditor2",
+                "logo": "",
+                "developer": "Braydenccc",
+                "description": "一个跨平台、现代化的座位表可视化编辑器。\n支持在浏览器直接使用，也可下载纯净桌面版（轻量级 Tauri 版 和 独立 Electron 版）。",
+                "keywords": [
+                    "座位表",
+                    "跨平台",
+                    "极速名单录入",
+                    "跨端云同步",
+                    "WebDAV支持"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/Braydenccc/SeatingChartEditor2/",
+                        "display_source": "GitHub",
+                        "display_link": "Braydenccc/SeatingChartEditor2"
+                    }
+                ],
+                "banner": "./banner/SeatingChartEditor2.jpeg"
+            },
+            {
+                "name": "随机点名Plus 3",
+                "logo": "",
+                "developer": "Macrohard0001",
+                "description": "一个基于PyGame开发的课堂点名工具，支持多种点名模式和概率调整，帮助教师实现公平高效的点名",
+                "keywords": [
+                    "课堂点名工具",
+                    "PyGame",
+                    "响应式布局"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/Macrohard0001/Random_Choice_Plus_3/",
+                        "display_source": "GitHub",
+                        "display_link": "Macrohard0001/Random_Choice_Plus_3"
+                    }
+                ],
+                "banner": "./banner/Random_Choice_Plus_3.png"
+            },
+            {
+                "name": "不想排座位",
+                "logo": "./images/不想排座位.png",
+                "developer": "laosan577622",
+                "description": "一个基于 Django 的教室排座系统，覆盖班级管理、名单导入、布局编辑、自动排座、约束规则、小组管理和多格式导出。",
+                "keywords": [
+                    "座位表",
+                    "pywebview"
+                ],
+                "comments": [],
+                "links": [
+                    {
+                        "icon": "github",
+                        "url": "https://github.com/laosan577622/open_fuckseats/",
+                        "display_source": "GitHub",
+                        "display_link": "laosan577622/open_fuckseats"
+                    }
+                ],
+                "banner": "./banner/不想排座位.png"
+            }
+        ]
+    }
+}
