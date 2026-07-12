@@ -1,0 +1,468 @@
+{
+    "ranks": [
+        {
+            "symbol": "🥇",
+            "description": "是指最推荐使用的、必装软件推荐，每个类别下至少有一个被标记的软件或项目。"
+        },
+        {
+            "symbol": "🥈",
+            "description": "是指推荐尝试体验的，功能基本完善的软件。基本上这些被标注的项目大多比被 🥇 标注的项目稍微逊色一些或体验略微欠缺一些，但依旧做得很不错。"
+        },
+        {
+            "symbol": "🌟",
+            "description": "是指那些目前看来发展不怎么样的，但前景远大的软件或项目。"
+        },
+        {
+            "symbol": "🔴",
+            "description": "是指最近几天内收录的新软件或新项目。"
+        }
+    ],
+    "types": [
+        {
+            "name": "✏️ 屏幕批注与白板软件",
+            "id": "notation_and_whiteboard"
+        },
+        {
+            "name": "📊 课表与看板类软件",
+            "id": "timetable_and_dashboard"
+        },
+        {
+            "name": "🛠️ 辅助类软件与实用工具",
+            "id": "utilities_and_tools"
+        }
+    ],
+    "tags": [
+        {
+            "id": "stopped_updating",
+            "name": "停更",
+            "display": "![停更](https://img.shields.io/badge/%E5%81%9C%E6%9B%B4-%23b91c1c?style=flat&label=)"
+        },
+        {
+            "id": "closed_source",
+            "name": "闭源",
+            "display": "![闭源](https://img.shields.io/badge/%E9%97%AD%E6%BA%90-%23ca8a04?style=flat&label=)"
+        }
+    ],
+    "content": {
+        "notation_and_whiteboard": [
+            {
+                "name": "Ink Canvas",
+                "rank": "🥈",
+                "tags": ["stopped_updating"],
+                "developer": "WXRIW"
+            },
+            {
+                "name": "Ink Canvas Plus",
+                "rank": "🥈",
+                "developer": "Clover Yan"
+            },
+            {
+                "name": "Ink Canvas Artistry",
+                "rank": "🥇",
+                "tags": ["stopped_updating"],
+                "developer": "WuChanging"
+            },
+            {
+                "name": "智绘教Inkeys",
+                "rank": "🥈",
+                "developer": "Alan-CRL"
+            },
+            {
+                "name": "ICC-CE",
+                "rank": "🥈",
+                "developer": "CJKmkp"
+            },
+            {
+                "name": "InkCanvasForClass",
+                "rank": "🔴",
+                "developer": "segf4ultk1nger"
+            },
+            {
+                "name": "ICC-Re",
+                "rank": "🔴",
+                "developer": "LiuYan-xwx"
+            },
+            {
+                "name": "ppInk",
+                "developer": "pubpub-zz"
+            },
+            {
+                "name": "Ink Canvas Better",
+                "developer": "BaiYang2238"
+            },
+            {
+                "name": "ShowWrite视频展台",
+                "developer": "wwcrdrvf6u"
+            },
+            {
+                "name": "LanStartWrite",
+                "rank": "🔴",
+                "developer": "wwiinnddyy"
+            }
+        ],
+        "timetable_and_dashboard": [
+            {
+                "name": "ClassIsland",
+                "rank": "🥇",
+                "developer": "HelloWRC"
+            },
+            {
+                "name": "ZongziTEK 黑板贴",
+                "rank": "🥇",
+                "developer": "ZongziTEK"
+            },
+            {
+                "name": "StickyHomeworks2",
+                "rank": "🌟",
+                "developer": "StickyHomeworks2"
+            },
+            {
+                "name": "考试看板-Legacy",
+                "rank": "🥈",
+                "developer": "Hello8693"
+            },
+            {
+                "name": "ExtraIsland",
+                "rank": "🌟",
+                "developer": "LiPolymer"
+            },
+            {
+                "name": "Class Widgets",
+                "rank": "🥈",
+                "developer": "RinLit-233-shiroko"
+            },
+            {
+                "name": "凌云班级组件",
+                "developer": "Yamikani-Flipped"
+            },
+            {
+                "name": "Education Clock",
+                "developer": "Return-Log"
+            },
+            {
+                "name": "ClassBoard",
+                "developer": "Candlest"
+            },
+            {
+                "name": "班级热搜排行",
+                "developer": "SRInternet-Studio"
+            },
+            {
+                "name": "Ris_ClassTool",
+                "developer": "PYLXU"
+            },
+            {
+                "name": "TimerIn",
+                "tags": ["closed_source"],
+                "developer": "SRInternet-Studio"
+            },
+            {
+                "name": "ExamSchedule",
+                "developer": "MKStoler1024"
+            },
+            {
+                "name": "Classworks",
+                "developer": "孙悟元（原 GitHub 主页目前不可访问）"
+            },
+            {
+                "name": "Classpaper-v4",
+                "rank": "🔴",
+                "developer": "E7G"
+            },
+            {
+                "name": "考试语音播报系统",
+                "rank": "🔴",
+                "developer": "cloudy059"
+            },
+            {
+                "name": "ExamClock",
+                "rank": "🔴",
+                "developer": "L33Z22L11"
+            },
+            {
+                "name": "iClass",
+                "rank": "🔴",
+                "developer": "gpuawa"
+            },
+            {
+                "name": "Zooni",
+                "rank": "🔴",
+                "developer": "Xwei1645"
+            },
+            {
+                "name": "ElectronClassScheduleX",
+                "rank": "🔴",
+                "developer": "Enigfrank"
+            },
+            {
+                "name": "每日作业面板",
+                "rank": "🔴",
+                "developer": "BearWhite-Z"
+            },
+            {
+                "name": "LanMountainDesktop",
+                "rank": "🔴",
+                "developer": "wwiinnddyy"
+            },
+            {
+                "name": "CountBoard",
+                "tags": ["stopped_updating"],
+                "developer": "Gaoyongxian666"
+            },
+            {
+                "name": "ElectronClassSchedule",
+                "tags": ["stopped_updating"],
+                "developer": "EnderWolf006"
+            },
+            {
+                "name": "ClassTools",
+                "tags": ["stopped_updating"],
+                "developer": "clansty"
+            },
+            {
+                "name": "StickyHomeworks",
+                "tags": ["stopped_updating"],
+                "developer": "HelloWRC"
+            },
+            {
+                "name": "Sticky-attention",
+                "tags": ["stopped_updating"],
+                "developer": "jizilin6732"
+            },
+            {
+                "name": "HomeworkBoard",
+                "tags": ["stopped_updating"],
+                "developer": "EnderWolf006"
+            }
+        ],
+        "utilities_and_tools": [
+            {
+                "name": "PPT 触屏辅助",
+                "developer": "RinLit-233-shiroko"
+            },
+            {
+                "name": "（希沃）定制启动器",
+                "rank": "🥇",
+                "developer": "SRInternet-Studio"
+            },
+            {
+                "name": "全能班辅",
+                "developer": "XeonMEMZ"
+            },
+            {
+                "name": "OpenLuckyRandom",
+                "developer": "WhatDamon"
+            },
+            {
+                "name": "MythwareToolkit",
+                "developer": "BengbuGuards"
+            },
+            {
+                "name": "ENAL 希沃易登",
+                "rank": "🥈",
+                "tags": ["closed_source"],
+                "developer": "Xiaocuitang"
+            },
+            {
+                "name": "EasiAuto",
+                "developer": "hxabcd"
+            },
+            {
+                "name": "ExCaller",
+                "developer": "typed-sigterm"
+            },
+            {
+                "name": "ClassNamePicker",
+                "developer": "Chengzi600"
+            },
+            {
+                "name": "SectionIstool",
+                "tags": ["stopped_updating"],
+                "developer": "lzy98276"
+            },
+            {
+                "name": "CountDownControl",
+                "developer": "cjhdevact"
+            },
+            {
+                "name": "LockTime",
+                "developer": "cjhdevact"
+            },
+            {
+                "name": "UsefulControl",
+                "developer": "cjhdevact"
+            },
+            {
+                "name": "Rand 抽号器",
+                "rank": "🥈",
+                "developer": "LuoYunXi0407"
+            },
+            {
+                "name": "NamePicker",
+                "developer": "LHGS-github"
+            },
+            {
+                "name": "IslandCaller",
+                "developer": "HUSX100"
+            },
+            {
+                "name": "SecRandom",
+                "developer": "lzy98276"
+            },
+            {
+                "name": "RandPicker",
+                "developer": "xuanxuan1231"
+            },
+            {
+                "name": "SmartBoardTools",
+                "rank": "🔴",
+                "developer": "FeedWhisper5148"
+            },
+            {
+                "name": "SeewoSplash",
+                "rank": "🔴",
+                "developer": "fengyec2"
+            },
+            {
+                "name": "Class-Website",
+                "rank": "🔴",
+                "developer": "jiugulixiaoniu"
+            },
+            {
+                "name": "Class-Scoring-Program",
+                "rank": "🔴",
+                "developer": "andycey"
+            },
+            {
+                "name": "沉浸式时钟",
+                "rank": "🔴",
+                "developer": "QQHKX"
+            },
+            {
+                "name": "沉浸式噪音监测",
+                "rank": "🔴",
+                "developer": "QQHKX"
+            },
+            {
+                "name": "360拖堂卫士",
+                "rank": "🔴",
+                "developer": "BSOD-MEMZ"
+            },
+            {
+                "name": "教室座位安排系统",
+                "rank": "🔴",
+                "developer": "xi-guang1"
+            },
+            {
+                "name": "ClassAware",
+                "rank": "🔴",
+                "developer": "unDefFtr"
+            },
+            {
+                "name": "CsesWebEditor",
+                "rank": "🔴",
+                "developer": "PYLXU"
+            },
+            {
+                "name": "CSES规范",
+                "rank": "🔴",
+                "developer": "unDefFtr"
+            },
+            {
+                "name": "HugoAura",
+                "rank": "🥇",
+                "developer": "Minoricew"
+            },
+            {
+                "name": "VoiceHub",
+                "rank": "🔴",
+                "developer": "laoshuikaixue"
+            },
+            {
+                "name": "学生任务分配系统",
+                "rank": "🔴",
+                "developer": "VacuolePaoo"
+            },
+            {
+                "name": "Class-Roster-Picker-NEXT",
+                "rank": "🔴",
+                "developer": "Yish1"
+            },
+            {
+                "name": "蓝屏抽奖机",
+                "rank": "🔴",
+                "developer": "lanpinggai666"
+            },
+            {
+                "name": "考试倒计时桌面小工具",
+                "rank": "🔴",
+                "developer": "Zpcin"
+            },
+            {
+                "name": "国家中小学智慧教育平台电子课本下载工具",
+                "rank": "🔴",
+                "developer": "happycola233"
+            },
+            {
+                "name": "希沃白板5激活工具",
+                "rank": "🔴",
+                "developer": "YXC-Lhy"
+            },
+            {
+                "name": "SeewoGadgets",
+                "rank": "🔴",
+                "developer": "fengyec2"
+            },
+            {
+                "name": "Luminalium",
+                "rank": "🌟",
+                "developer": "Haraguse"
+            },
+            {
+                "name": "ClassWindow",
+                "rank": "🔴",
+                "developer": "xinghai-smartedu"
+            },
+            {
+                "name": "C30 智能教学自动登录工具",
+                "rank": "🔴",
+                "developer": "WSXYT"
+            },
+            {
+                "name": "ClassScreenLock",
+                "rank": "🔴",
+                "developer": "jiugulixiaoniu"
+            },
+            {
+                "name": "Sidebar for Class",
+                "rank": "🔴",
+                "developer": "PANDAJSR"
+            },
+            {
+                "name": "DD-CLASS",
+                "rank": "🔴",
+                "developer": "joyapple"
+            },
+            {
+                "name": "EasiNote-Theme-Patcher",
+                "rank": "🔴",
+                "developer": "BSOD-MEMZ"
+            },
+            {
+                "name": "SeatingChartEditor2",
+                "rank": "🔴",
+                "developer": "Braydenccc"
+            },
+            {
+                "name": "随机点名Plus 3",
+                "rank": "🔴",
+                "developer": "Macrohard0001"
+            },
+            {
+                "name": "不想排座位",
+                "rank": "🔴",
+                "developer": "laosan577622"
+            }
+        ]
+    }
+}
