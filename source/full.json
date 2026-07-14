@@ -116,19 +116,22 @@
                         "icon": "github",
                         "url": "https://github.com/WXRIW/Ink-Canvas/",
                         "display_source": "GitHub 1",
-                        "display_link": "WXRIW/Ink-Canvas"
+                        "display_link": "WXRIW/Ink-Canvas",
+                        "display_logo": "images/github-icon.svg"
                     },
                     {
                         "icon": "github",
                         "url": "https://github.com/InkCanvas/Ink-Canvas/",
                         "display_source": "GitHub 2",
-                        "display_link": "InkCanvas/Ink-Canvas"
+                        "display_link": "InkCanvas/Ink-Canvas",
+                        "display_logo": "images/github-icon.svg"
                     },
                     {
                         "icon": "microsoft-store",
                         "url": "https://www.microsoft.com/store/apps/9NXJFDD97XJ3?cid=ghreadme",
                         "display_source": "微软商店",
-                        "display_link": "Ink Canvas - WXRIW"
+                        "display_link": "Ink Canvas - WXRIW",
+                        "display_logo": "./images/microsoft-store.png"
                     }
                 ],
                 "note": "该项目已经停更。",
@@ -166,13 +169,15 @@
                         "icon": "InkCanvas",
                         "url": "https://khyan.top/ic+",
                         "display_source": "官网",
-                        "display_link": "https://khyan.top/ic+"
+                        "display_link": "https://khyan.top/ic+",
+                        "display_logo": "https://raw.githubusercontent.com/clover-yan/Ink-Canvas-Plus/master/Ink%20Canvas/Resources/InkCanvas.png"
                     },
                     {
                         "icon": "github",
                         "url": "https://github.com/clover-yan/Ink-Canvas-Plus",
                         "display_source": "GitHub",
-                        "display_link": "clover-yan/Ink-Canvas-Plus"
+                        "display_link": "clover-yan/Ink-Canvas-Plus",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "tags": [
@@ -218,7 +223,8 @@
                         "icon": "github",
                         "url": "https://github.com/InkCanvas/Ink-Canvas-Artistry/",
                         "display_source": "GitHub",
-                        "display_link": "InkCanvas/Ink-Canvas-Artistry"
+                        "display_link": "InkCanvas/Ink-Canvas-Artistry",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "https://github.com/InkCanvas/Ink-Canvas-Artistry/raw/master/Images/Screenshot1.png",
@@ -254,19 +260,22 @@
                         "icon": "bilibili",
                         "url": "https://www.bilibili.com/video/BV1Tz421z72e/",
                         "display_source": "B站宣传视频",
-                        "display_link": "BV1Tz421z72e"
+                        "display_link": "BV1Tz421z72e",
+                        "display_logo": "images/bilibili-icon.svg"
                     },
                     {
                         "icon": "logo",
                         "url": "https://www.inkeys.top/",
                         "display_source": "官网",
-                        "display_link": "https://www.inkeys.top/"
+                        "display_link": "https://www.inkeys.top/",
+                        "display_logo": "https://raw.githubusercontent.com/Alan-CRL/Inkeys/main/GithubRes/logo.png"
                     },
                     {
                         "icon": "github",
                         "url": "https://github.com/Alan-CRL/Inkeys/",
                         "display_source": "GitHub",
-                        "display_link": "Alan-CRL/Inkeys"
+                        "display_link": "Alan-CRL/Inkeys",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "https://raw.githubusercontent.com/Alan-CRL/Inkeys/main/GithubRes/cover2.png#gh-light-mode-only",
@@ -302,37 +311,43 @@
                         "icon": "github",
                         "url": "https://github.com/InkCanvasForClass/community/",
                         "display_source": "GitHub",
-                        "display_link": "InkCanvasForClass/community"
+                        "display_link": "InkCanvasForClass/community",
+                        "display_logo": "images/github-icon.svg"
                     },
                     {
                         "icon": "icc",
                         "url": "https://icc-ce.inkeys.top",
                         "display_source": "官网（Inkeys服务器，推荐使用）",
-                        "display_link": "https://icc-ce.inkeys.top"
+                        "display_link": "https://icc-ce.inkeys.top",
+                        "display_logo": "https://github.com/InkCanvasForClass/community/raw/net6/icc.png"
                     },
                     {
                         "icon": "github",
                         "url": "https://inkcanvasforclass.github.io/",
                         "display_source": "官网（GitHub静态网页）",
-                        "display_link": "https://inkcanvasforclass.github.io/"
+                        "display_link": "https://inkcanvasforclass.github.io/",
+                        "display_logo": "images/github-icon.svg"
                     },
                     {
                         "icon": "cloudflare",
                         "url": "https://www.iccce.dpdns.org/",
                         "display_source": "官网（CloudFlare）",
-                        "display_link": "https://www.iccce.dpdns.org/"
+                        "display_link": "https://www.iccce.dpdns.org/",
+                        "display_logo": "images/cloudflare.svg"
                     },
                     {
                         "icon": "icc",
                         "url": "https://inkcanvasforclass.github.io/website/",
                         "display_source": "文档站",
-                        "display_link": "https://inkcanvasforclass.github.io/website/"
+                        "display_link": "https://inkcanvasforclass.github.io/website/",
+                        "display_logo": "https://github.com/InkCanvasForClass/community/raw/net6/icc.png"
                     },
                     {
                         "icon": "icc",
                         "url": "https://cjk-is-so-cute.netlify.app/",
                         "display_source": "文档站（备用）",
-                        "display_link": "https://cjk-is-so-cute.netlify.app/"
+                        "display_link": "https://cjk-is-so-cute.netlify.app/",
+                        "display_logo": "https://github.com/InkCanvasForClass/community/raw/net6/icc.png"
                     }
                 ],
                 "banner": "https://github.com/user-attachments/assets/598634da-dec5-473c-9765-ce8dcb3a3f76",
@@ -365,7 +380,8 @@
                         "icon": "github",
                         "url": "https://github.com/segf4ultk1nger-universe/InkCanvasForClass/",
                         "display_source": "GitHub",
-                        "display_link": "segf4ultk1nger-universe/InkCanvasForClass"
+                        "display_link": "segf4ultk1nger-universe/InkCanvasForClass",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ]
             },
@@ -391,7 +407,8 @@
                         "icon": "github",
                         "url": "https://github.com/LiuYan-xwx/InkCanvasForClass-Remastered/",
                         "display_source": "GitHub",
-                        "display_link": "LiuYan-xwx/InkCanvasForClass-Remastered"
+                        "display_link": "LiuYan-xwx/InkCanvasForClass-Remastered",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ]
             },
@@ -421,7 +438,8 @@
                         "icon": "github",
                         "url": "https://github.com/pubpub-zz/ppInk/",
                         "display_source": "GitHub",
-                        "display_link": "pubpub-zz/ppInk"
+                        "display_link": "pubpub-zz/ppInk",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "https://github.com/pubpub-zz/ppInk/raw/master/Animation.gif",
@@ -449,13 +467,15 @@
                         "icon": "github",
                         "url": "https://github.com/BaiYang2238/Ink-Canvas-Better",
                         "display_source": "GitHub(旧)",
-                        "display_link": "BaiYang2238/Ink-Canvas-Better"
+                        "display_link": "BaiYang2238/Ink-Canvas-Better",
+                        "display_logo": "images/github-icon.svg"
                     },
                     {
                         "icon": "github",
                         "url": "https://github.com/BaiYang2238",
                         "display_source": "开发者(旧)",
-                        "display_link": "BaiYang2238"
+                        "display_link": "BaiYang2238",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "note": "此项目已迁移至新仓库，开发交由ThreeMonthAgo负责，Awesome-Iwb 将在新仓库准备好后更新内容。以下内容以旧版为准。点此前往新仓库。"
@@ -486,7 +506,8 @@
                         "icon": "github",
                         "url": "https://github.com/SECTL/ShowWrite/",
                         "display_source": "GitHub",
-                        "display_link": "SECTL/ShowWrite"
+                        "display_link": "SECTL/ShowWrite",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ]
             },
@@ -511,7 +532,8 @@
                         "icon": "github",
                         "url": "https://github.com/wwiinnddyy/LanStartWrite/",
                         "display_source": "GitHub",
-                        "display_link": "wwiinnddyy/LanStartWrite"
+                        "display_link": "wwiinnddyy/LanStartWrite",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ]
             }
@@ -548,13 +570,15 @@
                         "icon": "github",
                         "url": "https://github.com/ClassIsland/ClassIsland/",
                         "display_source": "GitHub",
-                        "display_link": "ClassIsland/ClassIsland"
+                        "display_link": "ClassIsland/ClassIsland",
+                        "display_logo": "images/github-icon.svg"
                     },
                     {
                         "icon": "github",
                         "url": "https://github.com/ClassIsland/ClassIsland-net6/",
                         "display_source": "GitHub(.NET 6)",
-                        "display_link": "ClassIsland/ClassIsland-net6"
+                        "display_link": "ClassIsland/ClassIsland-net6",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "./banner/classisland-banner.png",
@@ -588,7 +612,8 @@
                         "icon": "github",
                         "url": "https://github.com/ZongziTEK/ZongziTEK-Blackboard-Sticker/",
                         "display_source": "GitHub",
-                        "display_link": "ZongziTEK/ZongziTEK-Blackboard-Sticker"
+                        "display_link": "ZongziTEK/ZongziTEK-Blackboard-Sticker",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "./banner/ZongziTEK-Blackboard-Sticker.png",
@@ -614,7 +639,8 @@
                         "icon": "github",
                         "url": "https://github.com/StickyHomeworks2/StickyHomeworks2/",
                         "display_source": "GitHub",
-                        "display_link": "StickyHomeworks2/StickyHomeworks2"
+                        "display_link": "StickyHomeworks2/StickyHomeworks2",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "./banner/sh2banner.png"
@@ -642,13 +668,15 @@
                         "icon": "github",
                         "url": "https://github.com/ExamAware/ExamShowboard-Legacy/",
                         "display_source": "GitHub",
-                        "display_link": "ExamAware/ExamShowboard-Legacy"
+                        "display_link": "ExamAware/ExamShowboard-Legacy",
+                        "display_logo": "images/github-icon.svg"
                     },
                     {
                         "icon": "github",
                         "url": "https://github.com/ProjectCampus-CH/exam-showboard-next/",
                         "display_source": "GitHub(镜像)",
-                        "display_link": "ProjectCampus-CH/exam-showboard-next"
+                        "display_link": "ProjectCampus-CH/exam-showboard-next",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "https://github.com/ProjectCampus-CH/exam-showboard-next/raw/master/.Screenshots/InfoPage.png",
@@ -683,13 +711,15 @@
                         "icon": "github",
                         "url": "https://github.com/LiPolymer/ExtraIsland/",
                         "display_source": "GitHub",
-                        "display_link": "github:LiPolymer/ExtraIsland"
+                        "display_link": "github:LiPolymer/ExtraIsland",
+                        "display_logo": "images/github-icon.svg"
                     },
                     {
                         "icon": "gitlab",
                         "url": "https://gitlab.com/LiPolymer/ExtraIsland/",
                         "display_source": "GitLab",
-                        "display_link": "gitlab:LiPolymer/ExtraIsland"
+                        "display_link": "gitlab:LiPolymer/ExtraIsland",
+                        "display_logo": "images/gitlab-icon.svg"
                     }
                 ],
                 "banner": "./banner/extraisland.png"
@@ -720,13 +750,15 @@
                         "icon": "bilibili",
                         "url": "https://www.bilibili.com/video/BV1xwW9eyEGu/",
                         "display_source": "B站宣传视频",
-                        "display_link": "BV1xwW9eyEGu"
+                        "display_link": "BV1xwW9eyEGu",
+                        "display_logo": "images/bilibili-icon.svg"
                     },
                     {
                         "icon": "github",
                         "url": "https://github.com/Class-Widgets/Class-Widgets/",
                         "display_source": "GitHub",
-                        "display_link": "Class-Widgets/Class-Widgets"
+                        "display_link": "Class-Widgets/Class-Widgets",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "https://github.com/Class-Widgets/Class-Widgets/blob/main/img/Banner.png?raw=true",
@@ -757,19 +789,22 @@
                         "icon": "LINGYUN",
                         "url": "https://www.yamikani.cn",
                         "display_source": "官网",
-                        "display_link": "https://www.yamikani.cn"
+                        "display_link": "https://www.yamikani.cn",
+                        "display_logo": "https://raw.githubusercontent.com/Yamikani-Flipped/LingYun-Class-Widgets/refs/heads/main/Resource/ico/LINGYUN.ico"
                     },
                     {
                         "icon": "LINGYUN",
                         "url": "https://service.yamikani.cn",
                         "display_source": "服务官网",
-                        "display_link": "https://service.yamikani.cn"
+                        "display_link": "https://service.yamikani.cn",
+                        "display_logo": "https://raw.githubusercontent.com/Yamikani-Flipped/LingYun-Class-Widgets/refs/heads/main/Resource/ico/LINGYUN.ico"
                     },
                     {
                         "icon": "github",
                         "url": "https://github.com/Yamikani-Flipped/LingYun-Class-Widgets/",
                         "display_source": "GitHub",
-                        "display_link": "Yamikani-Flipped/LingYun-Class-Widgets"
+                        "display_link": "Yamikani-Flipped/LingYun-Class-Widgets",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "https://github.com/Yamikani-Flipped/LingYun-Class-Widgets/blob/main/Resource/png/%E5%87%8C%E4%BA%91%E7%8F%AD%E7%BA%A7%E7%BB%84%E4%BB%B6.png"
@@ -794,7 +829,8 @@
                         "icon": "github",
                         "url": "https://github.com/Return-Log/Education-Clock/",
                         "display_source": "GitHub",
-                        "display_link": "Return-Log/Education-Clock"
+                        "display_link": "Return-Log/Education-Clock",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "./banner/education-clock.png",
@@ -825,7 +861,8 @@
                         "icon": "github",
                         "url": "https://github.com/Candlest/ClassBoard/",
                         "display_source": "GitHub",
-                        "display_link": "Candlest/ClassBoard"
+                        "display_link": "Candlest/ClassBoard",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "https://github.com/Candlest/ClassBoard/raw/main/README/theme_breeze.png",
@@ -857,13 +894,15 @@
                         "icon": "bilibili",
                         "url": "https://www.bilibili.com/video/BV1SoiyYuEtt/",
                         "display_source": "B站宣传视频",
-                        "display_link": "BV1SoiyYuEtt"
+                        "display_link": "BV1SoiyYuEtt",
+                        "display_logo": "images/bilibili-icon.svg"
                     },
                     {
                         "icon": "github",
                         "url": "https://github.com/SRInternet-Studio/Class_Hot_Search/",
                         "display_source": "GitHub",
-                        "display_link": "SRInternet-Studio/Class_Hot_Search"
+                        "display_link": "SRInternet-Studio/Class_Hot_Search",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "https://github.com/user-attachments/assets/5a7b2281-339a-47a9-b926-8f33936255d4",
@@ -893,7 +932,8 @@
                         "icon": "github",
                         "url": "https://github.com/Ris-Soft/Ris_ClassTool/",
                         "display_source": "GitHub",
-                        "display_link": "Ris-Soft/Ris_ClassTool"
+                        "display_link": "Ris-Soft/Ris_ClassTool",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "https://github.com/user-attachments/assets/c7c2b95a-22cb-4763-8f37-6cb6db603918",
@@ -919,13 +959,15 @@
                         "icon": "github",
                         "url": "https://www.sr-studio.cn/",
                         "display_source": "官网",
-                        "display_link": "https://www.sr-studio.cn/"
+                        "display_link": "https://www.sr-studio.cn/",
+                        "display_logo": "images/github-icon.svg"
                     },
                     {
                         "icon": "123pan",
                         "url": "https://www.123912.com/s/ICnzVv-cINgh",
                         "display_source": "123网盘下载",
-                        "display_link": "https://www.123912.com/s/ICnzVv-cINgh"
+                        "display_link": "https://www.123912.com/s/ICnzVv-cINgh",
+                        "display_logo": "images/123pan.svg"
                     }
                 ],
                 "banner": "./banner/timerin-banner.png",
@@ -954,7 +996,8 @@
                         "icon": "github",
                         "url": "https://github.com/ExamAware/ExamSchedule/",
                         "display_source": "GitHub",
-                        "display_link": "ExamAware/ExamSchedule"
+                        "display_link": "ExamAware/ExamSchedule",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "./banner/examaware-banner.png"
@@ -979,13 +1022,15 @@
                         "icon": "github",
                         "url": "https://github.com/Moonrend/Classworks/",
                         "display_source": "GitHub",
-                        "display_link": "Moonrend/Classworks"
+                        "display_link": "Moonrend/Classworks",
+                        "display_logo": "images/github-icon.svg"
                     },
                     {
                         "icon": "logo",
                         "url": "https://cs.houlangs.com",
                         "display_source": "网站",
-                        "display_link": "https://cs.houlangs.com"
+                        "display_link": "https://cs.houlangs.com",
+                        "display_logo": "https://raw.githubusercontent.com/Moonrend/Classworks/f546621ab9b4b0b25b5b3e4ea41edf7a33dfd3ac/public/pwa/image/logo.svg"
                     }
                 ],
                 "banner": "https://github.com/Moonrend/Classworks/blob/main/images/banner.png?raw=true",
@@ -1012,7 +1057,8 @@
                         "icon": "github",
                         "url": "https://github.com/Gaoyongxian666/CountBoard/",
                         "display_source": "GitHub",
-                        "display_link": "Gaoyongxian666/CountBoard"
+                        "display_link": "Gaoyongxian666/CountBoard",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "https://pic.imgdb.cn/item/61a889432ab3f51d9190ca1b.png",
@@ -1038,7 +1084,8 @@
                         "icon": "github",
                         "url": "https://github.com/EnderWolf006/ElectronClassSchedule/",
                         "display_source": "GitHub",
-                        "display_link": "EnderWolf006/ElectronClassSchedule"
+                        "display_link": "EnderWolf006/ElectronClassSchedule",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "https://github.com/EnderWolf006/ElectronClassSchedule/raw/main/image%2FREADME%2Fview.png",
@@ -1067,7 +1114,8 @@
                         "icon": "github",
                         "url": "https://github.com/clansty/ClassTools/",
                         "display_source": "GitHub",
-                        "display_link": "clansty/ClassTools"
+                        "display_link": "clansty/ClassTools",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "https://github.com/clansty/ClassTools/raw/main/introduction/wallpaper.png",
@@ -1088,7 +1136,8 @@
                         "icon": "github",
                         "url": "https://github.com/HelloWRC/StickyHomeworks/",
                         "display_source": "GitHub",
-                        "display_link": "HelloWRC/StickyHomeworks"
+                        "display_link": "HelloWRC/StickyHomeworks",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "note": "该项目已经停止更新，并由 jizilin6732 接手，请去尝试使用StickyHomeworks2吧。",
@@ -1118,7 +1167,8 @@
                         "icon": "github",
                         "url": "https://github.com/Sticky-attention/Sticky-attention/",
                         "display_source": "GitHub",
-                        "display_link": "Sticky-attention/Sticky-attention"
+                        "display_link": "Sticky-attention/Sticky-attention",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "https://github.com/Sticky-attention/Sticky-attention/raw/master/image/banner.jpg",
@@ -1140,7 +1190,8 @@
                         "icon": "github",
                         "url": "https://github.com/EnderWolf006/HomeworkBoard/",
                         "display_source": "GitHub",
-                        "display_link": "EnderWolf006/HomeworkBoard"
+                        "display_link": "EnderWolf006/HomeworkBoard",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "note": "该项目已经停止更新。",
@@ -1163,7 +1214,8 @@
                         "icon": "github",
                         "url": "https://github.com/E7G/Classpaper-v4",
                         "display_source": "GitHub",
-                        "display_link": "E7G/Classpaper-v4"
+                        "display_link": "E7G/Classpaper-v4",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "./banner/classpaper-banner.jpeg"
@@ -1182,7 +1234,8 @@
                         "icon": "github",
                         "url": "https://github.com/cloudy059/ExamBroadcast",
                         "display_source": "GitHub",
-                        "display_link": "cloudy059/ExamBroadcast"
+                        "display_link": "cloudy059/ExamBroadcast",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "./banner/ExamBroadcast-banner.png"
@@ -1201,7 +1254,8 @@
                         "icon": "github",
                         "url": "https://github.com/gpuawa/iClass",
                         "display_source": "GitHub",
-                        "display_link": "gpuawa/iClass"
+                        "display_link": "gpuawa/iClass",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ]
             },
@@ -1219,7 +1273,8 @@
                         "icon": "github",
                         "url": "https://github.com/L33Z22L11/ExamClock/",
                         "display_source": "GitHub",
-                        "display_link": "L33Z22L11/ExamClock"
+                        "display_link": "L33Z22L11/ExamClock",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ]
             },
@@ -1237,7 +1292,8 @@
                         "icon": "github",
                         "url": "https://github.com/Xwei1645/Zooni/",
                         "display_source": "GitHub",
-                        "display_link": "Xwei1645/Zooni"
+                        "display_link": "Xwei1645/Zooni",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ]
             },
@@ -1256,13 +1312,15 @@
                         "icon": "icon",
                         "url": "https://doc.cavendi.top/",
                         "display_source": "官网",
-                        "display_link": "https://doc.cavendi.top/"
+                        "display_link": "https://doc.cavendi.top/",
+                        "display_logo": "https://github.com/Enigfrank/ElectronClassScheduleX/raw/refs/heads/main/src/image/icon.svg"
                     },
                     {
                         "icon": "github",
                         "url": "https://github.com/Enigfrank/ElectronClassScheduleX/",
                         "display_source": "GitHub",
-                        "display_link": "Enigfrank/ElectronClassScheduleX"
+                        "display_link": "Enigfrank/ElectronClassScheduleX",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ]
             },
@@ -1280,7 +1338,8 @@
                         "icon": "github",
                         "url": "https://github.com/BearWhite-Z/Daily-Commission-Panel/",
                         "display_source": "GitHub",
-                        "display_link": "BearWhite-Z/Daily-Commission-Panel"
+                        "display_link": "BearWhite-Z/Daily-Commission-Panel",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ]
             },
@@ -1303,7 +1362,8 @@
                         "icon": "github",
                         "url": "https://github.com/wwiinnddyy/LanMountainDesktop/",
                         "display_source": "GitHub",
-                        "display_link": "wwiinnddyy/LanMountainDesktop"
+                        "display_link": "wwiinnddyy/LanMountainDesktop",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "./banner/LanMountainDesktop.png",
@@ -1323,13 +1383,15 @@
                         "icon": "bilibili",
                         "url": "https://www.bilibili.com/video/BV1G6Y7eLEA1/",
                         "display_source": "B站宣传视频",
-                        "display_link": "BV1G6Y7eLEA1"
+                        "display_link": "BV1G6Y7eLEA1",
+                        "display_logo": "images/bilibili-icon.svg"
                     },
                     {
                         "icon": "github",
                         "url": "https://github.com/RinLit-233-shiroko/PowerPoint-Touch-Assist/",
                         "display_source": "GitHub",
-                        "display_link": "RinLit-233-shiroko/PowerPoint-Touch-Assist"
+                        "display_link": "RinLit-233-shiroko/PowerPoint-Touch-Assist",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "tags": [
@@ -1357,13 +1419,15 @@
                         "icon": "bilibili",
                         "url": "https://www.bilibili.com/video/BV1ky42187JM/",
                         "display_source": "B站宣传视频",
-                        "display_link": "BV1ky42187JM"
+                        "display_link": "BV1ky42187JM",
+                        "display_logo": "images/bilibili-icon.svg"
                     },
                     {
                         "icon": "github",
                         "url": "https://github.com/SRInternet-Studio/Seewo-Custom_Start/",
                         "display_source": "GitHub",
-                        "display_link": "SRInternet-Studio/Seewo-Custom_Start"
+                        "display_link": "SRInternet-Studio/Seewo-Custom_Start",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "./banner/seewo-custom-start.png"
@@ -1380,25 +1444,29 @@
                         "icon": "bilibili",
                         "url": "https://space.bilibili.com/404100570/",
                         "display_source": "B站账号",
-                        "display_link": "@ 软硬工作室"
+                        "display_link": "@ 软硬工作室",
+                        "display_logo": "images/bilibili-icon.svg"
                     },
                     {
                         "icon": "github",
                         "url": "https://github.com/XeonMEMZ/qnbf6/",
                         "display_source": "GitHub(v6)",
-                        "display_link": "XeonMEMZ/qnbf6"
+                        "display_link": "XeonMEMZ/qnbf6",
+                        "display_logo": "images/github-icon.svg"
                     },
                     {
                         "icon": "github",
                         "url": "https://github.com/XeonMEMZ/qnbf5/",
                         "display_source": "GitHub(v5)",
-                        "display_link": "XeonMEMZ/qnbf5"
+                        "display_link": "XeonMEMZ/qnbf5",
+                        "display_logo": "images/github-icon.svg"
                     },
                     {
                         "icon": "github",
                         "url": "https://github.com/XeonMEMZ/qnbf4/",
                         "display_source": "GitHub(v4)",
-                        "display_link": "XeonMEMZ/qnbf4"
+                        "display_link": "XeonMEMZ/qnbf4",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "tags": [
@@ -1417,7 +1485,8 @@
                         "icon": "github",
                         "url": "https://github.com/WhatDamon/OpenLuckyRandom/",
                         "display_source": "GitHub",
-                        "display_link": "WhatDamon/OpenLuckyRandom"
+                        "display_link": "WhatDamon/OpenLuckyRandom",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "https://github.com/WhatDamon/OpenLuckyRandom/raw/main/screenshots/WndMain.png",
@@ -1437,7 +1506,8 @@
                         "icon": "github",
                         "url": "https://github.com/BengbuGuards/MythwareToolkit/",
                         "display_source": "GitHub",
-                        "display_link": "BengbuGuards/MythwareToolkit"
+                        "display_link": "BengbuGuards/MythwareToolkit",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "https://img-blog.csdnimg.cn/60d799d3637b4fe8a99c295a6bad605b.png#pic_center"
@@ -1487,7 +1557,8 @@
                         "icon": "github",
                         "url": "https://github.com/hxabcd/EasiAuto",
                         "display_source": "GitHub",
-                        "display_link": "hxabcd/EasiAuto"
+                        "display_link": "hxabcd/EasiAuto",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "./banner/EasiAutoPoster.png"
@@ -1504,7 +1575,8 @@
                         "icon": "github",
                         "url": "https://github.com/typed-sigterm/ex-caller/",
                         "display_source": "GitHub",
-                        "display_link": "typed-sigterm/ex-caller"
+                        "display_link": "typed-sigterm/ex-caller",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "https://github.com/typed-sigterm/ex-caller/raw/main/static/demo.webp",
@@ -1524,7 +1596,8 @@
                         "icon": "github",
                         "url": "https://github.com/Chengzi600/ClassNamePicker/",
                         "display_source": "GitHub",
-                        "display_link": "Chengzi600/ClassNamePicker"
+                        "display_link": "Chengzi600/ClassNamePicker",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "./banner/classnamepicker-screenshot.png",
@@ -1544,7 +1617,8 @@
                         "icon": "github",
                         "url": "https://github.com/SECTL/SectionIstool/",
                         "display_source": "GitHub",
-                        "display_link": "SECTL/SectionIstool"
+                        "display_link": "SECTL/SectionIstool",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "tags": [
@@ -1564,7 +1638,8 @@
                         "icon": "github",
                         "url": "https://github.com/cjhdevact/CountDownControl/",
                         "display_source": "GitHub",
-                        "display_link": "cjhdevact/CountDownControl"
+                        "display_link": "cjhdevact/CountDownControl",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "https://github.com/cjhdevact/CountDownControl/raw/main/Assets/MainUI.png",
@@ -1584,7 +1659,8 @@
                         "icon": "github",
                         "url": "https://github.com/cjhdevact/LockTime/",
                         "display_source": "GitHub",
-                        "display_link": "cjhdevact/LockTime"
+                        "display_link": "cjhdevact/LockTime",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "https://github.com/cjhdevact/LockTime/raw/main/Assets/MainUI.png",
@@ -1604,7 +1680,8 @@
                         "icon": "github",
                         "url": "https://github.com/cjhdevact/UsefulControl/",
                         "display_source": "GitHub",
-                        "display_link": "cjhdevact/UsefulControl"
+                        "display_link": "cjhdevact/UsefulControl",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "https://github.com/cjhdevact/UsefulControl/raw/main/Assets/uimain.png",
@@ -1629,7 +1706,8 @@
                         "icon": "github",
                         "url": "https://github.com/LuoYunXi0407/Rand/",
                         "display_source": "GitHub",
-                        "display_link": "LuoYunXi0407/Rand"
+                        "display_link": "LuoYunXi0407/Rand",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "https://github.com/user-attachments/assets/9237f4df-c18e-4015-8b0b-a8d032880676",
@@ -1654,13 +1732,15 @@
                         "icon": "bilibili",
                         "url": "https://www.bilibili.com/video/BV1tZGwzvEra/",
                         "display_source": "B站宣传视频",
-                        "display_link": "BV1tZGwzvEra"
+                        "display_link": "BV1tZGwzvEra",
+                        "display_logo": "images/bilibili-icon.svg"
                     },
                     {
                         "icon": "github",
                         "url": "https://github.com/NamePickerOrg/NamePicker/",
                         "display_source": "GitHub",
-                        "display_link": "NamePickerOrg/NamePicker"
+                        "display_link": "NamePickerOrg/NamePicker",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "tags": [
@@ -1684,7 +1764,8 @@
                         "icon": "github",
                         "url": "https://github.com/HUSX100/IslandCaller/",
                         "display_source": "GitHub",
-                        "display_link": "HUSX100/IslandCaller"
+                        "display_link": "HUSX100/IslandCaller",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "tags": [
@@ -1714,7 +1795,8 @@
                         "icon": "github",
                         "url": "https://github.com/SECTL/SecRandom",
                         "display_source": "GitHub",
-                        "display_link": "SECTL/SecRandom"
+                        "display_link": "SECTL/SecRandom",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "https://raw.githubusercontent.com/SECTL/SecRandom/refs/heads/master/data/assets/icon/secrandom-banner.png"
@@ -1737,13 +1819,15 @@
                         "icon": "github",
                         "url": "https://github.com/xuanxuan1231/RandPicker",
                         "display_source": "GitHub",
-                        "display_link": "xuanxuan1231/RandPicker"
+                        "display_link": "xuanxuan1231/RandPicker",
+                        "display_logo": "images/github-icon.svg"
                     },
                     {
                         "icon": "icon-light",
                         "url": "https://xuanxuan1231.github.io/RandPicker/",
                         "display_source": "原官网",
-                        "display_link": "https://xuanxuan1231.github.io/RandPicker/"
+                        "display_link": "https://xuanxuan1231.github.io/RandPicker/",
+                        "display_logo": "https://github.com/xuanxuan1231/RandPicker/raw/main/assets/icon-light.jpg"
                     }
                 ],
                 "banner": "./banner/randpicker-banner.png",
@@ -1769,7 +1853,8 @@
                         "icon": "github",
                         "url": "https://github.com/FeedWhisper5148/SmartBoardTools_OpenSourced",
                         "display_source": "GitHub",
-                        "display_link": "FeedWhisper5148/SmartBoardTools_OpenSourced"
+                        "display_link": "FeedWhisper5148/SmartBoardTools_OpenSourced",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "./banner/SmartBoardTools-banner.jpg"
@@ -1793,7 +1878,8 @@
                         "icon": "github",
                         "url": "https://github.com/fengyec2/custom-seewo-splash-screen",
                         "display_source": "GitHub",
-                        "display_link": "fengyec2/custom-seewo-splash-screen"
+                        "display_link": "fengyec2/custom-seewo-splash-screen",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "./banner/SeewoSplash-banner.png"
@@ -1813,13 +1899,15 @@
                         "icon": "bilibili",
                         "url": "https://www.bilibili.com/video/BV1WJxNzKEiX",
                         "display_source": "B站宣传视频",
-                        "display_link": "BV1WJxNzKEiX"
+                        "display_link": "BV1WJxNzKEiX",
+                        "display_logo": "images/bilibili-icon.svg"
                     },
                     {
                         "icon": "github",
                         "url": "https://github.com/jiugulixiaoniu/CWBS-ClassWebsite",
                         "display_source": "GitHub",
-                        "display_link": "jiugulixiaoniu/CWBS-ClassWebsite"
+                        "display_link": "jiugulixiaoniu/CWBS-ClassWebsite",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ]
             },
@@ -1837,7 +1925,8 @@
                         "icon": "github",
                         "url": "https://github.com/andycey/Class-Scoring-Program",
                         "display_source": "GitHub",
-                        "display_link": "andycey/Class-Scoring-Program"
+                        "display_link": "andycey/Class-Scoring-Program",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ]
             },
@@ -1855,13 +1944,15 @@
                         "icon": "immersive-clock-icon",
                         "url": "clock.qqhkx.com",
                         "display_source": "官网",
-                        "display_link": "clock.qqhkx.com"
+                        "display_link": "clock.qqhkx.com",
+                        "display_logo": "./images/immersive-clock-icon.svg"
                     },
                     {
                         "icon": "github",
                         "url": "https://github.com/QQHKX/Immersive-clock",
                         "display_source": "GitHub",
-                        "display_link": "QQHKX/Immersive-clock"
+                        "display_link": "QQHKX/Immersive-clock",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "./banner/immersive-clock-banner.jpeg"
@@ -1881,7 +1972,8 @@
                         "icon": "github",
                         "url": "https://github.com/QQHKX/Immersive-clock-monitor",
                         "display_source": "GitHub",
-                        "display_link": "QQHKX/Immersive-clock-monitor"
+                        "display_link": "QQHKX/Immersive-clock-monitor",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ]
             },
@@ -1899,7 +1991,8 @@
                         "icon": "github",
                         "url": "https://github.com/BSOD-MEMZ/360-Class-Guard",
                         "display_source": "GitHub",
-                        "display_link": "BSOD-MEMZ/360-Class-Guard"
+                        "display_link": "BSOD-MEMZ/360-Class-Guard",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "./banner/360-Class-Guard-banner.png"
@@ -1918,7 +2011,8 @@
                         "icon": "github",
                         "url": "https://github.com/xi-guang1/SeatsChanger",
                         "display_source": "GitHub",
-                        "display_link": "xi-guang1/SeatsChanger"
+                        "display_link": "xi-guang1/SeatsChanger",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ]
             },
@@ -1936,7 +2030,8 @@
                         "icon": "github",
                         "url": "https://github.com/unDefFtr/ClassAware",
                         "display_source": "GitHub",
-                        "display_link": "unDefFtr/ClassAware"
+                        "display_link": "unDefFtr/ClassAware",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ]
             },
@@ -1954,7 +2049,8 @@
                         "icon": "github",
                         "url": "https://github.com/SmartTeachCN/CsesWebEditor",
                         "display_source": "GitHub",
-                        "display_link": "SmartTeachCN/CsesWebEditor"
+                        "display_link": "SmartTeachCN/CsesWebEditor",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ]
             },
@@ -1972,7 +2068,8 @@
                         "icon": "github",
                         "url": "https://github.com/SmartTeachCN/CSES/",
                         "display_source": "GitHub",
-                        "display_link": "SmartTeachCN/CSES"
+                        "display_link": "SmartTeachCN/CSES",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ]
             },
@@ -1999,7 +2096,8 @@
                         "icon": "github",
                         "url": "https://github.com/HugoAura/Seewo-HugoAura/",
                         "display_source": "GitHub",
-                        "display_link": "HugoAura/Seewo-HugoAura"
+                        "display_link": "HugoAura/Seewo-HugoAura",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "./banner/seewo-hugoaura-banner.png"
@@ -2018,7 +2116,8 @@
                         "icon": "github",
                         "url": "https://github.com/laoshuikaixue/VoiceHub/",
                         "display_source": "GitHub",
-                        "display_link": "laoshuikaixue/VoiceHub"
+                        "display_link": "laoshuikaixue/VoiceHub",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "./banner/voicehub-banner.png"
@@ -2037,7 +2136,8 @@
                         "icon": "github",
                         "url": "https://github.com/VacuolePaoo/stu-task-generate/",
                         "display_source": "GitHub",
-                        "display_link": "VacuolePaoo/stu-task-generate"
+                        "display_link": "VacuolePaoo/stu-task-generate",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ]
             },
@@ -2055,7 +2155,8 @@
                         "icon": "github",
                         "url": "https://github.com/Yish1/Class-Roster-Picker-NEXT/",
                         "display_source": "GitHub",
-                        "display_link": "Yish1/Class-Roster-Picker-NEXT"
+                        "display_link": "Yish1/Class-Roster-Picker-NEXT",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ]
             },
@@ -2074,7 +2175,8 @@
                         "icon": "github",
                         "url": "https://github.com/Lanpinggai666/lanpingChouJiang/",
                         "display_source": "GitHub",
-                        "display_link": "Lanpinggai666/lanpingChouJiang"
+                        "display_link": "Lanpinggai666/lanpingChouJiang",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "./banner/lanpingchoujiang-banner.png"
@@ -2096,7 +2198,8 @@
                         "icon": "github",
                         "url": "https://github.com/Zpcin/ExaminationCountdown/",
                         "display_source": "GitHub",
-                        "display_link": "Zpcin/ExaminationCountdown"
+                        "display_link": "Zpcin/ExaminationCountdown",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ]
             },
@@ -2121,7 +2224,8 @@
                         "icon": "github",
                         "url": "https://github.com/Happycola233/tchMaterial-parser/",
                         "display_source": "GitHub",
-                        "display_link": "Happycola233/tchMaterial-parser"
+                        "display_link": "Happycola233/tchMaterial-parser",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ]
             },
@@ -2140,7 +2244,8 @@
                         "icon": "github",
                         "url": "https://github.com/YXC-Lhy/EasiNote-5-Crack-Tool/",
                         "display_source": "GitHub",
-                        "display_link": "YXC-Lhy/EasiNote-5-Crack-Tool"
+                        "display_link": "YXC-Lhy/EasiNote-5-Crack-Tool",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ]
             },
@@ -2158,7 +2263,8 @@
                         "icon": "github",
                         "url": "https://github.com/Fengyec2/seewo-gadgets/",
                         "display_source": "GitHub",
-                        "display_link": "Fengyec2/seewo-gadgets"
+                        "display_link": "Fengyec2/seewo-gadgets",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ]
             },
@@ -2190,7 +2296,8 @@
                         "icon": "github",
                         "url": "https://github.com/SECTL/Luminalium/",
                         "display_source": "GitHub",
-                        "display_link": "SECTL/Luminalium"
+                        "display_link": "SECTL/Luminalium",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "./banner/Luminalium-Banner.png"
@@ -2214,7 +2321,8 @@
                         "icon": "github",
                         "url": "https://github.com/xinghai-smartedu/classwindow/",
                         "display_source": "GitHub",
-                        "display_link": "xinghai-smartedu/classwindow"
+                        "display_link": "xinghai-smartedu/classwindow",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "./banner/ClassWindow.png"
@@ -2237,13 +2345,15 @@
                         "icon": "github",
                         "url": "https://github.com/WSXYT/C30Auto-login",
                         "display_source": "GitHub",
-                        "display_link": "WSXYT/C30Auto-login"
+                        "display_link": "WSXYT/C30Auto-login",
+                        "display_logo": "images/github-icon.svg"
                     },
                     {
                         "icon": "github",
                         "url": "https://github.com/WSXYT",
                         "display_source": "WSXYT",
-                        "display_link": "WSXYT"
+                        "display_link": "WSXYT",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ]
             },
@@ -2266,7 +2376,8 @@
                         "icon": "github",
                         "url": "https://github.com/ClassScreenLock/ClassScreenLock/",
                         "display_source": "GitHub",
-                        "display_link": "ClassScreenLock/ClassScreenLock"
+                        "display_link": "ClassScreenLock/ClassScreenLock",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "./banner/ClassScreenLock.png"
@@ -2285,7 +2396,8 @@
                         "icon": "github",
                         "url": "https://github.com/PANDAJSR/sidebar-for-class/",
                         "display_source": "GitHub",
-                        "display_link": "PANDAJSR/sidebar-for-class"
+                        "display_link": "PANDAJSR/sidebar-for-class",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "./banner/sidebar-for-class.png"
@@ -2308,7 +2420,8 @@
                         "icon": "github",
                         "url": "https://github.com/joyapple/DD-CLASS/",
                         "display_source": "GitHub",
-                        "display_link": "joyapple/DD-CLASS"
+                        "display_link": "joyapple/DD-CLASS",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "./banner/DD-CLASS.png"
@@ -2331,7 +2444,8 @@
                         "icon": "github",
                         "url": "https://github.com/BSOD-MEMZ/EasiNote-Theme-Patcher/",
                         "display_source": "GitHub",
-                        "display_link": "BSOD-MEMZ/EasiNote-Theme-Patcher"
+                        "display_link": "BSOD-MEMZ/EasiNote-Theme-Patcher",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "./banner/entp.png"
@@ -2354,7 +2468,8 @@
                         "icon": "github",
                         "url": "https://github.com/Braydenccc/SeatingChartEditor2/",
                         "display_source": "GitHub",
-                        "display_link": "Braydenccc/SeatingChartEditor2"
+                        "display_link": "Braydenccc/SeatingChartEditor2",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "./banner/SeatingChartEditor2.jpeg"
@@ -2375,7 +2490,8 @@
                         "icon": "github",
                         "url": "https://github.com/Macrohard0001/Random_Choice_Plus_3/",
                         "display_source": "GitHub",
-                        "display_link": "Macrohard0001/Random_Choice_Plus_3"
+                        "display_link": "Macrohard0001/Random_Choice_Plus_3",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "./banner/Random_Choice_Plus_3.png"
@@ -2395,7 +2511,8 @@
                         "icon": "github",
                         "url": "https://github.com/laosan577622/open_fuckseats/",
                         "display_source": "GitHub",
-                        "display_link": "laosan577622/open_fuckseats"
+                        "display_link": "laosan577622/open_fuckseats",
+                        "display_logo": "images/github-icon.svg"
                     }
                 ],
                 "banner": "./banner/不想排座位.png"
