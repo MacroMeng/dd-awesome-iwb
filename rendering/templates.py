@@ -81,6 +81,10 @@ HOME = """\
 > [!WARNING]
 > 以下软件均为免费或非买断制，如遇收费提示请注意甄别是否为盗版软件！
 
+## Today
+
+[![AIWB Today Goto](./rendering/images/aiwbtoday.svg)](./docs/aiwbtoday.md)
+
 ## 速览
 
 [![Quicklook Page goto](./rendering/images/quicklook.svg)](./docs/quicklook.md)
@@ -227,8 +231,16 @@ QUICKLOOK_LN = """\
 | {rank} {name_decorator}[{name}](#{normalized_name}){name_decorator} {tags} | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/{developer}.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/{developer}.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/{developer}">{developer}</a> |
 """
 
+QUICKLOOK_HEAD = """\
+### {title}
+
+| 名称 | 开发者 |
+| - | - |
+{lines}
+"""
+
 QUICKLOOK = """\
-## 📚 速览
+# 📚 速览
 
 - 🥇 是指最推荐使用的、必装软件推荐，每个类别下至少有一个被标记的软件或项目。
 
