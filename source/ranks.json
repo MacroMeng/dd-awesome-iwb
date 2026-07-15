@@ -49,107 +49,151 @@
                 "name": "Ink Canvas",
                 "rank": "🥈",
                 "tags": ["stopped_updating"],
-                "developer": "WXRIW"
+                "developer": "WXRIW",
+                "developer_gh": "WXRIW",
+                "repo_gh": "Ink-Canvas"
             },
             {
                 "name": "Ink Canvas Plus",
                 "rank": "🥈",
-                "developer": "Clover Yan"
+                "developer": "Clover Yan",
+                "developer_gh": "clover-yan",
+                "repo_gh": "Ink-Canvas-Plus"
             },
             {
                 "name": "Ink Canvas Artistry",
                 "rank": "🥇",
                 "tags": ["stopped_updating"],
-                "developer": "WuChanging"
+                "developer": "WuChanging",
+                "developer_gh": "InkCanvas",
+                "repo_gh": "Ink-Canvas-Artistry"
             },
             {
                 "name": "智绘教Inkeys",
                 "rank": "🥈",
-                "developer": "Alan-CRL"
+                "developer": "Alan-CRL",
+                "developer_gh": "Alan-CRL",
+                "repo_gh": "Inkeys"
             },
             {
                 "name": "ICC-CE",
                 "rank": "🥈",
-                "developer": "CJKmkp"
+                "developer": "CJKmkp",
+                "developer_gh": "InkCanvasForClass",
+                "repo_gh": "community"
             },
             {
                 "name": "InkCanvasForClass",
                 "rank": "🔴",
-                "developer": "segf4ultk1nger"
+                "developer": "segf4ultk1nger",
+                "developer_gh": "segf4ultk1nger-universe",
+                "repo_gh": "InkCanvasForClass"
             },
             {
                 "name": "ICC-Re",
                 "rank": "🔴",
-                "developer": "LiuYan-xwx"
+                "developer": "LiuYan-xwx",
+                "developer_gh": "LiuYan-xwx",
+                "repo_gh": "InkCanvasForClass-Remastered"
             },
             {
                 "name": "ppInk",
-                "developer": "pubpub-zz"
+                "developer": "pubpub-zz",
+                "developer_gh": "pubpub-zz",
+                "repo_gh": "ppInk"
             },
             {
                 "name": "Ink Canvas Better",
-                "developer": "BaiYang2238"
+                "developer": "BaiYang2238",
+                "developer_gh": "BaiYang2238",
+                "repo_gh": "Ink-Canvas-Better"
             },
             {
                 "name": "ShowWrite视频展台",
-                "developer": "wwcrdrvf6u"
+                "developer": "wwcrdrvf6u",
+                "developer_gh": "SECTL",
+                "repo_gh": "ShowWrite"
             },
             {
                 "name": "LanStartWrite",
                 "rank": "🔴",
-                "developer": "wwiinnddyy"
+                "developer": "wwiinnddyy",
+                "developer_gh": "wwiinnddyy",
+                "repo_gh": "LanStartWrite"
             }
         ],
         "timetable_and_dashboard": [
             {
                 "name": "ClassIsland",
                 "rank": "🥇",
-                "developer": "HelloWRC"
+                "developer": "HelloWRC",
+                "developer_gh": "ClassIsland",
+                "repo_gh": "ClassIsland"
             },
             {
                 "name": "ZongziTEK 黑板贴",
                 "rank": "🥇",
-                "developer": "ZongziTEK"
+                "developer": "ZongziTEK",
+                "developer_gh": "ZongziTEK",
+                "repo_gh": "ZongziTEK-Blackboard-Sticker"
             },
             {
                 "name": "StickyHomeworks2",
                 "rank": "🌟",
-                "developer": "StickyHomeworks2"
+                "developer": "StickyHomeworks2",
+                "developer_gh": "StickyHomeworks2",
+                "repo_gh": "StickyHomeworks2"
             },
             {
                 "name": "考试看板-Legacy",
                 "rank": "🥈",
-                "developer": "Hello8693"
+                "developer": "Hello8693",
+                "developer_gh": "ExamAware",
+                "repo_gh": "ExamShowboard-Legacy"
             },
             {
                 "name": "ExtraIsland",
                 "rank": "🌟",
-                "developer": "LiPolymer"
+                "developer": "LiPolymer",
+                "developer_gh": "LiPolymer",
+                "repo_gh": "ExtraIsland"
             },
             {
                 "name": "Class Widgets",
                 "rank": "🥈",
-                "developer": "RinLit-233-shiroko"
+                "developer": "RinLit-233-shiroko",
+                "developer_gh": "Class-Widgets",
+                "repo_gh": "Class-Widgets"
             },
             {
                 "name": "凌云班级组件",
-                "developer": "Yamikani-Flipped"
+                "developer": "Yamikani-Flipped",
+                "developer_gh": "Yamikani-Flipped",
+                "repo_gh": "LingYun-Class-Widgets"
             },
             {
                 "name": "Education Clock",
-                "developer": "Return-Log"
+                "developer": "Return-Log",
+                "developer_gh": "Return-Log",
+                "repo_gh": "Education-Clock"
             },
             {
                 "name": "ClassBoard",
-                "developer": "Candlest"
+                "developer": "Candlest",
+                "developer_gh": "Candlest",
+                "repo_gh": "ClassBoard"
             },
             {
                 "name": "班级热搜排行",
-                "developer": "SRInternet-Studio"
+                "developer": "SRInternet-Studio",
+                "developer_gh": "SRInternet-Studio",
+                "repo_gh": "Class_Hot_Search"
             },
             {
                 "name": "Ris_ClassTool",
-                "developer": "PYLXU"
+                "developer": "PYLXU",
+                "developer_gh": "Ris-Soft",
+                "repo_gh": "Ris_ClassTool"
             },
             {
                 "name": "TimerIn",
@@ -158,104 +202,146 @@
             },
             {
                 "name": "ExamSchedule",
-                "developer": "MKStoler1024"
+                "developer": "MKStoler1024",
+                "developer_gh": "ExamAware",
+                "repo_gh": "ExamSchedule"
             },
             {
                 "name": "Classworks",
-                "developer": "孙悟元（原 GitHub 主页目前不可访问）"
+                "developer": "孙悟元（原 GitHub 主页目前不可访问）",
+                "developer_gh": "Moonrend",
+                "repo_gh": "Classworks"
             },
             {
                 "name": "Classpaper-v4",
                 "rank": "🔴",
-                "developer": "E7G"
+                "developer": "E7G",
+                "developer_gh": "E7G",
+                "repo_gh": "Classpaper-v4"
             },
             {
                 "name": "考试语音播报系统",
                 "rank": "🔴",
-                "developer": "cloudy059"
+                "developer": "cloudy059",
+                "developer_gh": "cloudy059",
+                "repo_gh": "ExamBroadcast"
             },
             {
                 "name": "ExamClock",
                 "rank": "🔴",
-                "developer": "L33Z22L11"
+                "developer": "L33Z22L11",
+                "developer_gh": "L33Z22L11",
+                "repo_gh": "ExamClock"
             },
             {
                 "name": "iClass",
                 "rank": "🔴",
-                "developer": "gpuawa"
+                "developer": "gpuawa",
+                "developer_gh": "gpuawa",
+                "repo_gh": "iClass"
             },
             {
                 "name": "Zooni",
                 "rank": "🔴",
-                "developer": "Xwei1645"
+                "developer": "Xwei1645",
+                "developer_gh": "Xwei1645",
+                "repo_gh": "Zooni"
             },
             {
                 "name": "ElectronClassScheduleX",
                 "rank": "🔴",
-                "developer": "Enigfrank"
+                "developer": "Enigfrank",
+                "developer_gh": "Enigfrank",
+                "repo_gh": "ElectronClassScheduleX"
             },
             {
                 "name": "每日作业面板",
                 "rank": "🔴",
-                "developer": "BearWhite-Z"
+                "developer": "BearWhite-Z",
+                "developer_gh": "BearWhite-Z",
+                "repo_gh": "Daily-Commission-Panel"
             },
             {
                 "name": "LanMountainDesktop",
                 "rank": "🔴",
-                "developer": "wwiinnddyy"
+                "developer": "wwiinnddyy",
+                "developer_gh": "wwiinnddyy",
+                "repo_gh": "LanMountainDesktop"
             },
             {
                 "name": "CountBoard",
                 "tags": ["stopped_updating"],
-                "developer": "Gaoyongxian666"
+                "developer": "Gaoyongxian666",
+                "developer_gh": "Gaoyongxian666",
+                "repo_gh": "CountBoard"
             },
             {
                 "name": "ElectronClassSchedule",
                 "tags": ["stopped_updating"],
-                "developer": "EnderWolf006"
+                "developer": "EnderWolf006",
+                "developer_gh": "EnderWolf006",
+                "repo_gh": "ElectronClassSchedule"
             },
             {
                 "name": "ClassTools",
                 "tags": ["stopped_updating"],
-                "developer": "clansty"
+                "developer": "clansty",
+                "developer_gh": "clansty",
+                "repo_gh": "ClassTools"
             },
             {
                 "name": "StickyHomeworks",
                 "tags": ["stopped_updating"],
-                "developer": "HelloWRC"
+                "developer": "HelloWRC",
+                "developer_gh": "HelloWRC",
+                "repo_gh": "StickyHomeworks"
             },
             {
                 "name": "Sticky-attention",
                 "tags": ["stopped_updating"],
-                "developer": "jizilin6732"
+                "developer": "jizilin6732",
+                "developer_gh": "Sticky-attention",
+                "repo_gh": "Sticky-attention"
             },
             {
                 "name": "HomeworkBoard",
                 "tags": ["stopped_updating"],
-                "developer": "EnderWolf006"
+                "developer": "EnderWolf006",
+                "developer_gh": "EnderWolf006",
+                "repo_gh": "HomeworkBoard"
             }
         ],
         "utilities_and_tools": [
             {
                 "name": "PPT 触屏辅助",
-                "developer": "RinLit-233-shiroko"
+                "developer": "RinLit-233-shiroko",
+                "developer_gh": "RinLit-233-shiroko",
+                "repo_gh": "PowerPoint-Touch-Assist"
             },
             {
                 "name": "（希沃）定制启动器",
                 "rank": "🥇",
-                "developer": "SRInternet-Studio"
+                "developer": "SRInternet-Studio",
+                "developer_gh": "SRInternet-Studio",
+                "repo_gh": "Seewo-Custom_Start"
             },
             {
                 "name": "全能班辅",
-                "developer": "XeonMEMZ"
+                "developer": "XeonMEMZ",
+                "developer_gh": "XeonMEMZ",
+                "repo_gh": "qnbf6"
             },
             {
                 "name": "OpenLuckyRandom",
-                "developer": "WhatDamon"
+                "developer": "WhatDamon",
+                "developer_gh": "WhatDamon",
+                "repo_gh": "OpenLuckyRandom"
             },
             {
                 "name": "MythwareToolkit",
-                "developer": "BengbuGuards"
+                "developer": "BengbuGuards",
+                "developer_gh": "BengbuGuards",
+                "repo_gh": "MythwareToolkit"
             },
             {
                 "name": "ENAL 希沃易登",
@@ -265,203 +351,287 @@
             },
             {
                 "name": "EasiAuto",
-                "developer": "hxabcd"
+                "developer": "hxabcd",
+                "developer_gh": "hxabcd",
+                "repo_gh": "EasiAuto"
             },
             {
                 "name": "ExCaller",
-                "developer": "typed-sigterm"
+                "developer": "typed-sigterm",
+                "developer_gh": "typed-sigterm",
+                "repo_gh": "ex-caller"
             },
             {
                 "name": "ClassNamePicker",
-                "developer": "Chengzi600"
+                "developer": "Chengzi600",
+                "developer_gh": "Chengzi600",
+                "repo_gh": "ClassNamePicker"
             },
             {
                 "name": "SectionIstool",
                 "tags": ["stopped_updating"],
-                "developer": "lzy98276"
+                "developer": "lzy98276",
+                "developer_gh": "SECTL",
+                "repo_gh": "SectionIstool"
             },
             {
                 "name": "CountDownControl",
-                "developer": "cjhdevact"
+                "developer": "cjhdevact",
+                "developer_gh": "cjhdevact",
+                "repo_gh": "CountDownControl"
             },
             {
                 "name": "LockTime",
-                "developer": "cjhdevact"
+                "developer": "cjhdevact",
+                "developer_gh": "cjhdevact",
+                "repo_gh": "LockTime"
             },
             {
                 "name": "UsefulControl",
-                "developer": "cjhdevact"
+                "developer": "cjhdevact",
+                "developer_gh": "cjhdevact",
+                "repo_gh": "UsefulControl"
             },
             {
                 "name": "Rand 抽号器",
                 "rank": "🥈",
-                "developer": "LuoYunXi0407"
+                "developer": "LuoYunXi0407",
+                "developer_gh": "LuoYunXi0407",
+                "repo_gh": "Rand"
             },
             {
                 "name": "NamePicker",
-                "developer": "LHGS-github"
+                "developer": "LHGS-github",
+                "developer_gh": "NamePickerOrg",
+                "repo_gh": "NamePicker"
             },
             {
                 "name": "IslandCaller",
-                "developer": "HUSX100"
+                "developer": "HUSX100",
+                "developer_gh": "HUSX100",
+                "repo_gh": "IslandCaller"
             },
             {
                 "name": "SecRandom",
-                "developer": "lzy98276"
+                "developer": "lzy98276",
+                "developer_gh": "SECTL",
+                "repo_gh": "SecRandom"
             },
             {
                 "name": "RandPicker",
-                "developer": "xuanxuan1231"
+                "developer": "xuanxuan1231",
+                "developer_gh": "xuanxuan1231",
+                "repo_gh": "RandPicker"
             },
             {
                 "name": "SmartBoardTools",
                 "rank": "🔴",
-                "developer": "FeedWhisper5148"
+                "developer": "FeedWhisper5148",
+                "developer_gh": "FeedWhisper5148",
+                "repo_gh": "SmartBoardTools_OpenSourced"
             },
             {
                 "name": "SeewoSplash",
                 "rank": "🔴",
-                "developer": "fengyec2"
+                "developer": "fengyec2",
+                "developer_gh": "fengyec2",
+                "repo_gh": "custom-seewo-splash-screen"
             },
             {
                 "name": "Class-Website",
                 "rank": "🔴",
-                "developer": "jiugulixiaoniu"
+                "developer": "jiugulixiaoniu",
+                "developer_gh": "jiugulixiaoniu",
+                "repo_gh": "CWBS-ClassWebsite"
             },
             {
                 "name": "Class-Scoring-Program",
                 "rank": "🔴",
-                "developer": "andycey"
+                "developer": "andycey",
+                "developer_gh": "andycey",
+                "repo_gh": "Class-Scoring-Program"
             },
             {
                 "name": "沉浸式时钟",
                 "rank": "🔴",
-                "developer": "QQHKX"
+                "developer": "QQHKX",
+                "developer_gh": "QQHKX",
+                "repo_gh": "Immersive-clock"
             },
             {
                 "name": "沉浸式噪音监测",
                 "rank": "🔴",
-                "developer": "QQHKX"
+                "developer": "QQHKX",
+                "developer_gh": "QQHKX",
+                "repo_gh": "Immersive-clock-monitor"
             },
             {
                 "name": "360拖堂卫士",
                 "rank": "🔴",
-                "developer": "BSOD-MEMZ"
+                "developer": "BSOD-MEMZ",
+                "developer_gh": "BSOD-MEMZ",
+                "repo_gh": "360-Class-Guard"
             },
             {
                 "name": "教室座位安排系统",
                 "rank": "🔴",
-                "developer": "xi-guang1"
+                "developer": "xi-guang1",
+                "developer_gh": "xi-guang1",
+                "repo_gh": "SeatsChanger"
             },
             {
                 "name": "ClassAware",
                 "rank": "🔴",
-                "developer": "unDefFtr"
+                "developer": "unDefFtr",
+                "developer_gh": "unDefFtr",
+                "repo_gh": "ClassAware"
             },
             {
                 "name": "CsesWebEditor",
                 "rank": "🔴",
-                "developer": "PYLXU"
+                "developer": "PYLXU",
+                "developer_gh": "SmartTeachCN",
+                "repo_gh": "CsesWebEditor"
             },
             {
                 "name": "CSES规范",
                 "rank": "🔴",
-                "developer": "unDefFtr"
+                "developer": "unDefFtr",
+                "developer_gh": "SmartTeachCN",
+                "repo_gh": "CSES"
             },
             {
                 "name": "HugoAura",
                 "rank": "🥇",
-                "developer": "Minoricew"
+                "developer": "Minoricew",
+                "developer_gh": "HugoAura",
+                "repo_gh": "Seewo-HugoAura"
             },
             {
                 "name": "VoiceHub",
                 "rank": "🔴",
-                "developer": "laoshuikaixue"
+                "developer": "laoshuikaixue",
+                "developer_gh": "laoshuikaixue",
+                "repo_gh": "VoiceHub"
             },
             {
                 "name": "学生任务分配系统",
                 "rank": "🔴",
-                "developer": "VacuolePaoo"
+                "developer": "VacuolePaoo",
+                "developer_gh": "VacuolePaoo",
+                "repo_gh": "stu-task-generate"
             },
             {
                 "name": "Class-Roster-Picker-NEXT",
                 "rank": "🔴",
-                "developer": "Yish1"
+                "developer": "Yish1",
+                "developer_gh": "Yish1",
+                "repo_gh": "Class-Roster-Picker-NEXT"
             },
             {
                 "name": "蓝屏抽奖机",
                 "rank": "🔴",
-                "developer": "lanpinggai666"
+                "developer": "lanpinggai666",
+                "developer_gh": "Lanpinggai666",
+                "repo_gh": "lanpingChouJiang"
             },
             {
                 "name": "考试倒计时桌面小工具",
                 "rank": "🔴",
-                "developer": "Zpcin"
+                "developer": "Zpcin",
+                "developer_gh": "Zpcin",
+                "repo_gh": "ExaminationCountdown"
             },
             {
                 "name": "国家中小学智慧教育平台电子课本下载工具",
                 "rank": "🔴",
-                "developer": "happycola233"
+                "developer": "happycola233",
+                "developer_gh": "Happycola233",
+                "repo_gh": "tchMaterial-parser"
             },
             {
                 "name": "希沃白板5激活工具",
                 "rank": "🔴",
-                "developer": "YXC-Lhy"
+                "developer": "YXC-Lhy",
+                "developer_gh": "YXC-Lhy",
+                "repo_gh": "EasiNote-5-Crack-Tool"
             },
             {
                 "name": "SeewoGadgets",
                 "rank": "🔴",
-                "developer": "fengyec2"
+                "developer": "fengyec2",
+                "developer_gh": "Fengyec2",
+                "repo_gh": "seewo-gadgets"
             },
             {
                 "name": "Luminalium",
                 "rank": "🌟",
-                "developer": "Haraguse"
+                "developer": "Haraguse",
+                "developer_gh": "SECTL",
+                "repo_gh": "Luminalium"
             },
             {
                 "name": "ClassWindow",
                 "rank": "🔴",
-                "developer": "xinghai-smartedu"
+                "developer": "xinghai-smartedu",
+                "developer_gh": "xinghai-smartedu",
+                "repo_gh": "classwindow"
             },
             {
                 "name": "C30 智能教学自动登录工具",
                 "rank": "🔴",
-                "developer": "WSXYT"
+                "developer": "WSXYT",
+                "developer_gh": "WSXYT",
+                "repo_gh": "C30Auto-login"
             },
             {
                 "name": "ClassScreenLock",
                 "rank": "🔴",
-                "developer": "jiugulixiaoniu"
+                "developer": "jiugulixiaoniu",
+                "developer_gh": "ClassScreenLock",
+                "repo_gh": "ClassScreenLock"
             },
             {
                 "name": "Sidebar for Class",
                 "rank": "🔴",
-                "developer": "PANDAJSR"
+                "developer": "PANDAJSR",
+                "developer_gh": "PANDAJSR",
+                "repo_gh": "sidebar-for-class"
             },
             {
                 "name": "DD-CLASS",
                 "rank": "🔴",
-                "developer": "joyapple"
+                "developer": "joyapple",
+                "developer_gh": "joyapple",
+                "repo_gh": "DD-CLASS"
             },
             {
                 "name": "EasiNote-Theme-Patcher",
                 "rank": "🔴",
-                "developer": "BSOD-MEMZ"
+                "developer": "BSOD-MEMZ",
+                "developer_gh": "BSOD-MEMZ",
+                "repo_gh": "EasiNote-Theme-Patcher"
             },
             {
                 "name": "SeatingChartEditor2",
                 "rank": "🔴",
-                "developer": "Braydenccc"
+                "developer": "Braydenccc",
+                "developer_gh": "Braydenccc",
+                "repo_gh": "SeatingChartEditor2"
             },
             {
                 "name": "随机点名Plus 3",
                 "rank": "🔴",
-                "developer": "Macrohard0001"
+                "developer": "Macrohard0001",
+                "developer_gh": "Macrohard0001",
+                "repo_gh": "Random_Choice_Plus_3"
             },
             {
                 "name": "不想排座位",
                 "rank": "🔴",
-                "developer": "laosan577622"
+                "developer": "laosan577622",
+                "developer_gh": "laosan577622",
+                "repo_gh": "open_fuckseats"
             }
         ]
     }

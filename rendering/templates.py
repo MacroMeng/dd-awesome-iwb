@@ -224,11 +224,11 @@ class Project:
         ):
             res.write(s)
 
-        return res.read()
+        return res.getvalue()
 
 
 QUICKLOOK_LN = """\
-| {rank} {name_decorator}[{name}](#{normalized_name}){name_decorator} {tags} | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/{developer}.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/{developer}.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/{developer}">{developer}</a> |
+| {rank} {name_decorator}[{name}](#{normalized_name}){name_decorator} {tags} | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/{developer_gh}.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/{developer_gh}.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/{developer_gh}">{developer}</a> |
 """
 
 QUICKLOOK_HEAD = """\
@@ -236,7 +236,6 @@ QUICKLOOK_HEAD = """\
 
 | 名称 | 开发者 |
 | - | - |
-{lines}
 """
 
 QUICKLOOK = """\
