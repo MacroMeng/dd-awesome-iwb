@@ -169,29 +169,20 @@ class Project:
 ![GitHub License](https://img.shields.io/github/license/{github}?color=red)
 {qq_chat}
 """
-    description = '{description}'
 
-    @property
-    def keywords(self):
+    @staticmethod
+    def keywords(kws: list[str]):
         return '\n'.join(
             f'![{keyword}](https://img.shields.io/badge/{keyword}-white)'
-            for keyword in self._kws
+            for keyword in kws
         )
 
-    @keywords.setter
-    def keywords(self, value: list[str]):
-        self._kws = value
+    @staticmethod
+    def comments(cmts: dict):
+        return '\n\n'.join(f'💬 **{k} 锐评**：{v}' for k, v in cmts.items())
 
-    @property
-    def comments(self):
-        return '\n\n'.join(f'💬 **{k} 锐评**：{v}' for k, v in self._cmts.items())
-
-    @comments.setter
-    def comments(self, value: dict[str, str]):
-        self._cmts = value
-
-    @property
-    def links(self):
+    @staticmethod
+    def links(links: dict[str, str]):
         return """\
 <table>
 {}
@@ -199,28 +190,34 @@ class Project:
 """.format(
             '\n'.join(
                 f"""<tr>
-    <td><img src="{self._links["display_logo"]}" width="18" height="18"></td>
-    <td><b>{self._links["display_source"]}</b></td>
-    <td><a href="{self._links["url"]}">{self._links["display_link"]}</a></td>
+    <td><img src="{links["display_logo"]}" width="18" height="18"></td>
+    <td><b>{links["display_source"]}</b></td>
+    <td><a href="{links["url"]}">{links["display_link"]}</a></td>
 </tr>"""
             )
         )
 
-    @links.setter
-    def links(self, value: dict[str, str]):
-        self._links = value
-
-    @property
-    def full(self):
+    @classmethod
+    def full(cls,
+             logo,
+             name,
+             banner,
+             gen_tags,
+             github,
+             qq_chat,
+             description,
+             kws: list[str],
+             cmts: dict,
+             links: dict[str, str]):
         res = StringIO()
 
         for s in (
-            self.header,
-            self.badges,
-            self.description,
-            self.keywords,
-            self.comments,
-            self.links,
+            cls.header.format(logo=logo, name=name, banner=banner),
+            cls.badges.format(gen_tags=gen_tags, github=github, qq_chat=qq_chat),
+            description,
+            cls.keywords(kws),
+            cls.comments(cmts),
+            cls.links(links),
         ):
             res.write(s)
 
