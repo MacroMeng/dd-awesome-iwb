@@ -1,5 +1,7 @@
+import os
 import reprlib
 import traceback
+from collections import defaultdict
 from io import StringIO
 import json
 from time import perf_counter as counter
@@ -58,6 +60,25 @@ def render_quicklook() -> str:
     return t.QUICKLOOK.format(content=content_buf.getvalue())
 
 
+def render_field(data: dict, name: str) -> str:
+    content_buf = StringIO()
+    field_projs = defaultdict(lambda: '', data['content'][name])
+
+    for proj in field_projs:
+        proj_tags = '\n'.join(tag['display'] for tag in data['tags'] if tag['id'] in proj.get('tags', ()))
+        qq_display = (f'[![加入 QQ 群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20{qq["qq_num"]}-white?style=flat&logo=qq)]({qq["qq_link"]})'
+                      for qq in proj['qq_group'])
+
+        content_buf.write(t.Project.full(
+            logo=proj['logo'],
+            name=proj['name'],
+            banner=proj['banner'],
+            gen_tags=proj_tags,
+            qq_chat=qq_display,
+            #TODO: Complete this
+        ))
+
+
 def render():
     log.debug('Rendering HOME -> README.tmp.md')
     with open('./README.tmp.md', 'w', encoding='utf-8') as f:
@@ -68,6 +89,16 @@ def render():
     with open('./docs/quicklook.md', 'w', encoding='utf-8') as f:
         f.write(render_quicklook())
     log.debug('Completed Rendering quicklook.md.')
+
+    mainbody_md = list(set(os.listdir('./docs/')) - {'aiwbtoday.md', 'quicklook.md'})
+    log.debug(f'Rendering main body: {mainbody_md}')
+    with open('./source/full.json', 'r', encoding='utf-8') as f:
+        full_data = json.load(f)
+    for fn in mainbody_md:
+        with open(f'./docs/{fn}', 'w', encoding='utf-8') as f:
+            f.write(render_field(full_data, fn.split('.')[0]))
+        log.debug(f'Completed Rendering {fn}.')
+    log.debug('Completed Rendering main body.')
 
 
 if __name__ == '__main__':

@@ -138,6 +138,12 @@
                 "tags": [
                     "highly_recommended",
                     "stopped_updating"
+                ],
+                "qq_group": [
+                    {
+                        "qq_num": "891913576",
+                        "qq_link": "https://jq.qq.com/?_wv=1027&k=NvlM1Rgg"
+                    }
                 ]
             },
             {
@@ -182,6 +188,12 @@
                 ],
                 "tags": [
                     "highly_recommended"
+                ],
+                "qq_group": [
+                    {
+                        "qq_num": "996760298",
+                        "qq_link": "https://qm.qq.com/q/sm7fH0QH6w"
+                    }
                 ]
             },
             {
@@ -232,6 +244,12 @@
                 "tags": [
                     "highly_recommended",
                     "stopped_updating"
+                ],
+                "qq_group": [
+                    {
+                        "qq_num": "617707731",
+                        "qq_link": "https://qm.qq.com/q/AC777tzmEw"
+                    }
                 ]
             },
             {
@@ -282,6 +300,12 @@
                 "note": "原名: Intelligent-Drawing-Teaching（IDT），中文: 智绘教",
                 "tags": [
                     "highly_recommended"
+                ],
+                "qq_group": [
+                    {
+                        "qq_num": "618720802",
+                        "qq_link": "https://qm.qq.com/cgi-bin/qm/qr?k=9V2l83dc0yP4UYeDF-NkTX0o7_TcYqlh&jump_from=webapi&authKey=LsLLUhb1KSzHYbc8k5nCQDqTtRcRUCEE3j+DdR9IgHaF/7JF7LLpY191hsiYEBz6"
+                    }
                 ]
             },
             {
@@ -352,7 +376,10 @@
                 ],
                 "banner": "https://github.com/user-attachments/assets/598634da-dec5-473c-9765-ce8dcb3a3f76",
                 "qq_group": [
-                    1054377349
+                    {
+                        "qq_num": "1054377349",
+                        "qq_link": "https://qm.qq.com/q/vno1nrxlf2"
+                    }
                 ],
                 "tags": [
                     "discord",
@@ -509,6 +536,12 @@
                         "display_link": "SECTL/ShowWrite",
                         "display_logo": "images/github-icon.svg"
                     }
+                ],
+                "qq_group": [
+                    {
+                        "qq_num": "1051061830",
+                        "qq_link": "https://qm.qq.com/q/nNpEuIVfwe"
+                    }
                 ]
             },
             {
@@ -585,6 +618,12 @@
                 "tags": [
                     "highly_recommended",
                     "md2_ui"
+                ],
+                "qq_group": [
+                    {
+                        "qq_num": "958840932",
+                        "qq_link": "https://qm.qq.com/q/4NsDQKiAuQ"
+                    }
                 ]
             },
             {
@@ -620,6 +659,12 @@
                 "tags": [
                     "fluent_ui",
                     "highly_recommended"
+                ],
+                "qq_group": [
+                    {
+                        "qq_num": "1101582374",
+                        "qq_link": "https://jq.qq.com/?_wv=1027&k=epb9KDPe"
+                    }
                 ]
             },
             {
@@ -643,7 +688,13 @@
                         "display_logo": "images/github-icon.svg"
                     }
                 ],
-                "banner": "./banner/sh2banner.png"
+                "banner": "./banner/sh2banner.png",
+                "qq_group": [
+                    {
+                        "qq_num": "1101582374",
+                        "qq_link": "https://jq.qq.com/?_wv=1027&k=epb9KDPe"
+                    }
+                ]
             },
             {
                 "name": "考试看板-Legacy",
@@ -683,6 +734,12 @@
                 "tags": [
                     "highly_recommended",
                     "md2_ui"
+                ],
+                "qq_group": [
+                    {
+                        "qq_num": "901670561",
+                        "qq_link": "https://qm.qq.com/q/zDiEipHsaI"
+                    }
                 ]
             },
             {
@@ -765,6 +822,12 @@
                 "tags": [
                     "fluent_ui",
                     "new_talent"
+                ],
+                "qq_group": [
+                    {
+                        "qq_num": "169200380",
+                        "qq_link": "https://qm.qq.com/q/XWDc2CUrei"
+                    }
                 ]
             },
             {
@@ -807,7 +870,13 @@
                         "display_logo": "images/github-icon.svg"
                     }
                 ],
-                "banner": "https://github.com/Yamikani-Flipped/LingYun-Class-Widgets/blob/main/Resource/png/%E5%87%8C%E4%BA%91%E7%8F%AD%E7%BA%A7%E7%BB%84%E4%BB%B6.png"
+                "banner": "https://github.com/Yamikani-Flipped/LingYun-Class-Widgets/blob/main/Resource/png/%E5%87%8C%E4%BA%91%E7%8F%AD%E7%BA%A7%E7%BB%84%E4%BB%B6.png",
+                "qq_group": [
+                    {
+                        "qq_num": "917509031",
+                        "qq_link": "https://qm.qq.com/q/KN7UVWFr6C"
+                    }
+                ]
             },
             {
                 "name": "Education Clock",
@@ -908,6 +977,12 @@
                 "banner": "https://github.com/user-attachments/assets/5a7b2281-339a-47a9-b926-8f33936255d4",
                 "tags": [
                     "md3_ui"
+                ],
+                "qq_group": [
+                    {
+                        "qq_num": "983497968",
+                        "qq_link": "https://qm.qq.com/q/f3QGDkdp6M"
+                    }
                 ]
             },
             {
@@ -939,6 +1014,12 @@
                 "banner": "https://github.com/user-attachments/assets/c7c2b95a-22cb-4763-8f37-6cb6db603918",
                 "tags": [
                     "new_talent"
+                ],
+                "qq_group": [
+                    {
+                        "qq_num": "939571490",
+                        "qq_link": "https://qm.qq.com/q/QQYclmUL4e"
+                    }
                 ]
             },
             {
@@ -975,6 +1056,12 @@
                     "closed_source",
                     "price",
                     "proprietary_software"
+                ],
+                "qq_group": [
+                    {
+                        "qq_num": "983497968",
+                        "qq_link": "https://qm.qq.com/q/f3QGDkdp6M"
+                    }
                 ]
             },
             {
@@ -1036,6 +1123,12 @@
                 "banner": "https://github.com/Moonrend/Classworks/blob/main/images/banner.png?raw=true",
                 "tags": [
                     "new_talent"
+                ],
+                "qq_group": [
+                    {
+                        "qq_num": "964979747",
+                        "qq_link": "https://qm.qq.com/q/4RX45b1Oac"
+                    }
                 ]
             },
             {
@@ -1092,6 +1185,12 @@
                 "note": "该项目已经停止更新。 开发者正在开发 V2 版本，如有需要可前去插眼观望。Awesome-Iwb 会等到 V2 版本发展到一定程度后添加进来。",
                 "tags": [
                     "stopped_updating"
+                ],
+                "qq_group": [
+                    {
+                        "qq_num": "914887202",
+                        "qq_link": "https://qm.qq.com/q/zq9S3R6zMk"
+                    }
                 ]
             },
             {
@@ -1176,6 +1275,12 @@
                 "tags": [
                     "md2_ui",
                     "stopped_updating"
+                ],
+                "qq_group": [
+                    {
+                        "qq_num": "680019081",
+                        "qq_link": "https://qm.qq.com/q/FbG57VTzTG"
+                    }
                 ]
             },
             {
@@ -1430,7 +1535,13 @@
                         "display_logo": "images/github-icon.svg"
                     }
                 ],
-                "banner": "./banner/seewo-custom-start.png"
+                "banner": "./banner/seewo-custom-start.png",
+                "qq_group": [
+                    {
+                        "qq_num": "983497968",
+                        "qq_link": "https://qm.qq.com/q/f3QGDkdp6M"
+                    }
+                ]
             },
             {
                 "name": "全能班辅",
@@ -1745,6 +1856,12 @@
                 ],
                 "tags": [
                     "new_talent"
+                ],
+                "qq_group": [
+                    {
+                        "qq_num": "2153027375",
+                        "qq_link": "https://qm.qq.com/q/rK6hj5ABNY"
+                    }
                 ]
             },
             {
@@ -1799,7 +1916,13 @@
                         "display_logo": "images/github-icon.svg"
                     }
                 ],
-                "banner": "https://raw.githubusercontent.com/SECTL/SecRandom/refs/heads/master/data/assets/icon/secrandom-banner.png"
+                "banner": "https://raw.githubusercontent.com/SECTL/SecRandom/refs/heads/master/data/assets/icon/secrandom-banner.png",
+                "qq_group": [
+                    {
+                        "qq_num": "833875216",
+                        "qq_link": "https://qm.qq.com/q/iWcfaPHn7W"
+                    }
+                ]
             },
             {
                 "name": "RandPicker",
