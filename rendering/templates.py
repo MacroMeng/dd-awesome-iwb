@@ -143,7 +143,6 @@ HOME = """\
 © Copyright 2025-2026 智教联盟SmartTeachCN"""
 
 
-@dataclass
 class Project:
     """为项目生成 Readme 文本的类"""
 
