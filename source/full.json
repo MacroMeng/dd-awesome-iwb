@@ -144,7 +144,8 @@
                         "qq_num": "891913576",
                         "qq_link": "https://jq.qq.com/?_wv=1027&k=NvlM1Rgg"
                     }
-                ]
+                ],
+                "github": "WXRIW/Ink-Canvas"
             },
             {
                 "name": "Ink Canvas Plus",
@@ -194,7 +195,8 @@
                         "qq_num": "996760298",
                         "qq_link": "https://qm.qq.com/q/sm7fH0QH6w"
                     }
-                ]
+                ],
+                "github": "clover-yan/Ink-Canvas-Plus"
             },
             {
                 "name": "Ink Canvas Artistry",
@@ -250,7 +252,8 @@
                         "qq_num": "617707731",
                         "qq_link": "https://qm.qq.com/q/AC777tzmEw"
                     }
-                ]
+                ],
+                "github": "InkCanvas/Ink-Canvas-Artistry"
             },
             {
                 "name": "智绘教Inkeys",
@@ -306,7 +309,8 @@
                         "qq_num": "618720802",
                         "qq_link": "https://qm.qq.com/cgi-bin/qm/qr?k=9V2l83dc0yP4UYeDF-NkTX0o7_TcYqlh&jump_from=webapi&authKey=LsLLUhb1KSzHYbc8k5nCQDqTtRcRUCEE3j+DdR9IgHaF/7JF7LLpY191hsiYEBz6"
                     }
-                ]
+                ],
+                "github": "Alan-CRL/Inkeys"
             },
             {
                 "name": "ICC-CE",
@@ -384,7 +388,8 @@
                 "tags": [
                     "discord",
                     "new_project"
-                ]
+                ],
+                "github": "InkCanvasForClass/community"
             },
             {
                 "name": "InkCanvasForClass",
@@ -410,7 +415,8 @@
                         "display_link": "segf4ultk1nger-universe/InkCanvasForClass",
                         "display_logo": "images/github-icon.svg"
                     }
-                ]
+                ],
+                "github": "segf4ultk1nger-universe/InkCanvasForClass"
             },
             {
                 "name": "ICC-Re",
@@ -437,7 +443,8 @@
                         "display_link": "LiuYan-xwx/InkCanvasForClass-Remastered",
                         "display_logo": "images/github-icon.svg"
                     }
-                ]
+                ],
+                "github": "LiuYan-xwx/InkCanvasForClass-Remastered"
             },
             {
                 "name": "ppInk",
@@ -470,7 +477,8 @@
                     }
                 ],
                 "banner": "https://github.com/pubpub-zz/ppInk/raw/master/Animation.gif",
-                "note": "forked from geovens/gInk"
+                "note": "forked from geovens/gInk",
+                "github": "pubpub-zz/ppInk"
             },
             {
                 "name": "Ink Canvas Better",
@@ -505,7 +513,8 @@
                         "display_logo": "images/github-icon.svg"
                     }
                 ],
-                "note": "此项目已迁移至新仓库，开发交由ThreeMonthAgo负责，Awesome-Iwb 将在新仓库准备好后更新内容。以下内容以旧版为准。点此前往新仓库。"
+                "note": "此项目已迁移至新仓库，开发交由ThreeMonthAgo负责，Awesome-Iwb 将在新仓库准备好后更新内容。以下内容以旧版为准。点此前往新仓库。",
+                "github": "BaiYang2238/Ink-Canvas-Better"
             },
             {
                 "name": "ShowWrite视频展台",
@@ -542,7 +551,8 @@
                         "qq_num": "1051061830",
                         "qq_link": "https://qm.qq.com/q/nNpEuIVfwe"
                     }
-                ]
+                ],
+                "github": "SECTL/ShowWrite"
             },
             {
                 "name": "LanStartWrite",
@@ -568,7 +578,8 @@
                         "display_link": "wwiinnddyy/LanStartWrite",
                         "display_logo": "images/github-icon.svg"
                     }
-                ]
+                ],
+                "github": "wwiinnddyy/LanStartWrite"
             }
         ],
         "timetable_and_dashboard": [
@@ -624,7 +635,8 @@
                         "qq_num": "958840932",
                         "qq_link": "https://qm.qq.com/q/4NsDQKiAuQ"
                     }
-                ]
+                ],
+                "github": "ClassIsland/ClassIsland"
             },
             {
                 "name": "ZongziTEK 黑板贴",
@@ -665,7 +677,8 @@
                         "qq_num": "1101582374",
                         "qq_link": "https://jq.qq.com/?_wv=1027&k=epb9KDPe"
                     }
-                ]
+                ],
+                "github": "ZongziTEK/ZongziTEK-Blackboard-Sticker"
             },
             {
                 "name": "StickyHomeworks2",
@@ -694,7 +707,8 @@
                         "qq_num": "1101582374",
                         "qq_link": "https://jq.qq.com/?_wv=1027&k=epb9KDPe"
                     }
-                ]
+                ],
+                "github": "StickyHomeworks2/StickyHomeworks2"
             },
             {
                 "name": "考试看板-Legacy",
@@ -740,7 +754,8 @@
                         "qq_num": "901670561",
                         "qq_link": "https://qm.qq.com/q/zDiEipHsaI"
                     }
-                ]
+                ],
+                "github": "ExamAware/ExamShowboard-Legacy"
             },
             {
                 "name": "ExtraIsland",
@@ -779,7 +794,8 @@
                         "display_logo": "images/gitlab-icon.svg"
                     }
                 ],
-                "banner": "./banner/extraisland.png"
+                "banner": "./banner/extraisland.png",
+                "github": "LiPolymer/ExtraIsland"
             },
             {
                 "name": "Class Widgets",
@@ -828,7 +844,8 @@
                         "qq_num": "169200380",
                         "qq_link": "https://qm.qq.com/q/XWDc2CUrei"
                     }
-                ]
+                ],
+                "github": "Class-Widgets/Class-Widgets"
             },
             {
                 "name": "凌云班级组件",
@@ -876,7 +893,8 @@
                         "qq_num": "917509031",
                         "qq_link": "https://qm.qq.com/q/KN7UVWFr6C"
                     }
-                ]
+                ],
+                "github": "Yamikani-Flipped/LingYun-Class-Widgets"
             },
             {
                 "name": "Education Clock",
@@ -905,7 +923,8 @@
                 "banner": "./banner/education-clock.png",
                 "tags": [
                     "new_talent"
-                ]
+                ],
+                "github": "Return-Log/Education-Clock"
             },
             {
                 "name": "ClassBoard",
@@ -939,7 +958,8 @@
                     "net_framework",
                     "new_talent",
                     "web_demo"
-                ]
+                ],
+                "github": "Candlest/ClassBoard"
             },
             {
                 "name": "Class Hot Search 班级热搜排行",
@@ -983,7 +1003,8 @@
                         "qq_num": "983497968",
                         "qq_link": "https://qm.qq.com/q/f3QGDkdp6M"
                     }
-                ]
+                ],
+                "github": "SRInternet-Studio/Class_Hot_Search"
             },
             {
                 "name": "Ris_ClassTool 瑞思课堂工具",
@@ -1020,7 +1041,8 @@
                         "qq_num": "939571490",
                         "qq_link": "https://qm.qq.com/q/QQYclmUL4e"
                     }
-                ]
+                ],
+                "github": "Ris-Soft/Ris_ClassTool"
             },
             {
                 "name": "TimerIn",
@@ -1087,7 +1109,8 @@
                         "display_logo": "images/github-icon.svg"
                     }
                 ],
-                "banner": "./banner/examaware-banner.png"
+                "banner": "./banner/examaware-banner.png",
+                "github": "ExamAware/ExamSchedule"
             },
             {
                 "name": "Classworks",
@@ -1129,7 +1152,8 @@
                         "qq_num": "964979747",
                         "qq_link": "https://qm.qq.com/q/4RX45b1Oac"
                     }
-                ]
+                ],
+                "github": "Moonrend/Classworks"
             },
             {
                 "name": "CountBoard",
@@ -1158,7 +1182,8 @@
                 "note": "该项目已经停止更新。自带的开机自启无法使用。",
                 "tags": [
                     "stopped_updating"
-                ]
+                ],
+                "github": "Gaoyongxian666/CountBoard"
             },
             {
                 "name": "ElectronClassSchedule",
@@ -1191,7 +1216,8 @@
                         "qq_num": "914887202",
                         "qq_link": "https://qm.qq.com/q/zq9S3R6zMk"
                     }
-                ]
+                ],
+                "github": "EnderWolf006/ElectronClassSchedule"
             },
             {
                 "name": "ClassTools",
@@ -1221,7 +1247,8 @@
                 "note": "该项目已经停止更新。",
                 "tags": [
                     "stopped_updating"
-                ]
+                ],
+                "github": "clansty/ClassTools"
             },
             {
                 "name": "StickyHomeworks",
@@ -1242,7 +1269,8 @@
                 "note": "该项目已经停止更新，并由 jizilin6732 接手，请去尝试使用StickyHomeworks2吧。",
                 "tags": [
                     "stopped_updating"
-                ]
+                ],
+                "github": "HelloWRC/StickyHomeworks"
             },
             {
                 "name": "Sticky-attention",
@@ -1281,7 +1309,8 @@
                         "qq_num": "680019081",
                         "qq_link": "https://qm.qq.com/q/FbG57VTzTG"
                     }
-                ]
+                ],
+                "github": "Sticky-attention/Sticky-attention"
             },
             {
                 "name": "HomeworkBoard",
@@ -1302,7 +1331,8 @@
                 "note": "该项目已经停止更新。",
                 "tags": [
                     "stopped_updating"
-                ]
+                ],
+                "github": "EnderWolf006/HomeworkBoard"
             },
             {
                 "name": "ClassPaper",
@@ -1323,7 +1353,8 @@
                         "display_logo": "images/github-icon.svg"
                     }
                 ],
-                "banner": "./banner/classpaper-banner.jpeg"
+                "banner": "./banner/classpaper-banner.jpeg",
+                "github": "E7G/Classpaper-v4"
             },
             {
                 "name": "考试语音播报系统",
@@ -1343,7 +1374,8 @@
                         "display_logo": "images/github-icon.svg"
                     }
                 ],
-                "banner": "./banner/ExamBroadcast-banner.png"
+                "banner": "./banner/ExamBroadcast-banner.png",
+                "github": "cloudy059/ExamBroadcast"
             },
             {
                 "name": "iClass",
@@ -1362,7 +1394,8 @@
                         "display_link": "gpuawa/iClass",
                         "display_logo": "images/github-icon.svg"
                     }
-                ]
+                ],
+                "github": "gpuawa/iClass"
             },
             {
                 "name": "ExamClock",
@@ -1381,7 +1414,8 @@
                         "display_link": "L33Z22L11/ExamClock",
                         "display_logo": "images/github-icon.svg"
                     }
-                ]
+                ],
+                "github": "L33Z22L11/ExamClock"
             },
             {
                 "name": "Zooni",
@@ -1400,7 +1434,8 @@
                         "display_link": "Xwei1645/Zooni",
                         "display_logo": "images/github-icon.svg"
                     }
-                ]
+                ],
+                "github": "Xwei1645/Zooni"
             },
             {
                 "name": "ElectronClassScheduleX",
@@ -1427,7 +1462,8 @@
                         "display_link": "Enigfrank/ElectronClassScheduleX",
                         "display_logo": "images/github-icon.svg"
                     }
-                ]
+                ],
+                "github": "Enigfrank/ElectronClassScheduleX"
             },
             {
                 "name": "每日作业面板",
@@ -1446,7 +1482,8 @@
                         "display_link": "BearWhite-Z/Daily-Commission-Panel",
                         "display_logo": "images/github-icon.svg"
                     }
-                ]
+                ],
+                "github": "BearWhite-Z/Daily-Commission-Panel"
             },
             {
                 "name": "LanMountainDesktop",
@@ -1472,7 +1509,8 @@
                     }
                 ],
                 "banner": "./banner/LanMountainDesktop.png",
-                "note": "你的桌面，不止一面。"
+                "note": "你的桌面，不止一面。",
+                "github": "wwiinnddyy/LanMountainDesktop"
             }
         ],
         "utilities_and_tools": [
@@ -1501,7 +1539,8 @@
                 ],
                 "tags": [
                     "new_talent"
-                ]
+                ],
+                "github": "RinLit-233-shiroko/PowerPoint-Touch-Assist"
             },
             {
                 "name": "（希沃）定制启动器",
@@ -1541,7 +1580,8 @@
                         "qq_num": "983497968",
                         "qq_link": "https://qm.qq.com/q/f3QGDkdp6M"
                     }
-                ]
+                ],
+                "github": "SRInternet-Studio/Seewo-Custom_Start"
             },
             {
                 "name": "全能班辅",
@@ -1582,7 +1622,8 @@
                 ],
                 "tags": [
                     "new_talent"
-                ]
+                ],
+                "github": "XeonMEMZ/qnbf5"
             },
             {
                 "name": "OpenLuckyRandom",
@@ -1603,7 +1644,8 @@
                 "banner": "https://github.com/WhatDamon/OpenLuckyRandom/raw/main/screenshots/WndMain.png",
                 "tags": [
                     "new_talent"
-                ]
+                ],
+                "github": "WhatDamon/OpenLuckyRandom"
             },
             {
                 "name": "MythwareToolkit",
@@ -1621,7 +1663,8 @@
                         "display_logo": "images/github-icon.svg"
                     }
                 ],
-                "banner": "https://img-blog.csdnimg.cn/60d799d3637b4fe8a99c295a6bad605b.png#pic_center"
+                "banner": "https://img-blog.csdnimg.cn/60d799d3637b4fe8a99c295a6bad605b.png#pic_center",
+                "github": "BengbuGuards/MythwareToolkit"
             },
             {
                 "name": "ENAL 希沃易登",
@@ -1643,7 +1686,8 @@
                     "closed_source",
                     "language",
                     "proprietary_software"
-                ]
+                ],
+                "github": "Awesome-Iwb/EasiAuth"
             },
             {
                 "name": "EasiAuto",
@@ -1672,7 +1716,8 @@
                         "display_logo": "images/github-icon.svg"
                     }
                 ],
-                "banner": "./banner/EasiAutoPoster.png"
+                "banner": "./banner/EasiAutoPoster.png",
+                "github": "hxabcd/EasiAuto"
             },
             {
                 "name": "ex-caller",
@@ -1693,7 +1738,8 @@
                 "banner": "https://github.com/typed-sigterm/ex-caller/raw/main/static/demo.webp",
                 "tags": [
                     "new_talent"
-                ]
+                ],
+                "github": "typed-sigterm/ex-caller"
             },
             {
                 "name": "ClassNamePicker",
@@ -1714,7 +1760,8 @@
                 "banner": "./banner/classnamepicker-screenshot.png",
                 "tags": [
                     "new_talent"
-                ]
+                ],
+                "github": "Chengzi600/ClassNamePicker"
             },
             {
                 "name": "SectionIstool",
@@ -1735,7 +1782,8 @@
                 "tags": [
                     "new_talent",
                     "stopped_updating"
-                ]
+                ],
+                "github": "SECTL/SectionIstool"
             },
             {
                 "name": "CountDownControl",
@@ -1756,7 +1804,8 @@
                 "banner": "https://github.com/cjhdevact/CountDownControl/raw/main/Assets/MainUI.png",
                 "tags": [
                     "new_talent"
-                ]
+                ],
+                "github": "cjhdevact/CountDownControl"
             },
             {
                 "name": "LockTime",
@@ -1777,7 +1826,8 @@
                 "banner": "https://github.com/cjhdevact/LockTime/raw/main/Assets/MainUI.png",
                 "tags": [
                     "new_talent"
-                ]
+                ],
+                "github": "cjhdevact/LockTime"
             },
             {
                 "name": "UsefulControl",
@@ -1798,7 +1848,8 @@
                 "banner": "https://github.com/cjhdevact/UsefulControl/raw/main/Assets/uimain.png",
                 "tags": [
                     "new_talent"
-                ]
+                ],
+                "github": "cjhdevact/UsefulControl"
             },
             {
                 "name": "Rand 抽号器",
@@ -1824,7 +1875,8 @@
                 "banner": "https://github.com/user-attachments/assets/9237f4df-c18e-4015-8b0b-a8d032880676",
                 "tags": [
                     "new_talent"
-                ]
+                ],
+                "github": "LuoYunXi0407/Rand"
             },
             {
                 "name": "NamePicker",
@@ -1862,7 +1914,8 @@
                         "qq_num": "2153027375",
                         "qq_link": "https://qm.qq.com/q/rK6hj5ABNY"
                     }
-                ]
+                ],
+                "github": "NamePickerOrg/NamePicker"
             },
             {
                 "name": "IslandCaller",
@@ -1887,7 +1940,8 @@
                 ],
                 "tags": [
                     "new_talent"
-                ]
+                ],
+                "github": "HUSX100/IslandCaller"
             },
             {
                 "name": "SecRandom",
@@ -1922,7 +1976,8 @@
                         "qq_num": "833875216",
                         "qq_link": "https://qm.qq.com/q/iWcfaPHn7W"
                     }
-                ]
+                ],
+                "github": "SECTL/SecRandom"
             },
             {
                 "name": "RandPicker",
@@ -1956,7 +2011,8 @@
                 "banner": "./banner/randpicker-banner.png",
                 "tags": [
                     "randpicker"
-                ]
+                ],
+                "github": "xuanxuan1231/RandPicker"
             },
             {
                 "name": "SmartBoardTools",
@@ -1980,7 +2036,8 @@
                         "display_logo": "images/github-icon.svg"
                     }
                 ],
-                "banner": "./banner/SmartBoardTools-banner.jpg"
+                "banner": "./banner/SmartBoardTools-banner.jpg",
+                "github": "FeedWhisper5148/SmartBoardTools_OpenSourced"
             },
             {
                 "name": "SeewoSplash",
@@ -2005,7 +2062,8 @@
                         "display_logo": "images/github-icon.svg"
                     }
                 ],
-                "banner": "./banner/SeewoSplash-banner.png"
+                "banner": "./banner/SeewoSplash-banner.png",
+                "github": "fengyec2/custom-seewo-splash-screen"
             },
             {
                 "name": "ClassWebsite",
@@ -2032,7 +2090,8 @@
                         "display_link": "jiugulixiaoniu/CWBS-ClassWebsite",
                         "display_logo": "images/github-icon.svg"
                     }
-                ]
+                ],
+                "github": "jiugulixiaoniu/CWBS-ClassWebsite"
             },
             {
                 "name": "Class-Scoring-Program",
@@ -2051,7 +2110,8 @@
                         "display_link": "andycey/Class-Scoring-Program",
                         "display_logo": "images/github-icon.svg"
                     }
-                ]
+                ],
+                "github": "andycey/Class-Scoring-Program"
             },
             {
                 "name": "沉浸式时钟",
@@ -2078,7 +2138,8 @@
                         "display_logo": "images/github-icon.svg"
                     }
                 ],
-                "banner": "./banner/immersive-clock-banner.jpeg"
+                "banner": "./banner/immersive-clock-banner.jpeg",
+                "github": "QQHKX/Immersive-clock"
             },
             {
                 "name": "沉浸式噪音监测",
@@ -2098,7 +2159,8 @@
                         "display_link": "QQHKX/Immersive-clock-monitor",
                         "display_logo": "images/github-icon.svg"
                     }
-                ]
+                ],
+                "github": "QQHKX/Immersive-clock-monitor"
             },
             {
                 "name": "360拖堂卫士",
@@ -2118,7 +2180,8 @@
                         "display_logo": "images/github-icon.svg"
                     }
                 ],
-                "banner": "./banner/360-Class-Guard-banner.png"
+                "banner": "./banner/360-Class-Guard-banner.png",
+                "github": "BSOD-MEMZ/360-Class-Guard"
             },
             {
                 "name": "教室座位安排系统",
@@ -2137,7 +2200,8 @@
                         "display_link": "xi-guang1/SeatsChanger",
                         "display_logo": "images/github-icon.svg"
                     }
-                ]
+                ],
+                "github": "xi-guang1/SeatsChanger"
             },
             {
                 "name": "ClassAware",
@@ -2156,7 +2220,8 @@
                         "display_link": "unDefFtr/ClassAware",
                         "display_logo": "images/github-icon.svg"
                     }
-                ]
+                ],
+                "github": "unDefFtr/ClassAware"
             },
             {
                 "name": "CsesWebEditor",
@@ -2175,7 +2240,8 @@
                         "display_link": "SmartTeachCN/CsesWebEditor",
                         "display_logo": "images/github-icon.svg"
                     }
-                ]
+                ],
+                "github": "SmartTeachCN/CsesWebEditor"
             },
             {
                 "name": "CSES规范",
@@ -2194,7 +2260,8 @@
                         "display_link": "SmartTeachCN/CSES",
                         "display_logo": "images/github-icon.svg"
                     }
-                ]
+                ],
+                "github": "SmartTeachCN/CSES"
             },
             {
                 "name": "HugoAura",
@@ -2223,7 +2290,8 @@
                         "display_logo": "images/github-icon.svg"
                     }
                 ],
-                "banner": "./banner/seewo-hugoaura-banner.png"
+                "banner": "./banner/seewo-hugoaura-banner.png",
+                "github": "HugoAura/Seewo-HugoAura"
             },
             {
                 "name": "VoiceHub",
@@ -2243,7 +2311,8 @@
                         "display_logo": "images/github-icon.svg"
                     }
                 ],
-                "banner": "./banner/voicehub-banner.png"
+                "banner": "./banner/voicehub-banner.png",
+                "github": "laoshuikaixue/VoiceHub"
             },
             {
                 "name": "学生任务分配系统",
@@ -2262,7 +2331,8 @@
                         "display_link": "VacuolePaoo/stu-task-generate",
                         "display_logo": "images/github-icon.svg"
                     }
-                ]
+                ],
+                "github": "VacuolePaoo/stu-task-generate"
             },
             {
                 "name": "Class-Roster-Picker-NEXT",
@@ -2281,7 +2351,8 @@
                         "display_link": "Yish1/Class-Roster-Picker-NEXT",
                         "display_logo": "images/github-icon.svg"
                     }
-                ]
+                ],
+                "github": "Yish1/Class-Roster-Picker-NEXT"
             },
             {
                 "name": "蓝屏抽奖机",
@@ -2302,7 +2373,8 @@
                         "display_logo": "images/github-icon.svg"
                     }
                 ],
-                "banner": "./banner/lanpingchoujiang-banner.png"
+                "banner": "./banner/lanpingchoujiang-banner.png",
+                "github": "Lanpinggai666/lanpingChouJiang"
             },
             {
                 "name": "考试倒计时桌面小工具",
@@ -2324,7 +2396,8 @@
                         "display_link": "Zpcin/ExaminationCountdown",
                         "display_logo": "images/github-icon.svg"
                     }
-                ]
+                ],
+                "github": "Zpcin/ExaminationCountdown"
             },
             {
                 "name": "国家中小学智慧教育平台电子课本下载工具",
@@ -2350,7 +2423,8 @@
                         "display_link": "Happycola233/tchMaterial-parser",
                         "display_logo": "images/github-icon.svg"
                     }
-                ]
+                ],
+                "github": "Happycola233/tchMaterial-parser"
             },
             {
                 "name": "希沃白板5激活工具",
@@ -2370,7 +2444,8 @@
                         "display_link": "YXC-Lhy/EasiNote-5-Crack-Tool",
                         "display_logo": "images/github-icon.svg"
                     }
-                ]
+                ],
+                "github": "YXC-Lhy/EasiNote-5-Crack-Tool"
             },
             {
                 "name": "SeewoGadgets",
@@ -2389,7 +2464,8 @@
                         "display_link": "Fengyec2/seewo-gadgets",
                         "display_logo": "images/github-icon.svg"
                     }
-                ]
+                ],
+                "github": "Fengyec2/seewo-gadgets"
             },
             {
                 "name": "Luminalium",
@@ -2423,7 +2499,8 @@
                         "display_logo": "images/github-icon.svg"
                     }
                 ],
-                "banner": "./banner/Luminalium-Banner.png"
+                "banner": "./banner/Luminalium-Banner.png",
+                "github": "SECTL/Luminalium"
             },
             {
                 "name": "ClassWindow",
@@ -2448,7 +2525,8 @@
                         "display_logo": "images/github-icon.svg"
                     }
                 ],
-                "banner": "./banner/ClassWindow.png"
+                "banner": "./banner/ClassWindow.png",
+                "github": "xinghai-smartedu/classwindow"
             },
             {
                 "name": "C30 智能教学自动登录工具",
@@ -2478,7 +2556,8 @@
                         "display_link": "WSXYT",
                         "display_logo": "images/github-icon.svg"
                     }
-                ]
+                ],
+                "github": "WSXYT/C30Auto-login"
             },
             {
                 "name": "ClassScreenLock",
@@ -2503,7 +2582,8 @@
                         "display_logo": "images/github-icon.svg"
                     }
                 ],
-                "banner": "./banner/ClassScreenLock.png"
+                "banner": "./banner/ClassScreenLock.png",
+                "github": "ClassScreenLock/ClassScreenLock"
             },
             {
                 "name": "SidebarForClass",
@@ -2523,7 +2603,8 @@
                         "display_logo": "images/github-icon.svg"
                     }
                 ],
-                "banner": "./banner/sidebar-for-class.png"
+                "banner": "./banner/sidebar-for-class.png",
+                "github": "PANDAJSR/sidebar-for-class"
             },
             {
                 "name": "DD-CLASS",
@@ -2547,7 +2628,8 @@
                         "display_logo": "images/github-icon.svg"
                     }
                 ],
-                "banner": "./banner/DD-CLASS.png"
+                "banner": "./banner/DD-CLASS.png",
+                "github": "joyapple/DD-CLASS"
             },
             {
                 "name": "EasiNote Theme Patcher",
@@ -2571,7 +2653,8 @@
                         "display_logo": "images/github-icon.svg"
                     }
                 ],
-                "banner": "./banner/entp.png"
+                "banner": "./banner/entp.png",
+                "github": "BSOD-MEMZ/EasiNote-Theme-Patcher"
             },
             {
                 "name": "SeatingChartEditor2",
@@ -2595,7 +2678,8 @@
                         "display_logo": "images/github-icon.svg"
                     }
                 ],
-                "banner": "./banner/SeatingChartEditor2.jpeg"
+                "banner": "./banner/SeatingChartEditor2.jpeg",
+                "github": "Braydenccc/SeatingChartEditor2"
             },
             {
                 "name": "随机点名Plus 3",
@@ -2617,7 +2701,8 @@
                         "display_logo": "images/github-icon.svg"
                     }
                 ],
-                "banner": "./banner/Random_Choice_Plus_3.png"
+                "banner": "./banner/Random_Choice_Plus_3.png",
+                "github": "Macrohard0001/Random_Choice_Plus_3"
             },
             {
                 "name": "不想排座位",
@@ -2638,7 +2723,8 @@
                         "display_logo": "images/github-icon.svg"
                     }
                 ],
-                "banner": "./banner/不想排座位.png"
+                "banner": "./banner/不想排座位.png",
+                "github": "laosan577622/open_fuckseats"
             }
         ]
     }
