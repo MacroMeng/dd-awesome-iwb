@@ -171,7 +171,7 @@ class Project:
 
     @staticmethod
     def keywords(kws: list[str]):
-        return '\n'.join(
+        return '🏷 **关键词**：<br/>\n' + '\n'.join(
             f'![{keyword}](https://img.shields.io/badge/{keyword}-white)'
             for keyword in kws
         )
