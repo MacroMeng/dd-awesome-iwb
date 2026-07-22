@@ -181,7 +181,7 @@ class Project:
         return '\n\n'.join(f'💬 **{k} 锐评**：{v}' for k, v in cmts.items())
 
     @staticmethod
-    def links(links: dict[str, str]):
+    def links(links: list[dict[str, str]]):
         return """\
 <table>
 {}
@@ -189,10 +189,11 @@ class Project:
 """.format(
             '\n'.join(
                 f"""<tr>
-    <td><img src="{links["display_logo"]}" width="18" height="18"></td>
-    <td><b>{links["display_source"]}</b></td>
-    <td><a href="{links["url"]}">{links["display_link"]}</a></td>
+    <td><img src="{link.get("display_logo", "")}" width="18" height="18"></td>
+    <td><b>{link["display_source"]}</b></td>
+    <td><a href="{link["url"]}">{link["display_link"]}</a></td>
 </tr>"""
+                for link in links
             )
         )
 
@@ -207,13 +208,13 @@ class Project:
              description,
              kws: list[str],
              cmts: dict,
-             links: dict[str, str]):
+             links: list[dict[str, str]]):
         res = StringIO()
 
         for s in (
             cls.header.format(logo=logo, name=name, banner=banner),
             cls.badges.format(gen_tags=gen_tags, github=github, qq_chat=qq_chat),
-            description,
+            description + '\n',
             cls.keywords(kws),
             cls.comments(cmts),
             cls.links(links),
